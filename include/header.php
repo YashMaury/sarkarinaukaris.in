@@ -2018,8 +2018,8 @@
 		<div class="inside-header">
 			<div class="site-branding">
 				<p class="main-title" itemprop="headline">
-					<a href="" rel="home">
-						SARKARI RESULT
+					<a href="index.php" rel="home">
+						SARKARI NAUKARI
 					</a>
 				</p>
 				<p class="site-description" itemprop="description">
