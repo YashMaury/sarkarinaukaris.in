@@ -63,128 +63,128 @@
 																href="east-coast-railway-alp-recruitment-2023/">East
 																Coast Railway Recruitment 2023 ALP, Manager, Tech 781
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 September 2023
+															<span style="color:#333333">Last Date: 4 September 2023
 															</span>
 														</li>
 														<li id="su-post-163777" class="su-post"><a
 																href="south-western-railway-job/">South
 																Western Railway Recruitment 2023 Technician, JE, ALP
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 September 2023
+															<span style="color:#333333">Last Date: 2 September 2023
 															</span>
 														</li>
 														<li id="su-post-163653" class="su-post"><a
 																href="rrc-eastern-railway-notification/">Eastern
 																Railway Recruitment 2023 Tech, ALP, JE, Guard 689
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2023
+															<span style="color:#333333">Last Date: 30 August 2023
 															</span>
 														</li>
 														<li id="su-post-163634" class="su-post"><a
 																href="ncl-hemm-operator-recruitment/">NCL
 																HEMM Operator Recruitment 2023 Apply Online Trainee 338
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 August 2023 </span>
+															<span style="color:#333333">Last Date: 2 August 2023 </span>
 														</li>
 														<li id="su-post-163257" class="su-post"><a
 																href="central-railway-apply-je-tech-alp-1303-post/">Central
 																Railway Recruitment 2023 Apply JE, Tech, ALP 1303
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 Sptember 2023
+															<span style="color:#333333">Last Date: 2 Sptember 2023
 															</span>
 														</li>
 														<li id="su-post-163198" class="su-post"><a
 																href="southern-railway-alp-recruitment/">Southern
 																Railway ALP Recruitment 2023 Apply Guard 790 Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2023
+															<span style="color:#333333">Last Date: 30 August 2023
 															</span>
 														</li>
 														<li id="su-post-163134" class="su-post"><a
 																href="rrc-ncr-gdce-notification/">RRC
 																NCR Recruitment 2023 JE, ALP, Tech, Train Manager 323
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 August 2023
+															<span style="color:#333333">Last Date: 28 August 2023
 															</span>
 														</li>
 														<li id="su-post-162786" class="su-post"><a
 																href="mp-metro-recruitment/">MP
 																Metro Recruitment 2023 Apply Now Asst, Supervisor 152
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 August 2023
+															<span style="color:#333333">Last Date: 31 August 2023
 															</span>
 														</li>
 														<li id="su-post-162546" class="su-post"><a
 																href="rrc-secr-vacancy/">RRC
 																SECR Recruitment 2023 Apply Now JE, Technician, ALP 1016
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 August 2023
+															<span style="color:#333333">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-161469" class="su-post"><a
 																href="rrc-swr-trade-apprentice-online-form/">South
 																Western Railway Recruitment 2023 Trade Apprentice 904
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 August 2023 </span>
+															<span style="color:#333333">Last Date: 2 August 2023 </span>
 														</li>
 														<li id="su-post-160869" class="su-post"><a
 																href="western-railway-trade-apprentice-job/">Western
 																Railway Recruitment 2023 Apply Trade Apprentice 3624
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 July 2023 </span>
+															<span style="color:#333333">Last Date: 26 July 2023 </span>
 														</li>
 														<li id="su-post-160686" class="su-post"><a
 																href="irctc-trade-apprentices-job/">IRCTC
 																Recruitment 2023 Apply Online Trade Apprentices 25
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 June 2023 </span>
+															<span style="color:#333333">Last Date: 29 June 2023 </span>
 														</li>
 														<li id="su-post-160633" class="su-post"><a
 																href="wcr-alp-recruitment/">WCR
 																ALP Recruitment 2023 Apply Now Assistant Loco Pilot 279
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
+															<span style="color:#333333">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-160512" class="su-post"><a
 																href="southern-railway-sta-recruitment/">Southern
 																Railway Recruitment 2023 Sr Technical Associate 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
+															<span style="color:#333333">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-160246" class="su-post"><a
 																href="south-central-railway-jta-notification/">South
 																Central Railway JTA Recruitment 2023 Application Form 35
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
+															<span style="color:#333333">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-159841" class="su-post"><a
 																href="secr-trade-apprentice-online-form/">SECR
 																Trade Apprentice Recruitment 2023 Apply Now 772 Post</a>
-															<span style="color:#ab183d">Last Date: 7 July 2023 </span>
+															<span style="color:#333333">Last Date: 7 July 2023 </span>
 														</li>
 														<li id="su-post-155552" class="su-post"><a
 																href="south-east-central-railway-apply-online/">SECR
 																Recruitment 2023 Apply Online Trade Apprentice 548
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 June 2023 </span>
+															<span style="color:#333333">Last Date: 3 June 2023 </span>
 														</li>
 														<li id="su-post-156752" class="su-post"><a
 																href="gmrc-non-executive-job/">Gujarat
 																Metro Rail Recruitment 2023 Apply Non Executive 424
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 June 2023 </span>
+															<span style="color:#333333">Last Date: 9 June 2023 </span>
 														</li>
 														<li id="su-post-123807" class="su-post"><a
 																href="icf-sports-quota-recruitment/">ICF
 																Sports Quota Recruitment 2023 Application Form 13
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 7 February 2023
+															<span style="color:#333333">Last Date: 7 February 2023
 															</span>
 														</li>
 														<li id="su-post-157298" class="su-post"><a
 																href="mpmrcl-supervisor-job/">MPMRCL
 																Recruitment 2023 Apply Supervisor, Maintainer 57
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 May 2023 </span>
+															<span style="color:#333333">Last Date: 28 May 2023 </span>
 														</li>
 														<li id="su-post-157725" class="su-post"><a
 																href="bmrcl-station-controller-job/">BMRCL
@@ -194,18 +194,18 @@
 																href="rrc-ncr-jta-recruitment/">RRC
 																NCR JTA Recruitment 2023 Apply Jr Technical Associate 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 May 2023 </span>
+															<span style="color:#333333">Last Date: 12 May 2023 </span>
 														</li>
 														<li id="su-post-148937" class="su-post"><a
 																href="rrc-nwr-alp-recruitment/">RRC
 																NWR ALP Recruitment 2023 RRC Jaipur Asst Loco Pilot 238
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 May 2023 </span>
+															<span style="color:#333333">Last Date: 6 May 2023 </span>
 														</li>
 														<li id="su-post-146144" class="su-post"><a
 																href="bmrcl-fireman-recruitment/">BMRCL
 																ASO Recruitment 2023 Apply Online DCFO, DCSO 41 Post</a>
-															<span style="color:#ab183d">Last Date: 20 April 2023 </span>
+															<span style="color:#333333">Last Date: 20 April 2023 </span>
 														</li>
 														<li id="su-post-41519" class="su-post"><a
 																href="rrb-group-d-admit-card-download/">RRB
@@ -216,19 +216,19 @@
 																href="irctc-hospitality-monitor-job/">IRCTC
 																Hospitality Monitor Recruitment 2023 Apply Now 48
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 April 2023 </span>
+															<span style="color:#333333">Last Date: 13 April 2023 </span>
 														</li>
 														<li id="su-post-144378" class="su-post"><a
 																href="irctc-hospitality-monitor-notification/">IRCTC
 																Recruitment 2023 Direct Interview Hospitality Monitor
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 April 2023 </span>
+															<span style="color:#333333">Last Date: 9 April 2023 </span>
 														</li>
 														<li id="su-post-132767" class="su-post"><a
 																href="icf-vacancy/">ICF
 																Recruitment 2023 Application Form Erstwhile Group-D 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 March 2023 </span>
+															<span style="color:#333333">Last Date: 13 March 2023 </span>
 														</li>
 														<li id="su-post-140655" class="su-post"><a
 																href="rail-coach-factory-sonipat/">RCF
@@ -239,19 +239,19 @@
 																href="southern-railway-para-medical-group-c-jobs/">Southern
 																Railway Para Medical Recruitment 2023 Apply Group C
 																Post</a>
-															<span style="color:#ab183d">Last Date: 8 March 2023 </span>
+															<span style="color:#333333">Last Date: 8 March 2023 </span>
 														</li>
 														<li id="su-post-138106" class="su-post"><a
 																href="kmrl-trainee-recruitment/">KMRL
 																Trainee Recruitment 2023 Apply Online Fleet Manager 53
 																Post</a>
-															<span style="color:#ab183d">Last Date: 8 March 2023 </span>
+															<span style="color:#333333">Last Date: 8 March 2023 </span>
 														</li>
 														<li id="su-post-129948" class="su-post"><a
 																href="rcf-kapurthala-trade-apprentice-apply-online/">RCF
 																Kapurthala Recruitment 2023 Apply Trade Apprentice 550
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 March 2023 </span>
+															<span style="color:#333333">Last Date: 4 March 2023 </span>
 														</li>
 														<li id="su-post-132728" class="su-post"><a
 																href="west-central-railway-vacancy/">West
@@ -262,42 +262,42 @@
 																href="rwf-trade-apprentice-vacancy/">Rail
 																Wheel Factory Recruitment 2023 Trade Apprentice 192
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 February 2023
+															<span style="color:#333333">Last Date: 20 February 2023
 															</span>
 														</li>
 														<li id="su-post-122610" class="su-post"><a
 																href="south-eastern-railway-apprentice-job/">South
 																Eastern Railway Apprentice Recruitment 2023 Apply Now
 																1785 Post</a>
-															<span style="color:#ab183d">Last Date: 2 February 2023
+															<span style="color:#333333">Last Date: 2 February 2023
 															</span>
 														</li>
 														<li id="su-post-124656" class="su-post"><a
 																href="bmrcl-vacancy/">BMRCL
 																Recruitment 2023 Apply Online AGM, DGM, Manager 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 February 2023
+															<span style="color:#333333">Last Date: 17 February 2023
 															</span>
 														</li>
 														<li id="su-post-122852" class="su-post"><a
 																href="rrc-north-western-railway-jobs/">North
 																Western Railway Recruitment 2023 Apply Apprentice 2026
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 February 2023
+															<span style="color:#333333">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-127387" class="su-post"><a
 																href="gmrc-technician-apprentice-recruitment/">Gujarat
 																Metro Rail Recruitment 2023 Technician Apprentice 45
 																Post</a>
-															<span style="color:#ab183d">Last Date: 8 February 2023
+															<span style="color:#333333">Last Date: 8 February 2023
 															</span>
 														</li>
 														<li id="su-post-126462" class="su-post"><a
 																href="central-railway-jta-vacancy/">Central
 																Railway JTA Recruitment 2023 Jr Technical Associate
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 January 2023
+															<span style="color:#333333">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-107996" class="su-post"><a
@@ -309,219 +309,219 @@
 																href="southern-railway-sports-quota-apply-online/">Southern
 																Railway Sports Quota Recruitment 2023 Apply Now 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 January 2023
+															<span style="color:#333333">Last Date: 17 January 2023
 															</span>
 														</li>
 														<li id="su-post-122985" class="su-post"><a
 																href="rrc-scr-apprentice-recruitment/">RRC
 																SCR Apprentice Recruitment 2023 Online Application 4103
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 January 2023.
+															<span style="color:#333333">Last Date: 20 January 2023.
 															</span>
 														</li>
 														<li id="su-post-122695" class="su-post"><a
 																href="krcl-technical-assistant-recruitment/">KRCL
 																Technical Assistant Recruitment 2023 Direct Interview 41
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 January 2023
+															<span style="color:#333333">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-122509" class="su-post"><a
 																href="irctc-apprentice-trainee-apply-jobs/">IRCTC
 																Apprentice Trainee Recruitment 2023 Apply Now COPA 25
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 January 2023
+															<span style="color:#333333">Last Date: 12 January 2023
 															</span>
 														</li>
 														<li id="su-post-122330" class="su-post"><a
 																href="gujarat-metro-rail-vacancy/">Gujarat
 																Metro Rail Recruitment 2023 Manager, Engineer 56
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 January 2023
+															<span style="color:#333333">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-121923" class="su-post"><a
 																href="northern-railway-group-c-d-recruitment/">Northern
 																Railway Group C &#038; D Recruitment 2023 Apply Online
 																25 Post</a>
-															<span style="color:#ab183d">Last Date: 28 December 2022
+															<span style="color:#333333">Last Date: 28 December 2022
 															</span>
 														</li>
 														<li id="su-post-121892" class="su-post"><a
 																href="konkan-railway-notification/">KRCL
 																Recruitment 2023 Walk In Interview Account Manager
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 11 January 2023
+															<span style="color:#333333">Last Date: 11 January 2023
 															</span>
 														</li>
 														<li id="su-post-120537" class="su-post"><a
 																href="rrc-central-railway-apprentice-recruitment/">Central
 																Railway Apprentice Recruitment 2023 Apply Now 2422
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 January 2023
+															<span style="color:#333333">Last Date: 15 January 2023
 															</span>
 														</li>
 														<li id="su-post-119146" class="su-post"><a
 																href="jaipur-metro-recruitment-apply/">Jaipur
 																Metro Recruitment 2022 Apply Now Patwari, Tehsildar 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 December 2022
+															<span style="color:#333333">Last Date: 30 December 2022
 															</span>
 														</li>
 														<li id="su-post-118979" class="su-post"><a
 																href="mumbai-metro-recruitment/">MMRCL
 																Recruitment 2023 Apply Manager, GM, DGM, Director 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 January 2023
+															<span style="color:#333333">Last Date: 18 January 2023
 															</span>
 														</li>
 														<li id="su-post-118504" class="su-post"><a
 																href="north-eastern-railway-notification/">North
 																Eastern Railway Recruitment 2022 Apply Sports Quota 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 December 2022
+															<span style="color:#333333">Last Date: 25 December 2022
 															</span>
 														</li>
 														<li id="su-post-118418" class="su-post"><a
 																href="south-western-railway-hubballi/">South
 																Western Railway Recruitment 2022 Apply Group C &#038; D
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 December 2022
+															<span style="color:#333333">Last Date: 19 December 2022
 															</span>
 														</li>
 														<li id="su-post-118125" class="su-post"><a
 																href="rrc-nwr-vacancy/">RRC
 																NWR Recruitment 2022 Group C &#038; D Helper, Clerk
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 December 2022
+															<span style="color:#333333">Last Date: 9 December 2022
 															</span>
 														</li>
 														<li id="su-post-117993" class="su-post"><a
 																href="rrc-wcr-apprentice-recruitment/">RRC
 																WCR Apprentice Recruitment 2022 Apply Online 2521
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 17 December 2022
+															<span style="color:#333333">Last Date: 17 December 2022
 															</span>
 														</li>
 														<li id="su-post-115321" class="su-post"><a
 																href="south-eastern-railway-sports-quota-recruitment/">South
 																Eastern Railway Recruitment 2022 Apply Sports Quota 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 November 2022
+															<span style="color:#333333">Last Date: 14 November 2022
 															</span>
 														</li>
 														<li id="su-post-117065" class="su-post"><a
 																href="south-central-railway-online-form/">South
 																Central Railway Recruitment 2022 Apply Tech III 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-116848" class="su-post"><a
 																href="rrc-wr-vacancy/">Western
 																Railway Recruitment 2022 Apply Online 14 Level 1 &#038;
 																2 Post</a>
-															<span style="color:#ab183d">Last Date: 9 December 2022
+															<span style="color:#333333">Last Date: 9 December 2022
 															</span>
 														</li>
 														<li id="su-post-116228" class="su-post"><a
 																href="rrc-north-eastern-railway-recruitment/">North
 																Eastern Railway Recruitment 2022 Apply Group C &#038; D
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 November 2022
+															<span style="color:#333333">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-116136" class="su-post"><a
 																href="rrc-central-railway-vacancy/">RRC
 																Central Railway Recruitment 2022 Apply Now 596 Post</a>
-															<span style="color:#ab183d">Last Date: 28 November 2022
+															<span style="color:#333333">Last Date: 28 November 2022
 															</span>
 														</li>
 														<li id="su-post-115820" class="su-post"><a
 																href="up-metro-bharti/">UP
 																Metro Recruitment 2022 JE, Assistant, Asst Manager 162
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 November 2022
+															<span style="color:#333333">Last Date: 31 November 2022
 															</span>
 														</li>
 														<li id="su-post-115720" class="su-post"><a
 																href="115720-2/">KMRL
 																Recruitment 2022 Boat Master, Operator, Assistant 39
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 November 2022
+															<span style="color:#333333">Last Date: 2 November 2022
 															</span>
 														</li>
 														<li id="su-post-115587" class="su-post"><a
 																href="plw-recruitment/">PLW
 																Recruitment 2022 Apply Online 311 Trade Apprentice
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 November 2022.
+															<span style="color:#333333">Last Date: 16 November 2022.
 															</span>
 														</li>
 														<li id="su-post-115353" class="su-post"><a
 																href="irctc-apprentice-trainee-recruitment/">IRCTC
 																Recruitment 2022 Apply Online Apprentice Trainee 80
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 October 2022.
+															<span style="color:#333333">Last Date: 25 October 2022.
 															</span>
 														</li>
 														<li id="su-post-115090" class="su-post"><a
 																href="nfr-recruitment/">Northeast
 																Frontier Railway Recruitment 2022 Sports Quota 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 November 2022
+															<span style="color:#333333">Last Date: 7 November 2022
 															</span>
 														</li>
 														<li id="su-post-114861" class="su-post"><a
 																href="southern-railway-sports-quota-recruitment/">Southern
 																Railway Recruitment 2022 Apply Sports Quota Posts</a>
-															<span style="color:#ab183d">Last Date: 8 November 2022
+															<span style="color:#333333">Last Date: 8 November 2022
 															</span>
 														</li>
 														<li id="su-post-114270" class="su-post"><a
 																href="southern-railway-apprentice-apply-online/">Southern
 																Railway Recruitment 2022 Apply 3154 Apprentice Post</a>
-															<span style="color:#ab183d">Last Date: 31 October 2022
+															<span style="color:#333333">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114115" class="su-post"><a
 																href="eastern-railway-apprentice-vacancy/">Eastern
 																Railway Apprentice Recruitment 2022 Apply Now 3115
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 October 2022
+															<span style="color:#333333">Last Date: 29 October 2022
 															</span>
 														</li>
 														<li id="su-post-113702" class="su-post"><a
 																href="kmrl-recruitment/">KMRL
 																Recruitment 2022 Online Application Form Apprentice 35
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 October 2022
+															<span style="color:#333333">Last Date: 25 October 2022
 															</span>
 														</li>
 														<li id="su-post-113434" class="su-post"><a
 																href="kochi-water-metro-recruitment/">Kochi
 																Water Metro Recruitment 2022 Manager, Engineer, Asst 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 October 2022
+															<span style="color:#333333">Last Date: 5 October 2022
 															</span>
 														</li>
 														<li id="su-post-113227" class="su-post"><a
 																href="cmrl-manager-recruitment/">CMRL
 																GM Recruitment 2022 Apply Online Form JGM, DGM Posts</a>
-															<span style="color:#ab183d">Last Date: 24 September 2022
+															<span style="color:#333333">Last Date: 24 September 2022
 															</span>
 														</li>
 														<li id="su-post-113202" class="su-post"><a
 																href="maha-metro-jobs/">MAHA
 																Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 October 2022
+															<span style="color:#333333">Last Date: 1 October 2022
 															</span>
 														</li>
 														<li id="su-post-112333" class="su-post"><a
 																href="central-railway-teaching-recruitment/">Central
 																Railway Teaching Recruitment 2022 Walk In Interview</a>
-															<span style="color:#ab183d">Last Date: 4 October 2022
+															<span style="color:#333333">Last Date: 4 October 2022
 															</span>
 														</li>
 														<li id="su-post-112243" class="su-post"><a
@@ -533,81 +533,81 @@
 																href="irctc-hospitality-monitor-vacancy/">IRCTC
 																Recruitment 2022 Application Form Hospitality Monitor
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 September 2022
+															<span style="color:#333333">Last Date: 16 September 2022
 															</span>
 														</li>
 														<li id="su-post-110699" class="su-post"><a
 																href="rrc-eastern-railway-recruitment/">Eastern
 																Railway Recruitment 2022 Group C Sports Quota 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 September 2022
+															<span style="color:#333333">Last Date: 29 September 2022
 															</span>
 														</li>
 														<li id="su-post-110594" class="su-post"><a
 																href="irctc-hospitality-monitor-recruitment/">IRCTC
 																Hospitality Monitor Recruitment 2022 Apply 70 Posts</a>
-															<span style="color:#ab183d">Last Date: 9 September 2022
+															<span style="color:#333333">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-109391" class="su-post"><a
 																href="wcr-recruitment/">West
 																Central Railway Recruitment 2022 JE, Staff Nurse 102
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 August 2022
+															<span style="color:#333333">Last Date: 15 August 2022
 															</span>
 														</li>
 														<li id="su-post-108791" class="su-post"><a
 																href="ecr-recruitment/">East
 																Central Railway Recruitment 2022 Dresser, OT Asst 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2022
+															<span style="color:#333333">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-100322" class="su-post"><a
 																href="rrc-ncr-prayagraj-recruitment/">North
 																Central Railway Recruitment 2022 Apprentice 1659
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 1 August 2022 </span>
+															<span style="color:#333333">Last Date: 1 August 2022 </span>
 														</li>
 														<li id="su-post-99028" class="su-post"><a
 																href="integral-coach-factory-recruitment/">ICF
 																Recruitment 2022 Apply Online Apprentice 876 Posts</a>
-															<span style="color:#ab183d">Last Date: 26 July 2022 </span>
+															<span style="color:#333333">Last Date: 26 July 2022 </span>
 														</li>
 														<li id="su-post-101521" class="su-post"><a
 																href="railtel-engineer-recruitment/">RailTel
 																Engineer Recruitment 2022 Application Form Manager 37
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
+															<span style="color:#333333">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-101645" class="su-post"><a
 																href="rrc-south-eastern-railway-recruitment/">South
 																Eastern Railway Recruitment 2022 Technical Associate 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 July 202 </span>
+															<span style="color:#333333">Last Date: 18 July 202 </span>
 														</li>
 														<li id="su-post-97737" class="su-post"><a
 																href="north-eastern-railway-jobs/">North
 																Eastern Railway Recruitment 2022 Technical Associate 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 July 2022 </span>
+															<span style="color:#333333">Last Date: 5 July 2022 </span>
 														</li>
 														<li id="su-post-89077" class="su-post"><a
 																href="nfr-vacancy/">Northeast
 																Frontier Railway Recruitment 2022 Apply Online 5636
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
+															<span style="color:#333333">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-88002" class="su-post"><a
 																href="rrc-western-railway-vacancy/">RRC
 																Western Railway Recruitment 2022 Apply Online Apprentice
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 June 2022 </span>
+															<span style="color:#333333">Last Date: 27 June 2022 </span>
 														</li>
 														<li id="su-post-76003" class="su-post"><a
 																href="ministry-of-railway-recruitment/">Ministry
 																of Railway Recruitment 2022 Asst Programmer 17 Post</a>
-															<span style="color:#ab183d">Last Date: 60 Days </span>
+															<span style="color:#333333">Last Date: 60 Days </span>
 														</li>
 														<li id="su-post-21594" class="su-post"><a
 																href="rrb-ntpc-fee-refund/">RRB
@@ -617,64 +617,64 @@
 														<li id="su-post-88992" class="su-post"><a
 																href="secr-apprentice-job/">SECR
 																Apprentice Recruitment 2022 Apply Now 465 Posts</a>
-															<span style="color:#ab183d">Last Date: 22 June 2022 </span>
+															<span style="color:#333333">Last Date: 22 June 2022 </span>
 														</li>
 														<li id="su-post-89121" class="su-post"><a
 																href="mmrda-engineer-recruitment/">MMRDA
 																Engineer Recruitment 2022 Executive Engineer, AE 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 June 2022 </span>
+															<span style="color:#333333">Last Date: 21 June 2022 </span>
 														</li>
 														<li id="su-post-81999" class="su-post"><a
 																href="bmrcl-recruitment/">BMRCL
 																Engineer Recruitment 2022 Apply Now Manager, AEE 35
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 June 2022 </span>
+															<span style="color:#333333">Last Date: 10 June 2022 </span>
 														</li>
 														<li id="su-post-89011" class="su-post"><a
 																href="south-central-railway-vacancy/">South
 																Central Railway Recruitment 2022 Apply Assistant 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 June 2022 </span>
+															<span style="color:#333333">Last Date: 4 June 2022 </span>
 														</li>
 														<li id="su-post-85036" class="su-post"><a
 																href="gmrc-recruitment/">Gujarat
 																Metro Rail Recruitment 2022 Apply Online Apprentice
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
+															<span style="color:#333333">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-81948" class="su-post"><a
 																href="northern-railway-senior-resident-recruitment/">Northern
 																Railway Recruitment 2022 Apply Senior Resident 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 May 2022 </span>
+															<span style="color:#333333">Last Date: 25 May 2022 </span>
 														</li>
 														<li id="su-post-73690" class="su-post"><a
 																href="cris-vacancy/">CRIS
 																Recruitment 2022 Apply Now ASE &#038; ADA 150 Posts</a>
-															<span style="color:#ab183d">Last Date: 24 May 2022 </span>
+															<span style="color:#333333">Last Date: 24 May 2022 </span>
 														</li>
 														<li id="su-post-77275" class="su-post"><a
 																href="secr-apprentice-vacancy/">SECR
 																Apprentice Recruitment 2022 Apply Online 1033 Posts</a>
-															<span style="color:#ab183d">Last Date: 24 May 2022 </span>
+															<span style="color:#333333">Last Date: 24 May 2022 </span>
 														</li>
 														<li id="su-post-78588" class="su-post"><a
 																href="konkan-railway-office-asst-recruitment/">KRCL
 																Office Assistant Recruitment 2022 Walk In Interview</a>
-															<span style="color:#ab183d">Last Date: 18 May 2022 </span>
+															<span style="color:#333333">Last Date: 18 May 2022 </span>
 														</li>
 														<li id="su-post-76012" class="su-post"><a
 																href="cmrl-jobs/">CMRL
 																Recruitment 2022 Application Form Manager, DGM, JGM 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 May 2022 </span>
+															<span style="color:#333333">Last Date: 14 May 2022 </span>
 														</li>
 														<li id="su-post-75099" class="su-post"><a
 																href="konkan-railway-jobs/">Konkan
 																Railway Recruitment 2022 Apply Technical Assistant
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 May 2022 </span>
+															<span style="color:#333333">Last Date: 14 May 2022 </span>
 														</li>
 														<li id="su-post-67774" class="su-post"><a
 																href="eastern-railway-apprentice-recruitment/">Eastern
@@ -685,222 +685,222 @@
 																href="south-east-central-railway-recruitment/">SECR
 																Recruitment 2022 Fitter, Electrician, Stenographer 2077
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 June 2022 </span>
+															<span style="color:#333333">Last Date: 3 June 2022 </span>
 														</li>
 														<li id="su-post-66991" class="su-post"><a
 																href="blw-railway-apprentice-recruitment/">BLW
 																Railway Apprentice Recruitment 2022 Apply Online 374
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
+															<span style="color:#333333">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-65528" class="su-post"><a
 																href="ner-sports-quota-recruitment/">NER
 																Sports Quota Recruitment 2022 Application Form 21
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
+															<span style="color:#333333">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-69888" class="su-post"><a
 																href="south-western-railway-vacancy/">South
 																Western Railway Recruitment 2022 Goods Train Manager 147
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
+															<span style="color:#333333">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-71213" class="su-post"><a
 																href="north-central-railway-jta-recruitment/">North
 																Central Railway Recruitment 2022 Apply Online JTA 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
+															<span style="color:#333333">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-64195" class="su-post"><a
 																href="railtel-apprentice-trainee-recruitment/">RailTel
 																Apprentice Trainee Recruitment 2022 Apply Online 103
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
+															<span style="color:#333333">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-64636" class="su-post"><a
 																href="northeast-frontier-railway-vacancy/">Northeast
 																Frontier Railway Recruitment 2022 Apply Teacher 52
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 April 2022 </span>
+															<span style="color:#333333">Last Date: 1 April 2022 </span>
 														</li>
 														<li id="su-post-61943" class="su-post"><a
 																href="konkan-railway-vacancy/">Konkan
 																Railway Recruitment 2022 Apply Project Engineer, STA
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
+															<span style="color:#333333">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-59296" class="su-post"><a
 																href="rcf-clerk-recruitment/">RCF
 																Clerk Recruitment 2022 Apply Now Technician, Typist 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 March 2022 </span>
+															<span style="color:#333333">Last Date: 21 March 2022 </span>
 														</li>
 														<li id="su-post-60259" class="su-post"><a
 																href="rrc-wcr-recruitment/">West
 																Central Railway Recruitment 2022 Apply Now STA, JTA 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 March 2022 </span>
+															<span style="color:#333333">Last Date: 17 March 2022 </span>
 														</li>
 														<li id="su-post-57279" class="su-post"><a
 																href="central-railway-jta-recruitment/">Central
 																Railway JTA Recruitment 2022 Technical Associate 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 March 2022 </span>
+															<span style="color:#333333">Last Date: 14 March 2022 </span>
 														</li>
 														<li id="su-post-59024" class="su-post"><a
 																href="cmrl-recruitment/">CMRL
 																Recruitment 2022 Application Form Manager, GDM, GM 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 March 2022 </span>
+															<span style="color:#333333">Last Date: 11 March 2022 </span>
 														</li>
 														<li id="su-post-54284" class="su-post"><a
 																href="east-coast-railway-apprentice-recruitment/">East
 																Coast Railway Apprentice Recruitment 2022 Apply 756
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 7 March 2022 </span>
+															<span style="color:#333333">Last Date: 7 March 2022 </span>
 														</li>
 														<li id="su-post-56854" class="su-post"><a
 																href="secr-sports-quota-recruitment/">SECR
 																Sports Quota Recruitment 2022 Apply Online 21 Posts</a>
-															<span style="color:#ab183d">Last Date: 5 March 2022 </span>
+															<span style="color:#333333">Last Date: 5 March 2022 </span>
 														</li>
 														<li id="su-post-51527" class="su-post"><a
 																href="western-railway-para-medical-staff-recruitment/">Western
 																Railway Recruitment 2022 Apply Para Medical Staff 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 February 2022
+															<span style="color:#333333">Last Date: 1 February 2022
 															</span>
 														</li>
 														<li id="su-post-47961" class="su-post"><a
 																href="rail-coach-factory-vacancy/">RCF
 																Apprentice Recruitment 2022 Rail Coach Factory 56
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 January 2022
+															<span style="color:#333333">Last Date: 31 January 2022
 															</span>
 														</li>
 														<li id="su-post-48134" class="su-post"><a
 																href="secr-paramedical-staff-recruitment/">SECR
 																Paramedical Staff Recruitment 2022 Walk In Interview 75
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 January 2022
+															<span style="color:#333333">Last Date: 25 January 2022
 															</span>
 														</li>
 														<li id="su-post-44456" class="su-post"><a
 																href="wcr-sports-quota-recruitment/">WCR
 																Sports Quota Recruitment 2022 Application Form 21
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 January 2022
+															<span style="color:#333333">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-47872" class="su-post"><a
 																href="north-eastern-railway-gateman-recruitment/">North
 																Eastern Railway Gateman Recruitment 2022 Apply Now 323
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 January 2022
+															<span style="color:#333333">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-42951" class="su-post"><a
 																href="bmrcl-engineer-recruitment/">BMRCL
 																Recruitment 2022 Apply Manager, Engineer, AEE, DGM 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 January 2022
+															<span style="color:#333333">Last Date: 17 January 2022
 															</span>
 														</li>
 														<li id="su-post-39683" class="su-post"><a
 																href="north-central-railway-group-c-recruitment/">North
 																Central Railway Group C Recruitment 2021 Apply Now 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 December 2021
+															<span style="color:#333333">Last Date: 25 December 2021
 															</span>
 														</li>
 														<li id="su-post-39171" class="su-post"><a
 																href="ser-goods-guard-recruitment/">SER
 																Goods Guard Recruitment 2021 Apply Online 520 Posts</a>
-															<span style="color:#ab183d">Last Date: 23 December 2021
+															<span style="color:#333333">Last Date: 23 December 2021
 															</span>
 														</li>
 														<li id="su-post-40822" class="su-post"><a
 																href="central-railway-jobs-apply/">Central
 																Railway Recruitment 2021 Apply Now Level 1, Level 2
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 December 2021
+															<span style="color:#333333">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-36686" class="su-post"><a
 																href="south-eastern-railway-apprentice-recruitment/">South
 																Eastern Railway Apprentice Recruitment 2021 Apply 1785
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 December 2021
+															<span style="color:#333333">Last Date: 14 December 2021
 															</span>
 														</li>
 														<li id="su-post-37760" class="su-post"><a
 																href="eastern-railway-group-c-recruitment/">Eastern
 																Railway Group C Recruitment 2021 Appy Online 21
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 11 December 2021
+															<span style="color:#333333">Last Date: 11 December 2021
 															</span>
 														</li>
 														<li id="su-post-31516" class="su-post"><a
 																href="ncr-prayagraj-recruitment/">NCR
 																Prayagraj Recruitment 2021 Apply RRC Prayagraj
 																Apprentice Post</a>
-															<span style="color:#ab183d">Last Date: 1 December 2021
+															<span style="color:#333333">Last Date: 1 December 2021
 															</span>
 														</li>
 														<li id="su-post-37416" class="su-post"><a
 																href="central-railway-teacher-recruitment/">Central
 																Railway Teacher Recruitment 2021 Walk In PGT, TGT 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 November 2021
+															<span style="color:#333333">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-32853" class="su-post"><a
 																href="ser-instructor-recruitment/">SER
 																Instructor Recruitment 2021 Application Form 11
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 18 November 2021
+															<span style="color:#333333">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-30667" class="su-post"><a
 																href="rrc-western-railway-je-recruitment/">RRC
 																Western Railway JE Recruitment 2021 Steno, Translator 80
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 November 2021
+															<span style="color:#333333">Last Date: 21 November 2021
 															</span>
 														</li>
 														<li id="su-post-31664" class="su-post"><a
 																href="bmrcl-assistant-security-officer-recruitment/">BMRCL
 																Assistant Security Officer Recruitment 2021 Apply 37
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 November 2021
+															<span style="color:#333333">Last Date: 17 November 2021
 															</span>
 														</li>
 														<li id="su-post-29172" class="su-post"><a
 																href="west-central-railway-recruitment/">West
 																Central Railway Apprentice Recruitment 2021 Apply 2226
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 10 November 2021
+															<span style="color:#333333">Last Date: 10 November 2021
 															</span>
 														</li>
 														<li id="su-post-28295" class="su-post"><a
 																href="rrc-swr-apprentice-recruitment/">RRC
 																SWR Apprentice Recruitment 2021 Apply Online 904
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 3 November 2021
+															<span style="color:#333333">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-27386" class="su-post"><a
 																href="rrc-er-apprentice-recruitment/">RRC
 																ER Apprentice Recruitment 2021 Apply Online 2945
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 3 November 2021
+															<span style="color:#333333">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-28349" class="su-post"><a
 																href="south-central-railway-apprentice-recruitment/">South
 																Central Railway Apprentice Recruitment 2021 Apply 4103
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 November 2021
+															<span style="color:#333333">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-10772" class="su-post"><a
@@ -911,97 +911,97 @@
 														<li id="su-post-24581" class="su-post"><a
 																href="northern-railway-apprentice-recruitment/">Northern
 																Railway Apprentice Recruitment 2021 Apply 3093 Posts</a>
-															<span style="color:#ab183d">Last Date: 20 October 2021
+															<span style="color:#333333">Last Date: 20 October 2021
 															</span>
 														</li>
 														<li id="su-post-23785" class="su-post"><a
 																href="secr-apprentice-job-apply/">SECR
 																Apprentice Recruitment 2021 Apply Online 339 Posts</a>
-															<span style="color:#ab183d">Last Date: 5 October 2021
+															<span style="color:#333333">Last Date: 5 October 2021
 															</span>
 														</li>
 														<li id="su-post-24749" class="su-post"><a
 																href="clw-apprentice-recruitment/">CLW
 																Apprentice Recruitment 2021 Apply Online 492 Posts</a>
-															<span style="color:#ab183d">Last Date: 3 October 2021
+															<span style="color:#333333">Last Date: 3 October 2021
 															</span>
 														</li>
 														<li id="su-post-23314" class="su-post"><a
 																href="irctc-recruitment/">IRCTC
 																Recruitment 2021 Apply Now Computer Operator 150
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 September 2021
+															<span style="color:#333333">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-23012" class="su-post"><a
 																href="east-central-railway-vacancy/">East
 																Central Railways Recruitment 2021 Mechanic Diesel 30
 																Posts</a>
-															<span style="color:#ab183d">Last Date: Update Soon </span>
+															<span style="color:#333333">Last Date: Update Soon </span>
 														</li>
 														<li id="su-post-22896" class="su-post"><a
 																href="south-central-railway-technician-recruitment/">South
 																Central Railway Recruitment 2021 Apply Technician 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 September 2021
+															<span style="color:#333333">Last Date: 26 September 2021
 															</span>
 														</li>
 														<li id="su-post-22466" class="su-post"><a
 																href="konkan-railway-walk-in-interview/">Konkan
 																Railway Recruitment 2021 Technical Asst Walk In
 																Interview</a>
-															<span style="color:#ab183d">Last Date: 25 September 2021
+															<span style="color:#333333">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-22297" class="su-post"><a
 																href="wcr-teacher-recruitment/">WCR
 																Teacher Recruitment 2021 Direct Interview TGT &#038; PGT
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 August to 28
+															<span style="color:#333333">Last Date: 27 August to 28
 																August 2021 </span>
 														</li>
 														<li id="su-post-20676" class="su-post"><a
 																href="north-central-railway/">North
 																Central Railway Recruitment 2021 Apply Apprentice 1664
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 September 2021
+															<span style="color:#333333">Last Date: 1 September 2021
 															</span>
 														</li>
 														<li id="su-post-20705" class="su-post"><a
 																href="rrc-western-railway-recruitment/">RRC
 																Western Railway Recruitment 2021 Apply Now Group C
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 September 2021
+															<span style="color:#333333">Last Date: 3 September 2021
 															</span>
 														</li>
 														<li id="su-post-19497" class="su-post"><a
 																href="wcr-station-master-recruitment/">WCR
 																Station Master Recruitment 2021 Apply Online 38
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 25 July 2021 </span>
+															<span style="color:#333333">Last Date: 25 July 2021 </span>
 														</li>
 														<li id="su-post-18200" class="su-post"><a
 																href="western-railway-teacher-recruitment/">Western
 																Railway Teacher Recruitment 2021 Apply Now TGT 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 June 2021 </span>
+															<span style="color:#333333">Last Date: 10 June 2021 </span>
 														</li>
 														<li id="su-post-18118" class="su-post"><a
 																href="krcl-vacancy/">Konkan
 																Railway Recruitment 2021 Manager, Accounts Asst 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 July 2021 </span>
+															<span style="color:#333333">Last Date: 1 July 2021 </span>
 														</li>
 														<li id="su-post-17938" class="su-post"><a
 																href="southern-railway-apprentice-recruitment/">Southern
 																Railway Apprentice Recruitment 2021 Apply 3378 Posts</a>
-															<span style="color:#ab183d">Last Date: 30 June 2021 </span>
+															<span style="color:#333333">Last Date: 30 June 2021 </span>
 														</li>
 														<li id="su-post-17606" class="su-post"><a
 																href="western-railway-apprentice-recruitment/">Western
 																Railway Apprentice Recruitment 2021 Apply Now 3591
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 June 2021 </span>
+															<span style="color:#333333">Last Date: 24 June 2021 </span>
 														</li>
 														<li id="su-post-5886" class="su-post"><a
 																href="rrb-ntpc-admit-card/">RRB
@@ -1012,44 +1012,44 @@
 																href="south-central-railway-jobs/">SCR
 																Paramedical Staff Recruitment 2021 Application Form 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
+															<span style="color:#333333">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-17206" class="su-post"><a
 																href="integral-coach-factory/">ICF
 																Recruitment 2021 Apply Online Staff Nurse, Assistant 39
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 May 2021 </span>
+															<span style="color:#333333">Last Date: 13 May 2021 </span>
 														</li>
 														<li id="su-post-17178" class="su-post"><a
 																href="western-railway-jobs/">Western
 																Railway Recruitment 2021 Attendant, Nursing 27 Post</a>
-															<span style="color:#ab183d">Last Date: 11 May 2021 </span>
+															<span style="color:#333333">Last Date: 11 May 2021 </span>
 														</li>
 														<li id="su-post-17142" class="su-post"><a
 																href="nfr-paramedical-staff-recruitment/">NFR
 																Paramedical Staff Recruitment 2021 Apply Online 15
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
+															<span style="color:#333333">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-17080" class="su-post"><a
 																href="chennai-metro/">CMRL
 																Recruitment 2021 Manager, DGM, AGM, Officer 11 Post</a>
-															<span style="color:#ab183d">Last Date: 2 June 2021 </span>
+															<span style="color:#333333">Last Date: 2 June 2021 </span>
 														</li>
 														<li id="su-post-16893" class="su-post"><a
 																href="northern-railway-vacancy/">Northern
 																Railway Recruitment 2021 Paramedical Staff 80 Posts</a>
-															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
+															<span style="color:#333333">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-16776" class="su-post"><a
 																href="southern-railway-job-vacancy/">Southern
 																Railway Recruitment 2021 Para Medical Staff 191 Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
+															<span style="color:#333333">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-16696" class="su-post"><a
 																href="maha-metro-vacancy/">Maha
 																Metro Recruitment 2021 Apply Now JE, Manager 14 Post</a>
-															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
+															<span style="color:#333333">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-13645" class="su-post"><a
 																href="railway-blw-apprentice-recruitment/">Railway
@@ -1059,36 +1059,36 @@
 																href="wcr-kota-apprentice-recruitment/">WCR
 																Kota Apprentice Recruitment 2021 Steno, Mechanic 716
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
+															<span style="color:#333333">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15839" class="su-post"><a
 																href="northeast-frontier-railway/">Northeast
 																Frontier Railway Recruitment 2021 JE, Helper 370
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
+															<span style="color:#333333">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15641" class="su-post"><a
 																href="east-central-railway-recruitment/">East
 																Central Railway Recruitment 2021 Ticket Clerk 61
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
+															<span style="color:#333333">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15633" class="su-post"><a
 																href="central-railway-paramedical-staff-recruitment/">Central
 																Railway Recruitment 2021 Apply Paramedical Staff 52
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2021 </span>
+															<span style="color:#333333">Last Date: 31 March 2021 </span>
 														</li>
 														<li id="su-post-15564" class="su-post"><a
 																href="wcr-apprentice-recruitment/">WCR
 																Apprentice Recruitment 2021 Apply Online 680 Posts</a>
-															<span style="color:#ab183d">Last Date: 5 April 2021 </span>
+															<span style="color:#333333">Last Date: 5 April 2021 </span>
 														</li>
 														<li id="su-post-15442" class="su-post"><a
 																href="rrc-ser-recruitment/">RRC
 																SCR Recruitment 2021 Apply JE, Steno, Translator 96
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2021 </span>
+															<span style="color:#333333">Last Date: 14 April 2021 </span>
 														</li>
 														<li id="su-post-15153" class="su-post"><a
 																href="konkan-railway-technical-asst-recruitment/">Konkan
@@ -1098,90 +1098,90 @@
 																href="dmw-patiala-recruitment/">DMW
 																Patiala Recruitment 2021 Apply Online Apprentice 182
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2021 </span>
+															<span style="color:#333333">Last Date: 31 March 2021 </span>
 														</li>
 														<li id="su-post-13960" class="su-post"><a
 																href="central-railway-apprentice-recruitment/">Central
 																Railway Apprentice Recruitment 2021 Apply 2532 Post</a>
-															<span style="color:#ab183d">Last Date: 5 March 2021 </span>
+															<span style="color:#333333">Last Date: 5 March 2021 </span>
 														</li>
 														<li id="su-post-13741" class="su-post"><a
 																href="secr-recruitment/">SECR
 																Recruitment 2021 Apply Sports Quota Group C 26 Posts</a>
-															<span style="color:#ab183d">Last Date: 23 February 2021
+															<span style="color:#333333">Last Date: 23 February 2021
 															</span>
 														</li>
 														<li id="su-post-12693" class="su-post"><a
 																href="konkan-railway-je-recruitment/">Konkan
 																Railway JE Recruitment 2021 Junior Engineer 10 Posts</a>
-															<span style="color:#ab183d">Last Date: 15 January 2021
+															<span style="color:#333333">Last Date: 15 January 2021
 															</span>
 														</li>
 														<li id="su-post-12300" class="su-post"><a
 																href="swr-apprentice-recruitment/">SWR
 																Apprentice Recruitment 2021 RRC Hubli Apprentice 1004
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 January 2021
+															<span style="color:#333333">Last Date: 9 January 2021
 															</span>
 														</li>
 														<li id="su-post-11813" class="su-post"><a
 																href="south-western-railway-recruitment/">South
 																Western Railway Recruitment 2020 Apply Group C 21
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 28 December 2020
+															<span style="color:#333333">Last Date: 28 December 2020
 															</span>
 														</li>
 														<li id="su-post-10858" class="su-post"><a
 																href="mcf-raebareli-recruitment/">MCF
 																Raebareli Recruitment 2020 Apply Online Apprentice 110
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 December 2020
+															<span style="color:#333333">Last Date: 2 December 2020
 															</span>
 														</li>
 														<li id="su-post-6933" class="su-post"><a
 																href="south-east-central-railway/">South
 																East Central Railway Recruitment 2020 Apprentice 432
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 1 December 2020
+															<span style="color:#333333">Last Date: 1 December 2020
 															</span>
 														</li>
 														<li id="su-post-10875" class="su-post"><a
 																href="secr-apprentice-recruitment/">SECR
 																Apprentice Recruitment 2020 Apply Online 413 Post</a>
-															<span style="color:#ab183d">Last Date: 12 December 2020
+															<span style="color:#333333">Last Date: 12 December 2020
 															</span>
 														</li>
 														<li id="su-post-10708" class="su-post"><a
 																href="konkan-railway-recruitment/">Konkan
 																Railway Recruitment 2020 KRCL Technician 58 Post</a>
-															<span style="color:#ab183d">Last Date: 27 November 2020
+															<span style="color:#333333">Last Date: 27 November 2020
 															</span>
 														</li>
 														<li id="su-post-9787" class="su-post"><a
 																href="secl-recruitment/">SECL
 																Recruitment 2020 DEO, Staff Nurse, Inspector 310
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 October 2020
+															<span style="color:#333333">Last Date: 29 October 2020
 															</span>
 														</li>
 														<li id="su-post-9177" class="su-post"><a
 																href="central-railway-junior-clerk-vacancy/">Central
 																Railway Recruitment 2020 Apply Junior Clerk 251 Post</a>
-															<span style="color:#ab183d">Last Date: 5 October 2020
+															<span style="color:#333333">Last Date: 5 October 2020
 															</span>
 														</li>
 														<li id="su-post-8869" class="su-post"><a
 																href="rrb-ntpc-application-status/">RRB
 																NTPC Application Status 2020 Link Check CEN 01/2019
 																Status Date</a>
-															<span style="color:#ab183d">Last Date: 30 September 2020
+															<span style="color:#333333">Last Date: 30 September 2020
 															</span>
 														</li>
 														<li id="su-post-8517" class="su-post"><a
 																href="north-eastern-railway-recruitment/">North
 																Eastern Railway PGT, TGT Interview Result 2020 Check
 																Here</a>
-															<span style="color:#ab183d">Last Date: 21 September 2020
+															<span style="color:#333333">Last Date: 21 September 2020
 															</span>
 														</li>
 														<li id="su-post-4669" class="su-post"><a
@@ -1192,33 +1192,33 @@
 																href="rrc-ser-instructor-vacancy/">South
 																Eastern Railway Instructor Recruitment 2020 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 7 September 2020
+															<span style="color:#333333">Last Date: 7 September 2020
 															</span>
 														</li>
 														<li id="su-post-7870" class="su-post"><a
 																href="southern-railway-paramedical-recruitment/">Southern
 																Railway Recruitment 2020 Apply Paramedical 201 Post</a>
-															<span style="color:#ab183d">Last Date: 14 August 2020
+															<span style="color:#333333">Last Date: 14 August 2020
 															</span>
 														</li>
 														<li id="su-post-6488" class="su-post"><a
 																href="western-railway-jta-recruitment/">Western
 																Railway JTA Recruitment 2020 Technical Associate
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 August 2020
+															<span style="color:#333333">Last Date: 22 August 2020
 															</span>
 														</li>
 														<li id="su-post-5996" class="su-post"><a
 																href="south-central-railway/">South
 																Central Railway Recruitment 2020 Apply Online 110
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
+															<span style="color:#333333">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-3009" class="su-post"><a
 																href="railway-clerk-alp-tc-jobs/">South
 																Eastern Railway Clerk Recruitment 2020 Apply 617
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
+															<span style="color:#333333">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-5260" class="su-post"><a
 																href="rrc-jaipur-vacancy/">RRC
@@ -1229,61 +1229,61 @@
 																href="north-central-railway-recruitment/">North
 																Central Railway Recruitment 2020 Apprentice 196
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
+															<span style="color:#333333">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-3946" class="su-post"><a
 																href="rrc-wr-recruitment/">RRC
 																WR Clerk Recruitment 2020 Apply Now Group C &#038; D 42
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 June 2020 </span>
+															<span style="color:#333333">Last Date: 13 June 2020 </span>
 														</li>
 														<li id="su-post-3464" class="su-post"><a
 																href="southern-railway-para-medical-staff-recruitment/">Southern
 																Railway Para Medical Staff Recruitment 2020 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 22 April 2020 </span>
+															<span style="color:#333333">Last Date: 22 April 2020 </span>
 														</li>
 														<li id="su-post-3379" class="su-post"><a
 																href="western-railway-recruitment/">Western
 																Railway Staff Nurse Recruitment 2020 Apply 18 Posts</a>
-															<span style="color:#ab183d">Last Date: 19 April 2020 </span>
+															<span style="color:#333333">Last Date: 19 April 2020 </span>
 														</li>
 														<li id="su-post-3358" class="su-post"><a
 																href="northern-railway-job-vacancy/">Northern
 																Railway Recruitment 2020 GDMO,Staff Nurse 134 Post</a>
-															<span style="color:#ab183d">Last Date: 17 April 2020 </span>
+															<span style="color:#333333">Last Date: 17 April 2020 </span>
 														</li>
 														<li id="su-post-3330" class="su-post"><a
 																href="rrc-central-railway-recruitment/">RRC
 																Central Railway Recruitment 2020 Attendant, Asst 92
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 April 2020 </span>
+															<span style="color:#333333">Last Date: 20 April 2020 </span>
 														</li>
 														<li id="su-post-3304" class="su-post"><a
 																href="southern-railway-paramedical-jobs/">Southern
 																Railway Paramedical Recruitment 2020 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 17 April 2020 </span>
+															<span style="color:#333333">Last Date: 17 April 2020 </span>
 														</li>
 														<li id="su-post-3299" class="su-post"><a
 																href="rrc-bilaspur-recruitment/">RRC
 																Bilaspur Recruitment 2020 RRC SECR Group C 103 Posts</a>
-															<span style="color:#ab183d">Last Date: 13 April 2020 </span>
+															<span style="color:#333333">Last Date: 13 April 2020 </span>
 														</li>
 														<li id="su-post-3283" class="su-post"><a
 																href="secr-staff-nurse-recruitment/">RRC
 																SECR Staff Nurse Recruitment 2020 Apply Online 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2020 </span>
+															<span style="color:#333333">Last Date: 14 April 2020 </span>
 														</li>
 														<li id="su-post-3220" class="su-post"><a
 																href="northern-railway-recruitment/">Northern
 																Railway Staff Nurse Recruitment 2020 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 7 April 2020 </span>
+															<span style="color:#333333">Last Date: 7 April 2020 </span>
 														</li>
 														<li id="su-post-2533" class="su-post"><a
 																href="central-railway-recruitment/">Central
 																Railway Recruitment 2020 Apply Online JTO 37 Posts</a>
-															<span style="color:#ab183d">Last Date: 6 March 2020 </span>
+															<span style="color:#333333">Last Date: 6 March 2020 </span>
 														</li>
 														<li id="su-post-2515" class="su-post"><a
 																href="south-eastern-railway-recruitment/">South
@@ -1293,7 +1293,7 @@
 														<li id="su-post-1795" class="su-post"><a
 																href="ecr-group-d-jobs/">East
 																Central Railway Recruitment 2020 Group D 447 Post</a>
-															<span style="color:#ab183d">Last Date: 20 February 2020
+															<span style="color:#333333">Last Date: 20 February 2020
 															</span>
 														</li>
 													</ul>

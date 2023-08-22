@@ -1192,7 +1192,7 @@
 		}
 
 		.site-header {
-			background-color: #ab183d;
+			background-color: #4285f4;
 		}
 
 		.main-title a,

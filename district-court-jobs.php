@@ -60,68 +60,68 @@
 														<li id="su-post-163330" class="su-post"><a
 																href="khordha-court-recruitment/">Khordha
 																Court Recruitment 2023 Apply Now Group C 39 Post</a>
-															<span style="color:#ab183d">Last Date: 1 September 2023
+															<span style="color:#333333">Last Date: 1 September 2023
 															</span>
 														</li>
 														<li id="su-post-163122" class="su-post"><a
 																href="gurdaspur-court-stenographer-recruitment/">Gurdaspur
 																Court Stenographer Recruitment 2023 Apply Form 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 August 2023
+															<span style="color:#333333">Last Date: 14 August 2023
 															</span>
 														</li>
 														<li id="su-post-160746" class="su-post"><a
 																href="bilaspur-court-driver-recruitment/">Bilaspur
 																Court Recruitment 2023 Waterman, Driver, Sweeper 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 July 2023 </span>
+															<span style="color:#333333">Last Date: 10 July 2023 </span>
 														</li>
 														<li id="su-post-159973" class="su-post"><a
 																href="raigarh-court-peon-driver-job/">District
 																Court Raigarh Recruitment 2023 Apply Peon, Driver
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 June 2023 </span>
+															<span style="color:#333333">Last Date: 24 June 2023 </span>
 														</li>
 														<li id="su-post-159758" class="su-post"><a
 																href="namakkal-court-peon-recruitment/">Namakkal
 																Court Recruitment 2023 Asst, Peon, Receptionist Post</a>
-															<span style="color:#ab183d">Last Date: 16 June 2023 </span>
+															<span style="color:#333333">Last Date: 16 June 2023 </span>
 														</li>
 														<li id="su-post-158940" class="su-post"><a
 																href="palwal-court-driver-jobs-apply-now/">Palwal
 																Court Recruitment 2023 Application Form Driver 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 June 2023 </span>
+															<span style="color:#333333">Last Date: 26 June 2023 </span>
 														</li>
 														<li id="su-post-158931" class="su-post"><a
 																href="jhajjar-court-lift-operator-job/">Jhajjar
 																Court Recruitment 2023 Apply Lift Operator 07 Post</a>
-															<span style="color:#ab183d">Last Date: 6 June 2023 </span>
+															<span style="color:#333333">Last Date: 6 June 2023 </span>
 														</li>
 														<li id="su-post-123293" class="su-post"><a
 																href="biswanath-court-peon-recruitment/">Biswanath
 																Court Peon Recruitment 2023 Driver, Chowkidar 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 February 2023
+															<span style="color:#333333">Last Date: 3 February 2023
 															</span>
 														</li>
 														<li id="su-post-157751" class="su-post"><a
 																href="mysore-court-peon-recruitment/">Mysore
 																Court Recruitment 2023 Peon, Stenographer, Typist 59
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 July 2023 </span>
+															<span style="color:#333333">Last Date: 4 July 2023 </span>
 														</li>
 														<li id="su-post-147535" class="su-post"><a
 																href="eastkhasi-hills-district-court-recruitment/">East
 																Khasi Hills Court Recruitment 2023 Peon, Driver, Mali 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2023.
+															<span style="color:#333333">Last Date: 14 April 2023.
 															</span>
 														</li>
 														<li id="su-post-139729" class="su-post"><a
 																href="balrampur-ramanujganj-balrampur-court/">Balrampur
 																Court Recruitment 2023 Waterman, Sweeper 14 Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+															<span style="color:#333333">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-139640" class="su-post"><a
 																href="faridabad-court/">Faridabad
@@ -132,143 +132,143 @@
 																href="barnala-court-peon-recruitment/">Barnala
 																Court Peon Recruitment 2023 Application Form 03
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 10 March 2023 </span>
+															<span style="color:#333333">Last Date: 10 March 2023 </span>
 														</li>
 														<li id="su-post-136052" class="su-post"><a
 																href="tarn-taran-court-notification/">Tarn
 																Taran Court Recruitment 2023 Peon, Process Server 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 March 2023 </span>
+															<span style="color:#333333">Last Date: 6 March 2023 </span>
 														</li>
 														<li id="su-post-131035" class="su-post"><a
 																href="belagavi-court-application-form/">Belagavi
 																Court Recruitment 2023 Process Server, Peon Posts</a>
-															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
+															<span style="color:#333333">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-133431" class="su-post"><a
 																href="panipat-court-vacancy/">Panipat
 																Court Recruitment 2023 Peon, Chowkidar, Waterman 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
+															<span style="color:#333333">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-135248" class="su-post"><a
 																href="chandigarh-court-peon-recruitment/">Chandigarh
 																Court Recruitment 2023 Peon, Process Server 02 Post</a>
-															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
+															<span style="color:#333333">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-126460" class="su-post"><a
 																href="hazaribag-court-recruitment/">Hazaribag
 																Court Recruitment 2023 Peon, Driver, Sweeper 102
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-126622" class="su-post"><a
 																href="west-singhbhum-court-recruitment/">West
 																Singhbhum District Court Recruitment 2023 Apply Driver
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-126509" class="su-post"><a
 																href="dumka-court-recruitment/">Dumka
 																Court Recruitment 2023 Apply Peon, Sweeper, Driver 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 February 2023
+															<span style="color:#333333">Last Date: 25 February 2023
 															</span>
 														</li>
 														<li id="su-post-126818" class="su-post"><a
 																href="east-singhbhum-court-recruitment/">East
 																Singhbhum Court Recruitment 2023 Apply Peon, Driver 46
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 February 2023
+															<span style="color:#333333">Last Date: 17 February 2023
 															</span>
 														</li>
 														<li id="su-post-126336" class="su-post"><a
 																href="ambala-court-process-server-jobs/">Ambala
 																Court Process Server Recruitment 2023 Apply Form</a>
-															<span style="color:#ab183d">Last Date: 15 February 2023
+															<span style="color:#333333">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-129922" class="su-post"><a
 																href="surat-court-jobs/">Surat
 																Court Recruitment 2023 Application Form Stenographer
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 February 2023
+															<span style="color:#333333">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-126319" class="su-post"><a
 																href="bhiwani-court-peon-recruitment/">Bhiwani
 																Court Recruitment 2023 Apply Peon, Process Server 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 February 2023
+															<span style="color:#333333">Last Date: 20 February 2023
 															</span>
 														</li>
 														<li id="su-post-130020" class="su-post"><a
 																href="kapurthala-court-notification/">Kapurthala
 																Court Recruitment 2023 Process Server, Peon 08 Post</a>
-															<span style="color:#ab183d">Last Date: 10 February 2023
+															<span style="color:#333333">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-127362" class="su-post"><a
 																href="rewari-court-peon-recruitment/">Rewari
 																Court Peon Recruitment 2023 Apply Process Server 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 February 2023
+															<span style="color:#333333">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-126800" class="su-post"><a
 																href="gumla-court-vacancy/">Gumla
 																Court Recruitment 2023 Application Form Peon, Drive 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 February 2023
+															<span style="color:#333333">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-126528" class="su-post"><a
 																href="dumka-court-vacancy/">Bareilly
 																Court Recruitment 2023 Assistant, Stenographer 62
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 February 2023
+															<span style="color:#333333">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-128349" class="su-post"><a
 																href="jashpur-court-notification/">Jashpur
 																Court Recruitment 2023 Steno, Typist, Writer 15 Post</a>
-															<span style="color:#ab183d">Last Date: 6 February 2023
+															<span style="color:#333333">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-128795" class="su-post"><a
 																href="sangrur-court-peon-vacancy/">Sangrur
 																Court Recruitment 2023 Apply Peon, Process Server 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 February 2023
+															<span style="color:#333333">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-124623" class="su-post"><a
 																href="pratapgarh-court-recruitment/">Pratapgarh
 																Court Recruitment 2023 Sweeper cum Farrash 06 Post</a>
-															<span style="color:#ab183d">Last Date: 25 January 2023
+															<span style="color:#333333">Last Date: 25 January 2023
 															</span>
 														</li>
 														<li id="su-post-124343" class="su-post"><a
 																href="bathinda-court-process-server-recruitment/">Bathinda
 																Court Process Server Recruitment 2023 Apply Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 January 2023
+															<span style="color:#333333">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-124292" class="su-post"><a
 																href="yamunanagar-court-peon-vacancy/">Yamunanagar
 																Court Peon Recruitment 2023 Process Server, Sweeper
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 January 2023
+															<span style="color:#333333">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-123291" class="su-post"><a
 																href="bajali-court-clerk-recruitment/">Bajali
 																Court Clerk Recruitment 2023 Apply Process Server 05
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 January 2023
+															<span style="color:#333333">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-123285" class="su-post"><a
@@ -280,168 +280,168 @@
 																href="bajali-court-peon-recruitment/">Bajali
 																Court Peon Recruitment 2023 Application Form Chowkidar
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 January 2023
+															<span style="color:#333333">Last Date: 24 January 2023
 															</span>
 														</li>
 														<li id="su-post-119565" class="su-post"><a
 																href="rupnagar-court-process-server-recruitment/">Rupnagar
 																Court Process Server Recruitment 2022 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-119218" class="su-post"><a
 																href="gurugram-court-clerk-job/">Gurugram
 																Court Clerk Recruitment 2022 Application Form 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-119069" class="su-post"><a
 																href="tarn-taran-district-court-online-form/">Tarn
 																Taran Court Recruitment 2022 Application Form 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118559" class="su-post"><a
 																href="patiala-court-lift-operator-bharti/">Patiala
 																Court Recruitment 2022 Apply Now Lift Operator 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2022
+															<span style="color:#333333">Last Date: 3 December 2022
 															</span>
 														</li>
 														<li id="su-post-118259" class="su-post"><a
 																href="barnala-court-clerk-vacancy/">Barnala
 																Court Clerk Recruitment 2022 Application Form 05
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-117428" class="su-post"><a
 																href="kannauj-court-recruitment/">Kannauj
 																Court Recruitment 2022 Apply Now Stenographer Post</a>
-															<span style="color:#ab183d">Last Date: 21 November 2022
+															<span style="color:#333333">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-117080" class="su-post"><a
 																href="medak-court-recruitment/">Medak
 																Court Recruitment 2022 Driver, Asst, Stenogarpher 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 November 2022
+															<span style="color:#333333">Last Date: 26 November 2022
 															</span>
 														</li>
 														<li id="su-post-116951" class="su-post"><a
 																href="hojai-court-recruitment/">Hojai
 																Court Recruitment 2022 Peon, Driver, Steno, TA 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116920" class="su-post"><a
 																href="manipuri-district-court-vacancy/">Manipuri
 																Court Recruitment 2022 Clerk &#038; Stenographer 37
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116923" class="su-post"><a
 																href="jharsuguda-court-recruitment/">Jharsuguda
 																Court Recruitment 2022 Application Form Driver Post</a>
-															<span style="color:#ab183d">Last Date: 5 December 2022
+															<span style="color:#333333">Last Date: 5 December 2022
 															</span>
 														</li>
 														<li id="su-post-116611" class="su-post"><a
 																href="biswanath-court-vacancy/">Biswanath
 																Court Recruitment 2022 Driver, Peon, Chowkidar 04
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 November 2022
+															<span style="color:#333333">Last Date: 16 November 2022
 															</span>
 														</li>
 														<li id="su-post-114431" class="su-post"><a
 																href="jashpur-court-recruitment/">Jashpur
 																Court Recruitment 2022 Steno,Typist, Accountant 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 October 2022
+															<span style="color:#333333">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114395" class="su-post"><a
 																href="fazilka-court-peon-vacancy/">Fazilka
 																Court Peon Recruitment 2022 Apply Now Class-IV 04
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 October 2022
+															<span style="color:#333333">Last Date: 15 October 2022
 															</span>
 														</li>
 														<li id="su-post-113067" class="su-post"><a
 																href="bajali-court-recruitment/">Bajali
 																Court Recruitment 2022 Application Form Driver 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 October 2022
+															<span style="color:#333333">Last Date: 1 October 2022
 															</span>
 														</li>
 														<li id="su-post-113062" class="su-post"><a
 																href="mansa-court-clerk-recruitment/">Mansa
 																Court Clerk Recruitment 2022 Application Form 09
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 October 2022
+															<span style="color:#333333">Last Date: 10 October 2022
 															</span>
 														</li>
 														<li id="su-post-112672" class="su-post"><a
 																href="chikkamagaluru-court-peon-recruitment/">Chikkamagaluru
 																Court Recruitment 2022 Application Form Peon Post</a>
-															<span style="color:#ab183d">Last Date: 15 September 2022
+															<span style="color:#333333">Last Date: 15 September 2022
 															</span>
 														</li>
 														<li id="su-post-112414" class="su-post"><a
 																href="bihar-civil-court-advt-01-04-2022/">Bihar
 																Civil Court Recruitment 2022 Apply 7692 Clerk, Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 October 2022
+															<span style="color:#333333">Last Date: 20 October 2022
 															</span>
 														</li>
 														<li id="su-post-111985" class="su-post"><a
 																href="amritsar-court-peon-recruitment/">Amritsar
 																Court Peon Recruitment 2022 Application Form</a>
-															<span style="color:#ab183d">Last Date: 23 September 2022
+															<span style="color:#333333">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111484" class="su-post"><a
 																href="south-sikkim-court-recruitment/">South
 																Sikkim Court Recruitment 2022 Apply Group C &#038; D 34
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 September 2022
+															<span style="color:#333333">Last Date: 19 September 2022
 															</span>
 														</li>
 														<li id="su-post-111462" class="su-post"><a
 																href="gangtok-court-recruitment/">Gangtok
 																Court Recruitment 2022 Apply Now 29 Group C &#038; D
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 September 2022
+															<span style="color:#333333">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111422" class="su-post"><a
 																href="nagapattinam-court-recruitment/">Nagapattinam
 																Court Recruitment 2022 Typist, Steno Typist 22 Post</a>
-															<span style="color:#ab183d">Last Date: 9 September 2022
+															<span style="color:#333333">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-109650" class="su-post"><a
 																href="mansa-court-lift-operator-recruitment/">Mansa
 																Court Recruitment 2022 Application Form Lift Operator
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 August 2022
+															<span style="color:#333333">Last Date: 22 August 2022
 															</span>
 														</li>
 														<li id="su-post-110667" class="su-post"><a
 																href="barnala-court-clerk-recruitment/">Barnala
 																Court Clerk Recruitment 2022 Application Form 12
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 3 September 2022
+															<span style="color:#333333">Last Date: 3 September 2022
 															</span>
 														</li>
 														<li id="su-post-110400" class="su-post"><a
 																href="ramnagar-court-peon-recruitment/">Ramnagar
 																Court Recruitment 2022 Process Server, Peon 27 Post</a>
-															<span style="color:#ab183d">Last Date: 20 September 2022
+															<span style="color:#333333">Last Date: 20 September 2022
 															</span>
 														</li>
 														<li id="su-post-109420" class="su-post"><a
@@ -451,222 +451,222 @@
 														<li id="su-post-109158" class="su-post"><a
 																href="kalahandi-court-vacancy/">Kalahandi
 																Court Recruitment 2022 Clerk, Steno, Typist 27 Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2022
+															<span style="color:#333333">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-109153" class="su-post"><a
 																href="cuttack-court-recruitment-apply/">Cuttack
 																Court Recruitment 2022 Apply 29 Clerk, Steno, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 August 2022
+															<span style="color:#333333">Last Date: 29 August 2022
 															</span>
 														</li>
 														<li id="su-post-109141" class="su-post"><a
 																href="angul-court-recruitment-apply/">Angul
 																Court Recruitment 2022 Apply Clerk, Steno, Typist 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 September 2022
+															<span style="color:#333333">Last Date: 1 September 2022
 															</span>
 														</li>
 														<li id="su-post-108925" class="su-post"><a
 																href="balasore-court-vacancy/">Balasore
 																Court Recruitment 2022 Clerk, Steno, Typist 34 Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2022
+															<span style="color:#333333">Last Date: 27 August 2022
 															</span>
 														</li>
 														<li id="su-post-108912" class="su-post"><a
 																href="kendrapara-court-recruitment/">Kendrapara
 																Court Recruitment 2022 Clerk, Typist, Steno 24 Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2022
+															<span style="color:#333333">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-108645" class="su-post"><a
 																href="koraput-court/">Koraput
 																Court Recruitment 2022 Apply 16 Clerk, Steno, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 August 2022
+															<span style="color:#333333">Last Date: 26 August 2022
 															</span>
 														</li>
 														<li id="su-post-108614" class="su-post"><a
 																href="mayurbhanj-court-vacancy/">Mayurbhanj
 																Court Recruitment 2022 Clerk, Steno, Typist 36 Post</a>
-															<span style="color:#ab183d">Last Date: 26 Augst 2022 </span>
+															<span style="color:#333333">Last Date: 26 Augst 2022 </span>
 														</li>
 														<li id="su-post-108596" class="su-post"><a
 																href="ganjam-court-clerk-recruitment/">Ganjam
 																Court Clerk Recruitment 2022 Apply 54 Steno, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 August 2022
+															<span style="color:#333333">Last Date: 22 August 2022
 															</span>
 														</li>
 														<li id="su-post-107622" class="su-post"><a
 																href="dhenkanal-court-clerk-recruitment/">Dhenkanal
 																Court Recruitment 2022 Apply Now Clerk, Steno 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 August 2022
+															<span style="color:#333333">Last Date: 19 August 2022
 															</span>
 														</li>
 														<li id="su-post-104521" class="su-post"><a
 																href="amravati-court-recruitment/">Amravati
 																Court Recruitment 2022 Application Form 10 Sweeper
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
+															<span style="color:#333333">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-105895" class="su-post"><a
 																href="chandigarh-court-stenographer-recruitment/">Chandigarh
 																Court Stenographer Recruitment 2022 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 22 July 2022 </span>
+															<span style="color:#333333">Last Date: 22 July 2022 </span>
 														</li>
 														<li id="su-post-71694" class="su-post"><a
 																href="kanker-court-vacancy/">Kanker
 																Court Recruitment 2022 Apply Now Peon, Driver 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
+															<span style="color:#333333">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-106518" class="su-post"><a
 																href="dlsa-theni-recruitment/">DLSA
 																Theni Recruitment 2022 Peon, Clerk, DEO, Assistant 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
+															<span style="color:#333333">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-104101" class="su-post"><a
 																href="south-goa-court-recruitment/">South
 																Goa Court Recruitment 2022 Peon, Driver, Clerk 113
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
+															<span style="color:#333333">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-106831" class="su-post"><a
 																href="puri-court-vacancy/">Puri
 																Court Recruitment 2022 Apply Steno, Clerk, Typist 28
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 August 2022 </span>
+															<span style="color:#333333">Last Date: 3 August 2022 </span>
 														</li>
 														<li id="su-post-102660" class="su-post"><a
 																href="kondagaon-court-sweeper-recruitment/">Kondagaon
 																Court Sweeper Recruitment 2022 Apply Now 12 Post</a>
-															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
+															<span style="color:#333333">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-106471" class="su-post"><a
 																href="bathinda-court-peon-vacancy/">Bathinda
 																Court Peon Recruitment 2022 Application Form 05 Post</a>
-															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
+															<span style="color:#333333">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-100169" class="su-post"><a
 																href="kolar-court-peon-recruitment/">Kolar
 																Court Recruitment 2022 Apply Online Peon, Steno 32
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 July 2022 </span>
+															<span style="color:#333333">Last Date: 26 July 2022 </span>
 														</li>
 														<li id="su-post-100323" class="su-post"><a
 																href="vijayapura-court-recruitment/">Vijayapura
 																Court Recruitment 2022 Peon, Process Server 32 Post</a>
-															<span style="color:#ab183d">Last Date: 24 July 2022 </span>
+															<span style="color:#333333">Last Date: 24 July 2022 </span>
 														</li>
 														<li id="su-post-105519" class="su-post"><a
 																href="hathras-court-recruitment/">Hathras
 																Court Recruitment 2022 Application Form Sweeper
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 27 July 2022 </span>
+															<span style="color:#333333">Last Date: 27 July 2022 </span>
 														</li>
 														<li id="su-post-102020" class="su-post"><a
 																href="nayagarh-court-clerk-recruitment/">Nayagarh
 																Court Recruitment 2022 Clerk, Typist, Steno 11 Post</a>
-															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
+															<span style="color:#333333">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-71988" class="su-post"><a
 																href="ajmer-court-vacancy/">Ajmer
 																Court Recruitment 2022 Application Form Grade IV 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
+															<span style="color:#333333">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-98194" class="su-post"><a
 																href="bidar-district-court-jobs/">Bidar
 																Court Recruitment 2022 Typist, Process Server, Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 July 2022 </span>
+															<span style="color:#333333">Last Date: 12 July 2022 </span>
 														</li>
 														<li id="su-post-86618" class="su-post"><a
 																href="nabarangpur-court-vacancy/">Nabarangpur
 																Court Recruitment 2022 Typist, Clerk, Steno 21 Post</a>
-															<span style="color:#ab183d">Last Date: 22 June 2022 </span>
+															<span style="color:#333333">Last Date: 22 June 2022 </span>
 														</li>
 														<li id="su-post-86189" class="su-post"><a
 																href="keonjhar-court-vacancy/">Keonjhar
 																Court Recruitment 2022 Clerk, Typist, Steno 18 Post</a>
-															<span style="color:#ab183d">Last Date: 13 June 2022 </span>
+															<span style="color:#333333">Last Date: 13 June 2022 </span>
 														</li>
 														<li id="su-post-86896" class="su-post"><a
 																href="jhargram-court-vacancy/">Jhargram
 																Court Recruitment 202 LDC, Sweeper, Peon 55 Post</a>
-															<span style="color:#ab183d">Last Date: 10 June 2022 </span>
+															<span style="color:#333333">Last Date: 10 June 2022 </span>
 														</li>
 														<li id="su-post-76079" class="su-post"><a
 																href="jalaun-court-vacancy/">Jalaun
 																Court Recruitment 2022 Apply Judicial Magistrate 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
+															<span style="color:#333333">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-72677" class="su-post"><a
 																href="farrukhabad-court-vacancy/">Farrukhabad
 																Court Recruitment 2022 Judicial Magistrate Post</a>
-															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
+															<span style="color:#333333">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-89031" class="su-post"><a
 																href="jalandhar-court-clerk-recruitment/">Jalandhar
 																Court Clerk Recruitment 2022 Application Form 44
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
+															<span style="color:#333333">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-77566" class="su-post"><a
 																href="ballari-court-peon-recruitment/">Ballari
 																Court Peon Recruitment 2022 Apply Online 33 Posts</a>
-															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
+															<span style="color:#333333">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-72038" class="su-post"><a
 																href="ghazipur-court-vacancy/">Ghazipur
 																Court Recruitment 2022 Apply Judicial Magistrate
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 May 2022 </span>
+															<span style="color:#333333">Last Date: 30 May 2022 </span>
 														</li>
 														<li id="su-post-76522" class="su-post"><a
 																href="hassan-district-court-jobs/">Hassan
 																Court Recruitment 2022 Steno, Typist, Copyist 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 May 2022 </span>
+															<span style="color:#333333">Last Date: 23 May 2022 </span>
 														</li>
 														<li id="su-post-81066" class="su-post"><a
 																href="ludhiana-court-peon-recruitment/">Ludhiana
 																Court Peon Recruitment 2022 Process Server 37 Posts</a>
-															<span style="color:#ab183d">Last Date: 21 May 2022 </span>
+															<span style="color:#333333">Last Date: 21 May 2022 </span>
 														</li>
 														<li id="su-post-76873" class="su-post"><a
 																href="bangalore-court-vacancy/">Bengaluru
 																Court Recruitment 2022 Steno, Typist, Peon 133 Posts</a>
-															<span style="color:#ab183d">Last Date: 20 May 2022 </span>
+															<span style="color:#333333">Last Date: 20 May 2022 </span>
 														</li>
 														<li id="su-post-83877" class="su-post"><a
 																href="chandigarh-court-recruitment/">Chandigarh
 																Court Recruitment 2022 Application Form Clerk 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 May 2022 </span>
+															<span style="color:#333333">Last Date: 18 May 2022 </span>
 														</li>
 														<li id="su-post-72096" class="su-post"><a
 																href="baghpat-court-recruitment/">Baghpat
 																Court Recruitment 2022 Apply Peon, Steno, Reader
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
+															<span style="color:#333333">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-72005" class="su-post"><a
 																href="barnala-district-court-jobs/">Barnala
 																Court Recruitment 2022 Operator, Clerk, Steno 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
+															<span style="color:#333333">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-78999" class="su-post"><a
 																href="birbhum-district-court-recruitment/">Birbhum
 																Court Recruitment 2022 LDC, Process Server, Peon 93
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 May 2022 </span>
+															<span style="color:#333333">Last Date: 12 May 2022 </span>
 														</li>
 														<li id="su-post-76076" class="su-post"><a
 																href="yamunanagar-court-lift-operator-recruitment/">Yamunanagar
@@ -676,113 +676,113 @@
 														<li id="su-post-69519" class="su-post"><a
 																href="udupi-court-peon-recruitment/">Udupi
 																Court Recruitment 2022 Apply Online Peon 17 Posts</a>
-															<span style="color:#ab183d">Last Date: 5 May 2022 </span>
+															<span style="color:#333333">Last Date: 5 May 2022 </span>
 														</li>
 														<li id="su-post-71644" class="su-post"><a
 																href="kondagaon-court-recruitment/">Kondagaon
 																Court Recruitment 2022 Apply Now Assistant 07 Post</a>
-															<span style="color:#ab183d">Last Date: 5 May 2022 </span>
+															<span style="color:#333333">Last Date: 5 May 2022 </span>
 														</li>
 														<li id="su-post-68896" class="su-post"><a
 																href="bemetara-court-recruitment/">Bemetara
 																Court Recruitment 2022 Writer, Asst Grade III 30
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
+															<span style="color:#333333">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-71616" class="su-post"><a
 																href="korba-court-recruitment/">Korba
 																Court Recruitment 2022 Apply Stenographer, Asst 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
+															<span style="color:#333333">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-69542" class="su-post"><a
 																href="gadag-court-peon-recruitment/">Gadag
 																Court Recruitment 2022 Peon, Process Server, Steno 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
+															<span style="color:#333333">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-72034" class="su-post"><a
 																href="lalitpur-court-recruitment/">Lalitpur
 																Court Recruitment 2022 Apply Now Judicial Member 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
+															<span style="color:#333333">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-68985" class="su-post"><a
 																href="koppal-district-court-jobs/">Koppal
 																Court Recruitment 2022 Apply Peon, Steno, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 April 2022 </span>
+															<span style="color:#333333">Last Date: 21 April 2022 </span>
 														</li>
 														<li id="su-post-66169" class="su-post"><a
 																href="bagalkot-court-vacancy/">Bagalkot
 																Court Recruitment 2022 Steno, Process Server, Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 April 2022 </span>
+															<span style="color:#333333">Last Date: 21 April 2022 </span>
 														</li>
 														<li id="su-post-72719" class="su-post"><a
 																href="pilibhit-court-recruitment/">Pilibhit
 																Court Recruitment 2022 Apply Peon, Reader, Steno
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 April 2022 </span>
+															<span style="color:#333333">Last Date: 20 April 2022 </span>
 														</li>
 														<li id="su-post-74380" class="su-post"><a
 																href="davangere-court-recruitment/">Davangere
 																Court Recruitment 2022 Apply Now Peon, Typist 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
+															<span style="color:#333333">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-65271" class="su-post"><a
 																href="kabirdham-court-recruitment/">Kabirdham
 																Court Recruitment 2022 Apply Now Assistant Posts</a>
-															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
+															<span style="color:#333333">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-69577" class="su-post"><a
 																href="moga-court-clerk-vacancy/">Moga
 																Court Recruitment 2022 Clerk, Stenographer Gr II 24
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
+															<span style="color:#333333">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-65610" class="su-post"><a
 																href="bilaspur-court-assistant-recruitment/">Bilaspur
 																Court Assistant Recruitment 2022 Steno, Driver 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 April 2022 </span>
+															<span style="color:#333333">Last Date: 11 April 2022 </span>
 														</li>
 														<li id="su-post-67730" class="su-post"><a
 																href="dwarka-family-court-recruitment/">Dwarka
 																Family Court Recruitment 2022 Application Form JJA
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 April 2022 </span>
+															<span style="color:#333333">Last Date: 10 April 2022 </span>
 														</li>
 														<li id="su-post-65606" class="su-post"><a
 																href="balod-district-court-recruitment/">Balod
 																Court Recruitment 2022 Apply Now Grade III &#038; IV
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2022 </span>
+															<span style="color:#333333">Last Date: 7 April 2022 </span>
 														</li>
 														<li id="su-post-62225" class="su-post"><a
 																href="north-garo-hills-court-vacancy/">North
 																Garo Hills Court Recruitment 2022 Peon, LDC, Driver 23
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
+															<span style="color:#333333">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-67030" class="su-post"><a
 																href="ganjam-district-court-jobs/">Ganjam
 																Court Recruitment 2022 Application Form Group D 26
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 March 2022 </span>
+															<span style="color:#333333">Last Date: 30 March 2022 </span>
 														</li>
 														<li id="su-post-64221" class="su-post"><a
 																href="south-west-khasi-hills-court-recruitment/">South
 																West Khasi Hills Court Recruitment 2022 Apply Grade IV
 																23 Post</a>
-															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
+															<span style="color:#333333">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-62963" class="su-post"><a
 																href="sas-nagar-court-peon-recruitment/">SAS
 																Nagar Court Recruitment 2022 Process Server, Peon 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
+															<span style="color:#333333">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-62916" class="su-post"><a
 																href="tarn-taran-court-chowkidar-recruitment/">Tarn
@@ -792,83 +792,83 @@
 														<li id="su-post-58618" class="su-post"><a
 																href="shimoga-court-recruitment/">Shimoga
 																Court Recruitment 2022 Apply Online Peon 27 Posts</a>
-															<span style="color:#ab183d">Last Date: 24 March 2022 </span>
+															<span style="color:#333333">Last Date: 24 March 2022 </span>
 														</li>
 														<li id="su-post-58521" class="su-post"><a
 																href="pathankot-court-clerk-recruitment/">Pathankot
 																Court Clerk Recruitment 2022 Application Form 08
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 March 2022 </span>
+															<span style="color:#333333">Last Date: 17 March 2022 </span>
 														</li>
 														<li id="su-post-58157" class="su-post"><a
 																href="yamunanagar-court-peon-recruitment/">Yamunanagar
 																Court Recruitment 2022 Application Form Peon 03 Post</a>
-															<span style="color:#ab183d">Last Date: 14 March 2022 </span>
+															<span style="color:#333333">Last Date: 14 March 2022 </span>
 														</li>
 														<li id="su-post-58539" class="su-post"><a
 																href="jalandhar-court-peon-jobs/">Jalandhar
 																Court Peon Recruitment 2022 Apply Process Server
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 March 2022 </span>
+															<span style="color:#333333">Last Date: 10 March 2022 </span>
 														</li>
 														<li id="su-post-57522" class="su-post"><a
 																href="faridkot-court-peon-job/">Faridkot
 																Court Peon Recruitment 2022 Process Server 13 Posts</a>
-															<span style="color:#ab183d">Last Date: 2 March 2022 </span>
+															<span style="color:#333333">Last Date: 2 March 2022 </span>
 														</li>
 														<li id="su-post-54656" class="su-post"><a
 																href="south-salmara-mankachar-court-vacancy/">South
 																Salmara Mankachar Court Recruitment 2022 Apply CAO
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 February 2022
+															<span style="color:#333333">Last Date: 28 February 2022
 															</span>
 														</li>
 														<li id="su-post-47885" class="su-post"><a
 																href="bilaspur-court-recruitment/">Bilaspur
 																Court Recruitment 2022 Stenographer, Assistant 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 February 2022
+															<span style="color:#333333">Last Date: 14 February 2022
 															</span>
 														</li>
 														<li id="su-post-51815" class="su-post"><a
 																href="ferozepur-court-vacancy/">Ferozepur
 																Court Recruitment 2022 Peon, Process Server 18 Posts</a>
-															<span style="color:#ab183d">Last Date: 14 February 2022
+															<span style="color:#333333">Last Date: 14 February 2022
 															</span>
 														</li>
 														<li id="su-post-47899" class="su-post"><a
 																href="balod-court-recruitment/">Balod
 																Court Recruitment 2022 Assistant, Steno, Operator 33
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 February 2022
+															<span style="color:#333333">Last Date: 7 February 2022
 															</span>
 														</li>
 														<li id="su-post-49782" class="su-post"><a
 																href="jind-court-recruitment/">Jind
 																Court Recruitment 2022 Apply Peon, Process Server 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 February 2022
+															<span style="color:#333333">Last Date: 3 February 2022
 															</span>
 														</li>
 														<li id="su-post-49785" class="su-post"><a
 																href="mewat-court-process-server-recruitment/">Mewat
 																Court Recruitment 2022 Apply Now Process Server 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 February 2022
+															<span style="color:#333333">Last Date: 1 February 2022
 															</span>
 														</li>
 														<li id="su-post-45350" class="su-post"><a
 																href="raipur-court-recruitment-apply/">Raipur
 																Court Recruitment 2022 Steno, Peon, Assistant 90
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 January 2022 
+															<span style="color:#333333">Last Date: 31 January 2022 
 															</span>
 														</li>
 														<li id="su-post-42968" class="su-post"><a
 																href="namchi-court-recruitment/">Namchi
 																Court Recruitment 2022 Peon, Sweeper, Mali, Steno
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 January 2022
+															<span style="color:#333333">Last Date: 31 January 2022
 															</span>
 														</li>
 														<li id="su-post-44248" class="su-post"><a
@@ -880,359 +880,359 @@
 																href="mansa-court-vacancy/">Mansa
 																Court Recruitment 2022 Application Form Safai Sewak 02
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 January 2022
+															<span style="color:#333333">Last Date: 27 January 2022
 															</span>
 														</li>
 														<li id="su-post-47715" class="su-post"><a
 																href="durg-court-recruitment/">Durg
 																Court Recruitment 2022 Peon, Assistant, Stenographer 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 January 2022
+															<span style="color:#333333">Last Date: 25 January 2022
 															</span>
 														</li>
 														<li id="su-post-45960" class="su-post"><a
 																href="kanker-court-recruitment/">Kanker
 																Court Recruitment 2022 Steno Typist, Assistant 08
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 January 2022
+															<span style="color:#333333">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-44810" class="su-post"><a
 																href="bathinda-court-peon-recruitment/">Bathinda
 																Court Peon Recruitment 2022 Apply Process Server 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 January 2022
+															<span style="color:#333333">Last Date: 14 January 2022
 															</span>
 														</li>
 														<li id="su-post-43205" class="su-post"><a
 																href="nawanshahr-court-clerk-recruitment/">Nawanshahr
 																Court Clerk Recruitment 2021 Application Form 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 December 2021
+															<span style="color:#333333">Last Date: 31 December 2021
 															</span>
 														</li>
 														<li id="su-post-38263" class="su-post"><a
 																href="shivamogga-court-recruitment/">Shivamogga
 																Court Recruitment 2021 Apply Process Server 07 Post</a>
-															<span style="color:#ab183d">Last Date: 30 December 2021
+															<span style="color:#333333">Last Date: 30 December 2021
 															</span>
 														</li>
 														<li id="su-post-39689" class="su-post"><a
 																href="perambalur-court-steno-typist-recruitment/">Perambalur
 																Court Steno-Typist Recruitment 2021 Apply Now 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 December 2021
+															<span style="color:#333333">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-33621" class="su-post"><a
 																href="hisar-court-sweeper-recruitment/">Hisar
 																Court Sweeper Recruitment 2021 Application Form</a>
-															<span style="color:#ab183d">Last Date: 12 November 2021
+															<span style="color:#333333">Last Date: 12 November 2021
 															</span>
 														</li>
 														<li id="su-post-38053" class="su-post"><a
 																href="fazilka-court-clerk-recruitment/">Fazilka
 																Court Clerk Recruitment 2021 Application Form 32
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 2 December 2021
+															<span style="color:#333333">Last Date: 2 December 2021
 															</span>
 														</li>
 														<li id="su-post-36079" class="su-post"><a
 																href="karnal-court-sweeper-recruitment/">Karnal
 																Court Sweeper Recruitment 2021 Application Form 11
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 22 November 2021
+															<span style="color:#333333">Last Date: 22 November 2021
 															</span>
 														</li>
 														<li id="su-post-30498" class="su-post"><a
 																href="nawanshahr-court-stenographer-recruitment/">Nawanshahr
 																Court Stenographer Recruitment 2021 Application Form</a>
-															<span style="color:#ab183d">Last Date: 28 October 2021
+															<span style="color:#333333">Last Date: 28 October 2021
 															</span>
 														</li>
 														<li id="su-post-36068" class="su-post"><a
 																href="barnala-court-lift-operator-recruitment/">Barnala
 																Court Lift Operator Recruitment 2021 Apply Now 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 November 2021
+															<span style="color:#333333">Last Date: 26 November 2021
 															</span>
 														</li>
 														<li id="su-post-36293" class="su-post"><a
 																href="ferozepur-court-peon-vacancy/">Ferozepur
 																Court Peon Recruitment 2021 Apply Chowkidar Post</a>
-															<span style="color:#ab183d">Last Date: 25 November 2021
+															<span style="color:#333333">Last Date: 25 November 2021
 															</span>
 														</li>
 														<li id="su-post-35431" class="su-post"><a
 																href="sangrur-court-clerk-recruitment/">Sangrur
 																Court Clerk Recruitment 2021 Application Form 36
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 22 November 2021
+															<span style="color:#333333">Last Date: 22 November 2021
 															</span>
 														</li>
 														<li id="su-post-34936" class="su-post"><a
 																href="narnaul-court-process-server-recruitment/">Narnaul
 																Court Process Server Recruitment 2021 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 15 November 2021
+															<span style="color:#333333">Last Date: 15 November 2021
 															</span>
 														</li>
 														<li id="su-post-34200" class="su-post"><a
 																href="tarn-taran-court-clerk-recruitment/">Tarn
 																Taran Court Clerk Recruitment 2021 Application Form 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 November 2021
+															<span style="color:#333333">Last Date: 15 November 2021
 															</span>
 														</li>
 														<li id="su-post-29843" class="su-post"><a
 																href="malkangiri-court-recruitment/">Malkangiri
 																Court Recruitment 2021 Clerk, Typist, Steno 19 Post</a>
-															<span style="color:#ab183d">Last Date: 8 November 2021
+															<span style="color:#333333">Last Date: 8 November 2021
 															</span>
 														</li>
 														<li id="su-post-31894" class="su-post"><a
 																href="ferozepur-district-court-recruitment/">Ferozepur
 																Court Recruitment 2021 Clerk, Driver, Steno 48 Post</a>
-															<span style="color:#ab183d">Last Date: 3 November 2021
+															<span style="color:#333333">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-28280" class="su-post"><a
 																href="kalahandi-court-recruitment/">Kalahandi
 																Court Recruitment 2021 Clerk, Typist, Steno 24 Post</a>
-															<span style="color:#ab183d">Last Date: 30 October 2021
+															<span style="color:#333333">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-33050" class="su-post"><a
 																href="diphu-court-recruitment/">Diphu
 																Court Recruitment 2021 Apply Upper Division Asst 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 October 2021
+															<span style="color:#333333">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-30672" class="su-post"><a
 																href="karbi-anglong-court-recruitment/">Karbi
 																Anglong Court Recruitment 2021 Application Form UDC 07
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 October 2021
+															<span style="color:#333333">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-31208" class="su-post"><a
 																href="palwal-court-stenographer-recruitment/">Palwal
 																Court Stenographer Recruitment 2021 Apply Now 09
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 October 2021
+															<span style="color:#333333">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-27238" class="su-post"><a
 																href="mayurbhanj-court-recruitment/">Mayurbhanj
 																Court Recruitment 2021 Clerk, Steno, Typist 26 Post</a>
-															<span style="color:#ab183d">Last Date: 27 October 2021
+															<span style="color:#333333">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-30886" class="su-post"><a
 																href="fazilka-court-stenographer-recruitment/">Fazilka
 																Court Stenographer Recruitment 2021 Apply Driver 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 October 2021
+															<span style="color:#333333">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-29167" class="su-post"><a
 																href="sangrur-court-recruitment/">Sangrur
 																Court Recruitment 2021 Peon, Steno, Sweeper 22 Posts</a>
-															<span style="color:#ab183d">Last Date: 26 October 2021
+															<span style="color:#333333">Last Date: 26 October 2021
 															</span>
 														</li>
 														<li id="su-post-33023" class="su-post"><a
 																href="dhenkanal-court-vacancy-2/">Dhenkanal
 																Court Recruitment 2021 Apply Clerk, Steno, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 November 2021
+															<span style="color:#333333">Last Date: 11 November 2021
 															</span>
 														</li>
 														<li id="su-post-30906" class="su-post"><a
 																href="faridkot-court-peon-jobs-apply/">Faridkot
 																Court Peon Recruitment 2021 Process Server 09 Posts</a>
-															<span style="color:#ab183d">Last Date: 25 October 2021
+															<span style="color:#333333">Last Date: 25 October 2021
 															</span>
 														</li>
 														<li id="su-post-29026" class="su-post"><a
 																href="yamunanagar-court-recruitment/">Yamunanagar
 																Court Recruitment 2021 Stenographer Grade III Post</a>
-															<span style="color:#ab183d">Last Date: 25 October 2021
+															<span style="color:#333333">Last Date: 25 October 2021
 															</span>
 														</li>
 														<li id="su-post-26526" class="su-post"><a
 																href="koraput-court-recruitment/">Koraput
 																Court Recruitment 2021 Clerk, Typist, Steno 28 Post</a>
-															<span style="color:#ab183d">Last Date: 21 October 2021
+															<span style="color:#333333">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-25938" class="su-post"><a
 																href="khammam-court-recruitment/">Khammam
 																Court Recruitment 2021 Apply Assistant, Attendant
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 October 2021
+															<span style="color:#333333">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-29036" class="su-post"><a
 																href="amritsar-court-clerk-recruitment/">Amritsar
 																Court Clerk Recruitment 2021 Application Form 23
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 21 October 2021
+															<span style="color:#333333">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-27211" class="su-post"><a
 																href="pudukkottai-court-steno-typist-recruitment/">Pudukkottai
 																Court Steno Typist Recruitment 2021 Application Form</a>
-															<span style="color:#ab183d">Last Date: 18 October 2021
+															<span style="color:#333333">Last Date: 18 October 2021
 															</span>
 														</li>
 														<li id="su-post-27187" class="su-post"><a
 																href="fazilka-court-lift-operator-recruitment/">Fazilka
 																Court Lift Operator Recruitment 2021 Apply Mali 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 October 2021
+															<span style="color:#333333">Last Date: 12 October 2021
 															</span>
 														</li>
 														<li id="su-post-24416" class="su-post"><a
 																href="bidar-court-recruitment/">Bidar
 																Court Recruitment 2021 Stenographer &#038; Typist 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 October 2021
+															<span style="color:#333333">Last Date: 12 October 2021
 															</span>
 														</li>
 														<li id="su-post-24312" class="su-post"><a
 																href="rupnagar-court-peon-recruitment/">Rupnagar
 																Court Peon Recruitment 2021 Apply Process Server 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 October 2021
+															<span style="color:#333333">Last Date: 7 October 2021
 															</span>
 														</li>
 														<li id="su-post-25811" class="su-post"><a
 																href="ludhiana-court-lift-operator-recruitment/">Ludhiana
 																Court Lift Operator Recruitment 2021 Apply 03 Posts</a>
-															<span style="color:#ab183d">Last Date: 6 October 2021
+															<span style="color:#333333">Last Date: 6 October 2021
 															</span>
 														</li>
 														<li id="su-post-23554" class="su-post"><a
 																href="jalandhar-court-peon-recruitment/">Jalandhar
 																Court Peon Recruitment 2021 Process Server 20 Post</a>
-															<span style="color:#ab183d">Last Date: 21 September 2021
+															<span style="color:#333333">Last Date: 21 September 2021
 															</span>
 														</li>
 														<li id="su-post-24172" class="su-post"><a
 																href="moga-court-peon-recruitment/">Moga
 																Court Peon Recruitment 2021 Apply Process Server
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 September 2021
+															<span style="color:#333333">Last Date: 24 September 2021
 															</span>
 														</li>
 														<li id="su-post-23413" class="su-post"><a
 																href="kendrapara-court-clerk-recruitment/">Kendrapara
 																Court Recruitment 2021 Clerk, Steno, Typist 11 Post</a>
-															<span style="color:#ab183d">Last Date: 1 October 2021
+															<span style="color:#333333">Last Date: 1 October 2021
 															</span>
 														</li>
 														<li id="su-post-23384" class="su-post"><a
 																href="ludhiana-court-clerk-recruitment/">Ludhiana
 																Court Clerk Recruitment 2021 Application Form 32
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 September 2021
+															<span style="color:#333333">Last Date: 17 September 2021
 															</span>
 														</li>
 														<li id="su-post-23282" class="su-post"><a
 																href="gurdaspur-court/">Gurdaspur
 																Court Recruitment 2021 Stenographer Grade III 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 September 2021
+															<span style="color:#333333">Last Date: 22 September 2021
 															</span>
 														</li>
 														<li id="su-post-22853" class="su-post"><a
 																href="hq-northern-command-group-c-recruitment/">HQ
 																Northern Command Group C Recruitment 2021 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 21 Days </span>
+															<span style="color:#333333">Last Date: 21 Days </span>
 														</li>
 														<li id="su-post-22673" class="su-post"><a
 																href="sirsa-district-court/">Sirsa
 																Court Recruitment 2021 Apply Stenographer Grade III 05
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 September 2021
+															<span style="color:#333333">Last Date: 2 September 2021
 															</span>
 														</li>
 														<li id="su-post-22625" class="su-post"><a
 																href="sonepur-district-court/">Sonepur
 																Court Recruitment 2021 Clerk, Typist, Steno 13 Posts</a>
-															<span style="color:#ab183d">Last Date: 21 September 2021
+															<span style="color:#333333">Last Date: 21 September 2021
 															</span>
 														</li>
 														<li id="su-post-22376" class="su-post"><a
 																href="sonipat-court-vacancy/">Sonipat
 																Court Recruitment 2021 Apply Now Stenographer Post</a>
-															<span style="color:#ab183d">Last Date: 6 September 2021
+															<span style="color:#333333">Last Date: 6 September 2021
 															</span>
 														</li>
 														<li id="su-post-22100" class="su-post"><a
 																href="sirsa-district-court-recruitment/">Sirsa
 																Court Recruitment 2021 Peon, Sweeper, Chowkidar
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 31 August 2021
+															<span style="color:#333333">Last Date: 31 August 2021
 															</span>
 														</li>
 														<li id="su-post-21831" class="su-post"><a
 																href="rayagada-court-recruitment/">Rayagada
 																Court Recruitment 2021 Clerk, Steno, Typist 25 Post</a>
-															<span style="color:#ab183d">Last Date: 13 September 2021
+															<span style="color:#333333">Last Date: 13 September 2021
 															</span>
 														</li>
 														<li id="su-post-21789" class="su-post"><a
 																href="jagatsinghpur-court/">Jagatsinghpur
 																Court Recruitment 2021 Clerk, Typist, Steno 22 Post</a>
-															<span style="color:#ab183d">Last Date: 20 September 2021
+															<span style="color:#333333">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-21680" class="su-post"><a
 																href="north-goa-court/">North
 																Goa Court Recruitment 2021 LDC, Peon, Driver, Steno 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 September 2021
+															<span style="color:#333333">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-21624" class="su-post"><a
 																href="jalandhar-district-court-recruitment/">Jalandhar
 																Court Recruitment 2021 Apply Lift Operator 05 Post</a>
-															<span style="color:#ab183d">Last Date: 26 August 2021
+															<span style="color:#333333">Last Date: 26 August 2021
 															</span>
 														</li>
 														<li id="su-post-21562" class="su-post"><a
 																href="faridkot-court-vacancy/">Faridkot
 																Court Recruitment 2021 Apply Peon/Chowkidar 05 Posts</a>
-															<span style="color:#ab183d">Last Date: 20 August 2021
+															<span style="color:#333333">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21390" class="su-post"><a
 																href="faridabad-court-vacancy/">Faridabad
 																Court Recruitment 2021 Apply Sweeper, Driver 06 Post</a>
-															<span style="color:#ab183d">Last Date: 20 August 2021
+															<span style="color:#333333">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21310" class="su-post"><a
 																href="nawanshahr-court-recruitment/">Nawanshahr
 																Court Recruitment 2021 Peon, Process Server 12 Post</a>
-															<span style="color:#ab183d">Last Date: 17 August 2021
+															<span style="color:#333333">Last Date: 17 August 2021
 															</span>
 														</li>
 														<li id="su-post-21305" class="su-post"><a
 																href="amritsar-court-vacancy/">Amritsar
 																Court Recruitment 2021 Stenographer Grade III 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 August 2021
+															<span style="color:#333333">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21172" class="su-post"><a
 																href="jajpur-court/">Jajpur
 																Court Recruitment 2021 Clerk, Steno, Driver, Typist 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 September 2021
+															<span style="color:#333333">Last Date: 4 September 2021
 															</span>
 														</li>
 														<li id="su-post-13857" class="su-post"><a
@@ -1243,62 +1243,62 @@
 														<li id="su-post-21025" class="su-post"><a
 																href="nagaon-district-court/">Nagaon
 																Court Recruitment 2021 Apply Peon, Chowkidar 08 Post</a>
-															<span style="color:#ab183d">Last Date: 15 Days </span>
+															<span style="color:#333333">Last Date: 15 Days </span>
 														</li>
 														<li id="su-post-20907" class="su-post"><a
 																href="balasore-court/">Balasore
 																Court Recruitment 2021 Clerk, Typist, Steno 41 Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2021
+															<span style="color:#333333">Last Date: 27 August 2021
 															</span>
 														</li>
 														<li id="su-post-20707" class="su-post"><a
 																href="sri-muktsar-sahib-court-vacancy/">Sri
 																Muktsar Sahib Court Recruitment 2021 Steno, Clerk 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 August 2021
+															<span style="color:#333333">Last Date: 10 August 2021
 															</span>
 														</li>
 														<li id="su-post-20728" class="su-post"><a
 																href="angul-court-vacancy/">Angul
 																Court Recruitment 2021 Clerk, Stenographer, Typist 37
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2021
+															<span style="color:#333333">Last Date: 27 August 2021
 															</span>
 														</li>
 														<li id="su-post-20436" class="su-post"><a
 																href="keonjhar-court-recruitment/">Keonjhar
 																Court Recruitment 2021 Clerk, Driver, Steno 21 Post</a>
-															<span style="color:#ab183d">Last Date: 16 August 2021
+															<span style="color:#333333">Last Date: 16 August 2021
 															</span>
 														</li>
 														<li id="su-post-20423" class="su-post"><a
 																href="fazilka-court-peon-recruitment/">Fazilka
 																Court Peon Recruitment 2021 Apply Process Servers 41
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 August 2021 </span>
+															<span style="color:#333333">Last Date: 5 August 2021 </span>
 														</li>
 														<li id="su-post-20342" class="su-post"><a
 																href="ganjam-court/">Ganjam
 																Court Recruitment 2021 Steno, Clerk, Typist 121 Post</a>
-															<span style="color:#ab183d">Last Date: 19 August 2021
+															<span style="color:#333333">Last Date: 19 August 2021
 															</span>
 														</li>
 														<li id="su-post-20194" class="su-post"><a
 																href="puri-court-recruitment/">Puri
 																Court Recruitment 2021 Clerk, Stenographer 18 Posts</a>
-															<span style="color:#ab183d">Last Date: 20 August 2021
+															<span style="color:#333333">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-20090" class="su-post"><a
 																href="rupnagar-court-recruitment/">Rupnagar
 																Court Recruitment 2021 Clerk, Stenographer 38 Posts</a>
-															<span style="color:#ab183d">Last Date: 13 August 2021
+															<span style="color:#333333">Last Date: 13 August 2021
 															</span>
 														</li>
 														<li id="su-post-19870" class="su-post"><a
 																href="faridkot-court-clerk-recruitment/">Faridkot
 																Court Clerk Recruitment 2021 Stenographer 19 Posts</a>
-															<span style="color:#ab183d">Last Date: 23 July 2021 </span>
+															<span style="color:#333333">Last Date: 23 July 2021 </span>
 														</li>
 													</ul>
 													<span style="text-decoration: underline;"><span

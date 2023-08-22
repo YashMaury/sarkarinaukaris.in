@@ -129,7 +129,7 @@
 								<p style="text-align: center;"><span style="color: #000000;"><b>Sarkari Result Bihar
 											Board 10th Compartmental Result 2023 Download Direct Link
 											Details</b></span><span style="color: #000000;"><b><span
-												style="color: #ab183d;"><br />
+												style="color: #333333;"><br />
 											</span></b></span></p>
 								<ul>
 									<li>Bihar Board 10th Compartmental Result 2023 (Link Activate Today 3/06/2023 at

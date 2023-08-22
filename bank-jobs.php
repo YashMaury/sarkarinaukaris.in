@@ -60,58 +60,58 @@
 																href="cosmos-bank-notification/">Cosmos
 																Bank Recruitment 2023 Apply Officer, Asst Manager 220
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 August 2023
+															<span style="color:#333333">Last Date: 11 August 2023
 															</span>
 														</li>
 														<li id="su-post-163485" class="su-post"><a
 																href="nainital-bank-notification/">Nainital
 																Bank MT Recruitment 2023 Apply Now Clerk 110 Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2023
+															<span style="color:#333333">Last Date: 27 August 2023
 															</span>
 														</li>
 														<li id="su-post-163097" class="su-post"><a
 																href="ibps-notification/">IBPS
 																PO Recruitment 2023 Notification PO/MT XIII 3049
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 August 2023
+															<span style="color:#333333">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-163079" class="su-post"><a
 																href="ibps-so-2023-notification/">IBPS
 																SO 2023 Notification Apply For 1402 Posts, Eligibility,
 																Exam Date</a>
-															<span style="color:#ab183d">Last Date: 21 August 2023
+															<span style="color:#333333">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-162050" class="su-post"><a
 																href="bank-of-maharashtra-officer-job/">Bank
 																of Maharashtra Recruitment 2023 Apply Officer 400
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2023 </span>
+															<span style="color:#333333">Last Date: 25 July 2023 </span>
 														</li>
 														<li id="su-post-161256" class="su-post"><a
 																href="punjab-sind-bank-specialist-officer-job/">Punjab
 																&#038; Sind Bank Recruitment 2023 Apply Online 183
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 July 2023 </span>
+															<span style="color:#333333">Last Date: 12 July 2023 </span>
 														</li>
 														<li id="su-post-161238" class="su-post"><a
 																href="muc-bank-clerical-trainee-job/">MUC
 																Bank Recruitment 2023 Apply Online Clerical Trainee 50
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 July 2023 </span>
+															<span style="color:#333333">Last Date: 21 July 2023 </span>
 														</li>
 														<li id="su-post-161211" class="su-post"><a
 																href="central-bank-of-india-manager-recruitment/">Central
 																Bank of India Recruitment 2023 Apply Manager 1000
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 July 2023 </span>
+															<span style="color:#333333">Last Date: 15 July 2023 </span>
 														</li>
 														<li id="su-post-161118" class="su-post"><a
 																href="ibps-clerk-notification-2023-pdf/">IBPS
 																Clerk Notification 2023 PDF Out, Eligibility, Apply
 																Online, Vacancy Details</a>
-															<span style="color:#ab183d">Last Date: 21 July 2023 </span>
+															<span style="color:#333333">Last Date: 21 July 2023 </span>
 														</li>
 														<li id="su-post-158741" class="su-post"><a
 																href="idbi-executive-apply-online-for-1036-post/">IDBI
@@ -121,122 +121,122 @@
 																href="rbi-scientist-engineer-job/">RBI
 																Recruitment 2023 Apply Online Scientist, Engineer 66
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 July 2023 </span>
+															<span style="color:#333333">Last Date: 11 July 2023 </span>
 														</li>
 														<li id="su-post-160086" class="su-post"><a
 																href="sbi-agm-chief-manager-apply-now/">SBI
 																SCO Recruitment 2023 Apply AGM, Chief Manager 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 June 2023 </span>
+															<span style="color:#333333">Last Date: 21 June 2023 </span>
 														</li>
 														<li id="su-post-159926" class="su-post"><a
 																href="rbi-jr-engineer-civil-electrical-online-form/">RBI
 																JE Recruitment 2023 Jr Engineer (Civil/Electrical) 35
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
+															<span style="color:#333333">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-159700" class="su-post"><a
 																href="idbi-bank-so-notification/">IDBI
 																Bank SO Recruitment 2023 Apply Specialist Officer 136
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 June 2023 </span>
+															<span style="color:#333333">Last Date: 20 June 2023 </span>
 														</li>
 														<li id="su-post-159100" class="su-post"><a
 																href="ibps-rrb-2023-notification/">IBPS
 																RRB 2023 Notification for 8594 Post, Eligibility, Apply
 																Online, Vacancy Details</a>
-															<span style="color:#ab183d">Last Date: 21 June 2023 </span>
+															<span style="color:#333333">Last Date: 21 June 2023 </span>
 														</li>
 														<li id="su-post-158819" class="su-post"><a
 																href="citizencredit-bank-apprentice-job/">Citizencredit
 																Bank Recruitment 2023 Apply Apprentice 30 Post</a>
-															<span style="color:#ab183d">Last Date: 31 May 2023 </span>
+															<span style="color:#333333">Last Date: 31 May 2023 </span>
 														</li>
 														<li id="su-post-158807" class="su-post"><a
 																href="nnsb-clerical-grade-job/">NNSB
 																Recruitment 2023 Application Form Clerical Grade 50
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 June 2023 </span>
+															<span style="color:#333333">Last Date: 7 June 2023 </span>
 														</li>
 														<li id="su-post-158723" class="su-post"><a
 																href="pnb-delhi-officer-manager-job/">PNB
 																Delhi Recruitment 2023 Apply Now Officer, Manager 240
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 June 2023 </span>
+															<span style="color:#333333">Last Date: 11 June 2023 </span>
 														</li>
 														<li id="su-post-157927" class="su-post"><a
 																href="sbi-specialist-cadre-officer-job/">SBI
 																Recruitment 2023 Apply Specialist Cadre Officer 57
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2023 </span>
+															<span style="color:#333333">Last Date: 5 June 2023 </span>
 														</li>
 														<li id="su-post-158380" class="su-post"><a
 																href="indian-bank-specialist-job/">Indian
 																Bank Recruitment 2023 Apply Now Specialist 18 Post</a>
-															<span style="color:#ab183d">Last Date: 29 May 2023 </span>
+															<span style="color:#333333">Last Date: 29 May 2023 </span>
 														</li>
 														<li id="su-post-152867" class="su-post"><a
 																href="ecgc-po-2023-notification-release/">ECGC
 																PO 2023 Notification Release, Syllabus, Exam Date,
 																Online Form</a>
-															<span style="color:#ab183d">Last Date: 31 May 2023 </span>
+															<span style="color:#333333">Last Date: 31 May 2023 </span>
 														</li>
 														<li id="su-post-155077" class="su-post"><a
 																href="bandhan-bank-deo-job/">Bandhan
 																Bank Recruitment 2023 Apply Data Entry Operator 159
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 May 2023 </span>
+															<span style="color:#333333">Last Date: 30 May 2023 </span>
 														</li>
 														<li id="su-post-154040" class="su-post"><a
 																href="rbi-grade-b-recruitment-notification-2023/">RBI
 																Grade B Recruitment 2023 Notification PDF, Apply Online,
 																Eligibility, 291 Post</a>
-															<span style="color:#ab183d">Last Date: 9 June 2023 </span>
+															<span style="color:#333333">Last Date: 9 June 2023 </span>
 														</li>
 														<li id="su-post-156893" class="su-post"><a
 																href="sbi-so-online-application-2023/">SBI
 																SO Recruitment 2023 Manager, Dy &#038; Assistant Manager
 																217 Post</a>
-															<span style="color:#ab183d">Last Date: 19 May 2023 </span>
+															<span style="color:#333333">Last Date: 19 May 2023 </span>
 														</li>
 														<li id="su-post-155524" class="su-post"><a
 																href="bob-analyst-manager-job/">Bank
 																of Baroda Recruitment 2023 Apply Analyst, Manager 157
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 May 2023 </span>
+															<span style="color:#333333">Last Date: 17 May 2023 </span>
 														</li>
 														<li id="su-post-152846" class="su-post"><a
 																href="nhb-project-finance-officer-recruitment/">NHB
 																Project Finance Officer Recruitment 2023 Apply Online 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 May 2023 </span>
+															<span style="color:#333333">Last Date: 13 May 2023 </span>
 														</li>
 														<li id="su-post-149429" class="su-post"><a
 																href="indbank-dealer-job/">Indbank
 																Recruitment 2023 Application Form Dealer 12 Post</a>
-															<span style="color:#ab183d">Last Date: 22 April 2023 </span>
+															<span style="color:#333333">Last Date: 22 April 2023 </span>
 														</li>
 														<li id="su-post-147006" class="su-post"><a
 																href="m-p-rajya-sahakari-bank-officer-grade-job/">M.P
 																Rajya Sahakari Bank Recruitment 2023 Apply Officer Grade
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 April 2023 </span>
+															<span style="color:#333333">Last Date: 20 April 2023 </span>
 														</li>
 														<li id="su-post-146597" class="su-post"><a
 																href="rbi-driver-apply-online/">RBI
 																Driver Recruitment 2023 Apply Online Form 05 Post</a>
-															<span style="color:#ab183d">Last Date: 16 April 2023 </span>
+															<span style="color:#333333">Last Date: 16 April 2023 </span>
 														</li>
 														<li id="su-post-150895" class="su-post"><a
 																href="sidbi-specialist-job/">SIDBI
 																Recruitment 2023 Application Form Specialist 14 Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2023 </span>
+															<span style="color:#333333">Last Date: 14 April 2023 </span>
 														</li>
 														<li id="su-post-150836" class="su-post"><a
 																href="union-bank-stipendiary-players-job/">Union
 																Bank Recruitment 2023 Apply Now Stipendiary Players
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 April 2023 </span>
+															<span style="color:#333333">Last Date: 15 April 2023 </span>
 														</li>
 														<li id="su-post-134917" class="su-post"><a
 																href="idbi-assistant-manager-recruitment/">IDBI
@@ -247,19 +247,19 @@
 																href="central-bank-of-india-bc-supervisor-job/">Central
 																Bank of India Recruitment 2023 Apply BC Supervisor
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
+															<span style="color:#333333">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-145059" class="su-post"><a
 																href="canbank-manager-vice-president-job/">Canbank
 																Recruitment 2023 Apply Now Manager, Vice President
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
+															<span style="color:#333333">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-142362" class="su-post"><a
 																href="m-p-rajya-sahakari-bank-recruitment/">M.P
 																Rajya Sahakari Bank Recruitment 2023 Apply Online 638
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 April 2023 </span>
+															<span style="color:#333333">Last Date: 9 April 2023 </span>
 														</li>
 														<li id="su-post-146203" class="su-post"><a
 																href="saraswat-bank/">Saraswat
@@ -275,31 +275,31 @@
 																href="central-bank-of-india-apprentice-job/">Central
 																Bank of India Recruitment 2023 Apply Apprentice 5000
 																Post</a>
-															<span style="color:#ab183d">Last Date: 02 April 2023 </span>
+															<span style="color:#333333">Last Date: 02 April 2023 </span>
 														</li>
 														<li id="su-post-141210" class="su-post"><a
 																href="sbi-retired-bank-officer-job/">SBI
 																Retired Bank Officer Recruitment 2023 Apply Online 868
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+															<span style="color:#333333">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-140790" class="su-post"><a
 																href="pnb-rewari-recruitmen/">PNB
 																Rewari Recruitment 2023 Punjab National Bank Rewari Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+															<span style="color:#333333">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-143640" class="su-post"><a
 																href="indian-bank-apply-form/">Indian
 																Bank Recruitment 2023 Faculty, Office Asst, Attender
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 March 2023 </span>
+															<span style="color:#333333">Last Date: 30 March 2023 </span>
 														</li>
 														<li id="su-post-148749" class="su-post"><a
 																href="sbi-retired-bank-staff-job/">SBI
 																Retired Bank Staff Recruitment 2023 Apply Online 1031
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2023 </span>
+															<span style="color:#333333">Last Date: 30 April 2023 </span>
 														</li>
 														<li id="su-post-120249" class="su-post"><a
 																href="sidbi-assistant-manager-job/">SIDBI
@@ -310,7 +310,7 @@
 																href="central-bank-of-india-manager-job/">Central
 																Bank of India Recruitment 2023 Apply Manager 147
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
+															<span style="color:#333333">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-138144" class="su-post"><a
 																href="sarva-haryana-gramin-bank-recruitment/">Sarva
@@ -320,139 +320,139 @@
 														<li id="su-post-139156" class="su-post"><a
 																href="sbi-manager-recruitment/">SBI
 																Manager Recruitment 2023 Apply Online SCO 05 Post</a>
-															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
+															<span style="color:#333333">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-138908" class="su-post"><a
 																href="central-bank-of-india-office-assistant-recruitment/">Central
 																Bank of India Recruitment 2023 Director, Office Asst
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
+															<span style="color:#333333">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-135675" class="su-post"><a
 																href="bob-application-form/">Bank
 																of Baroda Recruitment 2023 Banker, Head, Manager 546
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 March 2023 </span>
+															<span style="color:#333333">Last Date: 14 March 2023 </span>
 														</li>
 														<li id="su-post-136037" class="su-post"><a
 																href="bank-of-baroda-ao-recruitment/">Bank
 																of Baroda AO Recruitment 2023 Acquisition Officer 500
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 14 March 2023 </span>
+															<span style="color:#333333">Last Date: 14 March 2023 </span>
 														</li>
 														<li id="su-post-144941" class="su-post"><a
 																href="rbi-pharmacist-job/">RBI
 																Recruitment 2023 Application Form Pharmacist 25 Post</a>
-															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
+															<span style="color:#333333">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-135212" class="su-post"><a
 																href="baroda-up-gramin-bank-recruitment/">Baroda
 																UP Bank Recruitment 2023 Apply Now Charted Accountant
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 March 2023 </span>
+															<span style="color:#333333">Last Date: 6 March 2023 </span>
 														</li>
 														<li id="su-post-133253" class="su-post"><a
 																href="idbi-online-form/">IDBI
 																SO Recruitment 2023 Apply Specialist Cadre Officer 114
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
+															<span style="color:#333333">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-134912" class="su-post"><a
 																href="ippb-gds-job/">IPPB
 																GDS Recruitment 2023 Apply Gramin Dak Sevak 59 Posts</a>
-															<span style="color:#ab183d">Last Date: 1 March 2023 </span>
+															<span style="color:#333333">Last Date: 1 March 2023 </span>
 														</li>
 														<li id="su-post-130985" class="su-post"><a
 																href="cosmos-bank-recruitment/">Cosmos
 																Bank Recruitment 2023 Apply Online Java Developer 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-135245" class="su-post"><a
 																href="ap-mahesh-bank-recruitment/">AP
 																Mahesh Bank Recruitment 2023 Apply GM, DGM, AGM, Manager
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 March 2023 </span>
+															<span style="color:#333333">Last Date: 1 March 2023 </span>
 														</li>
 														<li id="su-post-130077" class="su-post"><a
 																href="ippb-manager-vacancy/">IPPB
 																Manager Recruitment 2023 Apply Form 41 Posts</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-129992" class="su-post"><a
 																href="indian-bank-specialist-officer-recruitment/">Indian
 																Bank Specialist Officer Recruitment 2023 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-128618" class="su-post"><a
 																href="bangalore-dcc-bank-recruitment/">Bangalore
 																DCC Bank Recruitment 2023 Driver, JA, Manager 96
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 February 2023
+															<span style="color:#333333">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-131877" class="su-post"><a
 																href="boi-po-recruitment/">BOI
 																PO Recruitment 2023 Apply Online Probationary Officer
 																500 Post</a>
-															<span style="color:#ab183d">Last Date: 25 February 2023
+															<span style="color:#333333">Last Date: 25 February 2023
 															</span>
 														</li>
 														<li id="su-post-132755" class="su-post"><a
 																href="karnataka-bank-online-form/">Karnataka
 																Bank Recruitment 2023 Apply Engineer, Analyst 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 February 2023
+															<span style="color:#333333">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-125552" class="su-post"><a
 																href="union-bank-manager-recruitment/">Union
 																Bank Manager Recruitment 2023 Apply Now 42 Post</a>
-															<span style="color:#ab183d">Last Date: 12 February 2023
+															<span style="color:#333333">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-130712" class="su-post"><a
 																href="sidbi-specialist-recruitment/">SIDBI
 																Specialist Recruitment 2023 CTO, Advisor, Executive 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 February 2023
+															<span style="color:#333333">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-127375" class="su-post"><a
 																href="central-bank-of-india-manager-vacancy/">Central
 																Bank of India Recruitment 2023 Apply Now Manager 250
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 February 2023
+															<span style="color:#333333">Last Date: 11 February 2023
 															</span>
 														</li>
 														<li id="su-post-129535" class="su-post"><a
 																href="south-indian-bank-recruitment/">South
 																Indian Bank Recruitment 2023 Apply Probationary Clerk
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 February 2023
+															<span style="color:#333333">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-125676" class="su-post"><a
 																href="bank-of-maharashtra-so-vacancy/">Bank
 																of Maharashtra Recruitment 2023 Apply Online SO 225
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 February 2023
+															<span style="color:#333333">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-124275" class="su-post"><a
 																href="nhb-assistant-manager/">NHB
 																Recruitment 2023 Apply Assistant, Manager, Officer 36
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 February 2023
+															<span style="color:#333333">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-125756" class="su-post"><a
 																href="pnb-gold-appraiser-recruitment/">PNB
 																Gold Appraiser Recruitment 2023 Application Form</a>
-															<span style="color:#ab183d">Last Date: 30 January 2023
+															<span style="color:#333333">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-113191" class="su-post"><a
@@ -464,290 +464,290 @@
 																href="federal-bank-graduate-apprentice-recruitment/">Federal
 																Bank Recruitment 2023 Apply Now Graduate Apprentice
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 January 2023
+															<span style="color:#333333">Last Date: 27 January 2023
 															</span>
 														</li>
 														<li id="su-post-124329" class="su-post"><a
 																href="exim-bank-officer-online-form/">Exim
 																Bank Officer Recruitment 2023 Online Application Form 30
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 January 2023
+															<span style="color:#333333">Last Date: 27 January 2023
 															</span>
 														</li>
 														<li id="su-post-123828" class="su-post"><a
 																href="central-bank-of-india-jobs-apply/">Central
 																Bank of India Recruitment 2023 Apply Office Assistant
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 January 2023
+															<span style="color:#333333">Last Date: 16 January 2023
 															</span>
 														</li>
 														<li id="su-post-123397" class="su-post"><a
 																href="kscb-gold-appraiser-recruitment/">KSCB
 																Gold Appraiser Recruitment 2023 Apply Now 586 Post</a>
-															<span style="color:#ab183d">Last Date: 21 January 2023
+															<span style="color:#333333">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-123219" class="su-post"><a
 																href="bank-of-baroda-manager-online-form/">Bank
 																of Baroda Recruitment 2023 Online Application Manager 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 January 2023
+															<span style="color:#333333">Last Date: 24 January 2023
 															</span>
 														</li>
 														<li id="su-post-122989" class="su-post"><a
 																href="karnataka-bank-vacancy/">Karnataka
 																Bank PO Recruitment 2023 Apply Probationary Officer
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 January 2023
+															<span style="color:#333333">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-122721" class="su-post"><a
 																href="indbank-online-form/">Indbank
 																Recruitment 2023 Apply Online Dealer, Office Staff 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 January 2023
+															<span style="color:#333333">Last Date: 14 January 2023
 															</span>
 														</li>
 														<li id="su-post-121498" class="su-post"><a
 																href="sbi-retired-bank-staff-recruitment/">SBI
 																Retired Bank Staff Recruitment 2023 Apply Online 1438
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 January 2023
+															<span style="color:#333333">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-120344" class="su-post"><a
 																href="bank-of-maharashtra-apprentice-recruitment/">Bank
 																of Maharashtra Apprentice Recruitment 2022 Apply Now 314
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 December 2022
+															<span style="color:#333333">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-120082" class="su-post"><a
 																href="sbi-notification/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 54
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 29 December 2022
+															<span style="color:#333333">Last Date: 29 December 2022
 															</span>
 														</li>
 														<li id="su-post-119710" class="su-post"><a
 																href="pnb-online-form/">PNB
 																Recruitment 2022 Apply Form SDBA &#038; BDA 13 Posts</a>
-															<span style="color:#ab183d">Last Date: 23 December 2022
+															<span style="color:#333333">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-119342" class="su-post"><a
 																href="bank-of-maharashtra-online-form/">Bank
 																of Maharashtra Recruitment 2022 Manager, AGM, GO 551
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 December 2022
+															<span style="color:#333333">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-119353" class="su-post"><a
 																href="nabard-apply-online/">NABARD
 																Recruitment 2022 Apply Online Sr Project Assistant
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118958" class="su-post"><a
 																href="ibps-assistant-recruitment/">IBPS
 																Programming Assistant Recruitment 2022 Walk In
 																Interview</a>
-															<span style="color:#ab183d">Last Date: 14 December 2022
+															<span style="color:#333333">Last Date: 14 December 2022
 															</span>
 														</li>
 														<li id="su-post-118387" class="su-post"><a
 																href="mp-cooperative-bank-recruitment/">MP
 																Cooperative Bank Recruitment 2022 Apply Now Clerk 2254
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 December 2022
+															<span style="color:#333333">Last Date: 25 December 2022
 															</span>
 														</li>
 														<li id="su-post-118341" class="su-post"><a
 																href="central-bank-of-india-apply-form/">Central
 																Bank of India Recruitment 2022 Apply Now Office Asst
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118112" class="su-post"><a
 																href="sbi-online-form/">SBI
 																Recruitment 2022 Apply Now Advisor &#038; Manager 65
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 December 2022
+															<span style="color:#333333">Last Date: 12 December 2022
 															</span>
 														</li>
 														<li id="su-post-117340" class="su-post"><a
 																href="pnb-kaithal-recruitment/">PNB
 																Kaithal Recruitment 2022 Apply Stream &#038; Assistant
 																02 Post</a>
-															<span style="color:#ab183d">Last Date: 2 December 2022
+															<span style="color:#333333">Last Date: 2 December 2022
 															</span>
 														</li>
 														<li id="su-post-117306" class="su-post"><a
 																href="kheti-bank-recruitment/">Kheti
 																Bank Recruitment 2022 » Manager, GM, DGM, AGM, AM 139
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2022
+															<span style="color:#333333">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-117018" class="su-post"><a
 																href="vcbl-recruitment/">VCBL
 																Recruitment 2022 Apply Online Probationary Officer 30
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 December 2022
+															<span style="color:#333333">Last Date: 14 December 2022
 															</span>
 														</li>
 														<li id="su-post-116973" class="su-post"><a
 																href="dccb-chittoor-recruitment/">DCCB
 																Chittoor Recruitment 2022 Assistant Manager, Clerk 55
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 November 2022
+															<span style="color:#333333">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116895" class="su-post"><a
 																href="iob-so-vacancy/">IOB
 																SO Recruitment 2022 Apply Online Specialist Officer 25
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116830" class="su-post"><a
 																href="scv-bank-branch-manager-recruitment/">SCV
 																Bank Recruitment 2022 Apply Online Branch Manager 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116832" class="su-post"><a
 																href="pucb-online-form/">PUCB
 																Guard Recruitment 2022 Application Form</a>
-															<span style="color:#ab183d">Last Date: 10 November 2022
+															<span style="color:#333333">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-116810" class="su-post"><a
 																href="dccb-ap-recruitment/">DCCB
 																AP Recruitment 2022 Apply Assistant &#038; Manager 168
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 November 2022
+															<span style="color:#333333">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116790" class="su-post"><a
 																href="ippb-manager-jobs/">IPPB
 																Manager Recruitment 2022 Apply Online Asst Manager 41
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 November 2022
+															<span style="color:#333333">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-116767" class="su-post"><a
 																href="eluru-dccb-recruitment/">Eluru
 																DCCB Recruitment 2022 Apply Staff Assistant/Clerk 95
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 November 2022
+															<span style="color:#333333">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116772" class="su-post"><a
 																href="muc-bank-officer-recruitment/">MUC
 																Bank Recruitment 2022 Apply Now CFO, Manager, Auditor 25
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 November 2022
+															<span style="color:#333333">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116745" class="su-post"><a
 																href="kurnool-dccb-recruitment/">Kurnool
 																DCCB Recruitment 2022 Apply Now Staff Assistant/Clerk
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 November 2022
+															<span style="color:#333333">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116676" class="su-post"><a
 																href="repco-bank-clerk-recruitment/">Repco
 																Bank Clerk Recruitment 2022 Apply Now Assistant 50
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 November 2022
+															<span style="color:#333333">Last Date: 25 November 2022
 															</span>
 														</li>
 														<li id="su-post-116340" class="su-post"><a
 																href="bccb-bank-recruitment/">BCCB
 																Trainee Recruitment 2022 Apply Now 100 Posts</a>
-															<span style="color:#ab183d">Last Date: 15 November 2022
+															<span style="color:#333333">Last Date: 15 November 2022
 															</span>
 														</li>
 														<li id="su-post-116307" class="su-post"><a
 																href="central-bank-of-india-notification/">Central
 																Bank of India Recruitment 2022 Faculty, Chowkidar
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 15 November 2022
+															<span style="color:#333333">Last Date: 15 November 2022
 															</span>
 														</li>
 														<li id="su-post-116260" class="su-post"><a
 																href="ibps-crp-spl-xii-so/">IBPS
 																SO Recruitment 2022 Apply Rajbhasha Adhikari, Officer
 																710 Post</a>
-															<span style="color:#ab183d">Last Date: 21 November 2022
+															<span style="color:#333333">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-115991" class="su-post"><a
 																href="nhb-recruitment/">NHB
 																Recruitment 2022 Online Application Form Officer 27
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 November 2022
+															<span style="color:#333333">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-115903" class="su-post"><a
 																href="iob-faculty-recruitment/">IOB
 																Recruitment 2022 Faculty, Office Assistant, Attender 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 November 2022
+															<span style="color:#333333">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-115416" class="su-post"><a
 																href="exim-bank-mt-jobs/">Exim
 																Bank Recruitment 2022 Online Application MT, Manager 45
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 November 2022
+															<span style="color:#333333">Last Date: 4 November 2022
 															</span>
 														</li>
 														<li id="su-post-115399" class="su-post"><a
 																href="sbi-cbo-vacancy/">SBI
 																CBO Recruitment 2022 Apply 1422 Circle Based Officer
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 November 2022
+															<span style="color:#333333">Last Date: 7 November 2022
 															</span>
 														</li>
 														<li id="su-post-115389" class="su-post"><a
 																href="nainital-bank-mt-recruitment/">Nainital
 																Bank MT Recruitment 2022 Apply Management Trainee
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 25 October 2022
+															<span style="color:#333333">Last Date: 25 October 2022
 															</span>
 														</li>
 														<li id="su-post-114950" class="su-post"><a
 																href="sbi-resolver-recruitment/">SBI
 																Resolver Recruitment 2022 Online Application Form 47
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 31 October 2022
+															<span style="color:#333333">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114025" class="su-post"><a
 																href="bob-notification/">Bank
 																of Baroda Recruitment 2022 Apply Manager &#038; Head 346
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 October 2022
+															<span style="color:#333333">Last Date: 20 October 2022
 															</span>
 														</li>
 														<li id="su-post-113822" class="su-post"><a
 																href="tscab-manager-recruitment/">TSCAB
 																Manager Recruitment 2022 Apply Now Staff Assistant 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 October 2022
+															<span style="color:#333333">Last Date: 16 October 2022
 															</span>
 														</li>
 														<li id="su-post-113788" class="su-post"><a
 																href="central-bank-of-india-officer-vacancy/">Central
 																Bank of India Officer Recruitment 2022 Apply Now 110
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 October 2022
+															<span style="color:#333333">Last Date: 17 October 2022
 															</span>
 														</li>
 														<li id="su-post-113568" class="su-post"><a
@@ -758,116 +758,116 @@
 																href="bank-of-baroda-professionals-business-manager-recruitment/">Bank
 																of Baroda Recruitment 2022 Apply Professionals/ BM 72
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 October 2022
+															<span style="color:#333333">Last Date: 11 October 2022
 															</span>
 														</li>
 														<li id="su-post-113178" class="su-post"><a
 																href="pnb-shimla-safai-karamchari-recruitment/">PNB
 																Shimla Safai Karamchari Recruitment 2022 Apply Form</a>
-															<span style="color:#ab183d">Last Date: 30 September 2022
+															<span style="color:#333333">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112176" class="su-post"><a
 																href="pnb-hamirpur-recruitment/">PNB
 																Hamirpur Recruitment 2022 Apply Form Safai Karamchari
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2022
+															<span style="color:#333333">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112155" class="su-post"><a
 																href="hpscb-assistant-manager-recruitment/">HPSCB
 																Assistant Manager Recruitment 2022 Apply Online 61
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2022
+															<span style="color:#333333">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112041" class="su-post"><a
 																href="kcc-bank-dharwad-recruitmen/">KCC
 																Bank Dharwad Recruitment 2022 Apply Online Clerk 87
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2022
+															<span style="color:#333333">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112026" class="su-post"><a
 																href="bscb-recruitment/">BSCB
 																Recruitment 2022 Assistant Manager &#038; Assistant 276
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 October 2022
+															<span style="color:#333333">Last Date: 9 October 2022
 															</span>
 														</li>
 														<li id="su-post-111904" class="su-post"><a
 																href="nabard-da-recruitment/">NABARD
 																DA Recruitment 2022 Apply Online Development Asst 177
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 October 2022
+															<span style="color:#333333">Last Date: 10 October 2022
 															</span>
 														</li>
 														<li id="su-post-111821" class="su-post"><a
 																href="sbi-clerk-recruitment-apply-online/">SBI
 																Clerk Recruitment 2022 Apply Now 5008 Junior Associate
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 September 2022
+															<span style="color:#333333">Last Date: 27 September 2022
 															</span>
 														</li>
 														<li id="su-post-111698" class="su-post"><a
 																href="pnb-patna-safai-karamchari-recruitment/">PNB
 																Patna Safai Karamchari Recruitment 2022 Apply 44
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 September 2022
+															<span style="color:#333333">Last Date: 16 September 2022
 															</span>
 														</li>
 														<li id="su-post-111611" class="su-post"><a
 																href="pnb-hp-sweeper-recruitment/">PNB
 																HP Recruitment 2022 Application Form 13 Sweeper Post</a>
-															<span style="color:#ab183d">Last Date: 23 September 2022
+															<span style="color:#333333">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111509" class="su-post"><a
 																href="bank-of-baroda-bc-supervisor-jobs/">Bank
 																of Baroda BC Supervisor Recruitment 2022 Apply Now 20
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 September 2022
+															<span style="color:#333333">Last Date: 19 September 2022
 															</span>
 														</li>
 														<li id="su-post-111433" class="su-post"><a
 																href="indian-bank-jobs/">Indian
 																Bank Recruitment 2022 Apply Form Product Owner 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 September 2022
+															<span style="color:#333333">Last Date: 3 September 2022
 															</span>
 														</li>
 														<li id="su-post-111264" class="su-post"><a
 																href="sbi-so-vacancy/">SBI
 																SO Recruitment 2022 Apply Online Specialist Officer 714
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 September 2022
+															<span style="color:#333333">Last Date: 20 September 2022
 															</span>
 														</li>
 														<li id="su-post-111124" class="su-post"><a
 																href="pnb-meerut-vacancy/">PNB
 																Meerut Recruitment 2022 Apply Now Safai Karamchari 43
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 September 2022
+															<span style="color:#333333">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-111017" class="su-post"><a
 																href="thane-dcc-bank-vacancy/">Thane
 																DCC Bank Recruitment 2022 Apply Clerk &#038; Peon 288
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 5 September 202
+															<span style="color:#333333">Last Date: 5 September 202
 															</span>
 														</li>
 														<li id="su-post-109783" class="su-post"><a
 																href="msc-bank-vacancy/">MSC
 																Bank Recruitment 2022 Apply Online Junior Officer 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 August 2022
+															<span style="color:#333333">Last Date: 29 August 2022
 															</span>
 														</li>
 														<li id="su-post-109366" class="su-post"><a
 																href="pnb-agra-recruitment/">PNB
 																Agra Recruitment 2022 Application Form Peon 15 Posts</a>
-															<span style="color:#ab183d">Last Date: 24 August 2022
+															<span style="color:#333333">Last Date: 24 August 2022
 															</span>
 														</li>
 														<li id="su-post-109089" class="su-post"><a
@@ -879,77 +879,77 @@
 																href="cbhfl-recruitment/">CBHFL
 																Recruitment 2022 Apply Online Form Officer, Manager 45
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 August 2022
+															<span style="color:#333333">Last Date: 18 August 2022
 															</span>
 														</li>
 														<li id="su-post-107551" class="su-post"><a
 																href="exim-bank-officer-recruitment/">Exim
 																Bank Recruitment 2022 Apply Online Officer 19 Posts</a>
-															<span style="color:#ab183d">Last Date: 6 August 2022 </span>
+															<span style="color:#333333">Last Date: 6 August 2022 </span>
 														</li>
 														<li id="su-post-106917" class="su-post"><a
 																href="citizen-credit-co-operative-bank-ltd-recruitment/">CCBL
 																Recruitment 2022 Apply Now PO, Probationary Associate
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 August 2022 </span>
+															<span style="color:#333333">Last Date: 2 August 2022 </span>
 														</li>
 														<li id="su-post-100216" class="su-post"><a
 																href="bank-of-baroda-bc-supervisor-recruitment/">Bank
 																of Baroda BC Supervisor Recruitment 2022 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 21 July 2022 </span>
+															<span style="color:#333333">Last Date: 21 July 2022 </span>
 														</li>
 														<li id="su-post-105883" class="su-post"><a
 																href="bank-of-baroda-manager-jobs/">Bank
 																of Baroda Manager Recruitment 2022 Apply Now 50 Post</a>
-															<span style="color:#ab183d">Last Date: 4 August 2022 </span>
+															<span style="color:#333333">Last Date: 4 August 2022 </span>
 														</li>
 														<li id="su-post-105026" class="su-post"><a
 																href="sebi-grade-a-recruitment/">SEBI
 																Grade A Recruitment 2022 Apply Online 24 Asst Manager
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 July 2022 </span>
+															<span style="color:#333333">Last Date: 31 July 2022 </span>
 														</li>
 														<li id="su-post-101182" class="su-post"><a
 																href="sbi-po-job-vacancy/">SBI
 																PO Recruitment 2022 Probationary Officer 2000 Posts</a>
-															<span style="color:#ab183d">Last Date: 30 August 2022
+															<span style="color:#333333">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-102782" class="su-post"><a
 																href="pnb-sirsa-recruitment/">PNB
 																Sirsa Recruitment 2022 Apply Now Office Assistant
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 22 July 2022 </span>
+															<span style="color:#333333">Last Date: 22 July 2022 </span>
 														</li>
 														<li id="su-post-105480" class="su-post"><a
 																href="central-bank-of-india-jobs/">Central
 																Bank of India Recruitment 2022 Apply Office Asst
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2022
+															<span style="color:#333333">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-105429" class="su-post"><a
 																href="pnb-patna-guard-recruitment/">PNB
 																Patna Guard Recruitment 2022 Apply Form 73 Posts</a>
-															<span style="color:#ab183d">Last Date: 29 July 2022 </span>
+															<span style="color:#333333">Last Date: 29 July 2022 </span>
 														</li>
 														<li id="su-post-102784" class="su-post"><a
 																href="pnb-tehri-recruitment/">PNB
 																Tehri Recruitment 2022 Application Form Sweeper 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 July 2022 </span>
+															<span style="color:#333333">Last Date: 18 July 2022 </span>
 														</li>
 														<li id="su-post-98697" class="su-post"><a
 																href="sbi-sco-jobs-vacancy/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 July 2022 </span>
+															<span style="color:#333333">Last Date: 13 July 2022 </span>
 														</li>
 														<li id="su-post-96858" class="su-post"><a
 																href="bank-of-baroda-so-job/">Bank
 																of Baroda SO Recruitment 2022 Apply Now 325 Post</a>
-															<span style="color:#ab183d">Last Date: 12 July 2022 </span>
+															<span style="color:#333333">Last Date: 12 July 2022 </span>
 														</li>
 														<li id="su-post-64662" class="su-post"><a
 																href="rbi-grade-b-recruitment/">RBI
@@ -960,13 +960,13 @@
 																href="idbi-so-recruitment/">IDBI
 																SO Recruitment 2022 Apply Online Specialist Officer 226
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 July 2022 </span>
+															<span style="color:#333333">Last Date: 10 July 2022 </span>
 														</li>
 														<li id="su-post-97273" class="su-post"><a
 																href="panchmahal-district-cooperative-bank-recruitment/">Panchmahal
 																District Cooperative Bank Recruitment 2022 Clerk 103
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 July 2022 </span>
+															<span style="color:#333333">Last Date: 4 July 2022 </span>
 														</li>
 														<li id="su-post-81478" class="su-post"><a
 																href="karnataka-bank-recruitment/">Karnataka
@@ -976,18 +976,18 @@
 																href="sbi-counsellor-recruitment/">SBI
 																Counsellor Recruitment 2022 Apply Online Director 211
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
+															<span style="color:#333333">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-93720" class="su-post"><a
 																href="nabard-vacancy/">NABARD
 																Specialist Recruitment 2022 Apply Online 21 Posts</a>
-															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
+															<span style="color:#333333">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-74057" class="su-post"><a
 																href="muc-bank-clerical-trainee-recruitment/">MUC
 																Bank Recruitment 2022 Apply Online Clerical Trainee 50
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 May 2022 </span>
+															<span style="color:#333333">Last Date: 30 May 2022 </span>
 														</li>
 														<li id="su-post-41427" class="su-post"><a
 																href="sbi-cbo-recruitment/">SBI
@@ -998,54 +998,54 @@
 																href="nabard-recruitment/">NABARD
 																Recruitment 2022 Apply Now Bank’s Medical Officer
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 June 2022 </span>
+															<span style="color:#333333">Last Date: 24 June 2022 </span>
 														</li>
 														<li id="su-post-92340" class="su-post"><a
 																href="sidbi-executive-recruitment/">SIDBI
 																Executive Recruitment 2022 Apply Now 25 Post</a>
-															<span style="color:#ab183d">Last Date: 17 June 2022 </span>
+															<span style="color:#333333">Last Date: 17 June 2022 </span>
 														</li>
 														<li id="su-post-92303" class="su-post"><a
 																href="sbi-sco-vacancy-apply/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 June 2022 </span>
+															<span style="color:#333333">Last Date: 16 June 2022 </span>
 														</li>
 														<li id="su-post-91173" class="su-post"><a
 																href="rani-channamma-urban-credit-cooperative-society/">Rani
 																Channamma Urban Credit Cooperative Society Recruitment
 																2022 Apply 200 Post</a>
-															<span style="color:#ab183d">Last Date: 15 June 2022 </span>
+															<span style="color:#333333">Last Date: 15 June 2022 </span>
 														</li>
 														<li id="su-post-89760" class="su-post"><a
 																href="iob-vacancy/">IOB
 																Recruitment 2022 Apply Online Security Guard 20
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 15 June 2022 </span>
+															<span style="color:#333333">Last Date: 15 June 2022 </span>
 														</li>
 														<li id="su-post-86516" class="su-post"><a
 																href="indian-bank-so-recruitment/">Indian
 																Bank SO Recruitment 2022 Apply Specialist Officer 312
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2022 </span>
+															<span style="color:#333333">Last Date: 14 June 2022 </span>
 														</li>
 														<li id="su-post-91931" class="su-post"><a
 																href="nesfb-vacancy/">NESFB
 																Recruitment 2022 Apply Now Head, Operator, Manager 625
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2022 </span>
+															<span style="color:#333333">Last Date: 14 June 2022 </span>
 														</li>
 														<li id="su-post-86097" class="su-post"><a
 																href="almora-urban-co-operative-bank-recruitment/">Almora
 																Urban Co-operative Bank Recruitment 2022 Apply 100
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 June 2022 </span>
+															<span style="color:#333333">Last Date: 12 June 2022 </span>
 														</li>
 														<li id="su-post-86186" class="su-post"><a
 																href="state-bank-of-india-vacancy/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 32
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 June 2022 </span>
+															<span style="color:#333333">Last Date: 12 June 2022 </span>
 														</li>
 														<li id="su-post-93155" class="su-post"><a
 																href="rbi-assistant-mains-result-2022/">RBI
@@ -1056,109 +1056,109 @@
 																href="sbi-retired-staff-recruitment/">SBI
 																Retired Staff Recruitment 2022 Apply Online 641
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 7 June 2022 </span>
+															<span style="color:#333333">Last Date: 7 June 2022 </span>
 														</li>
 														<li id="su-post-86870" class="su-post"><a
 																href="city-union-bank-recruitment/">City
 																Union Bank Recruitment 2022 Apply Relationship Manager
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 June 2022 </span>
+															<span style="color:#333333">Last Date: 3 June 2022 </span>
 														</li>
 														<li id="su-post-83955" class="su-post"><a
 																href="ddcc-bank-recruitment/">DDCC
 																Bank Recruitment 2022 Apply Online JA, Engineer, Driver
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 June 2022 </span>
+															<span style="color:#333333">Last Date: 1 June 2022 </span>
 														</li>
 														<li id="su-post-85514" class="su-post"><a
 																href="pnb-bhubaneswar-recruitment/">PNB
 																Bhubaneswar Recruitment 2022 Application Form Peon 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
+															<span style="color:#333333">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-86561" class="su-post"><a
 																href="ibps-research-associate-recruitment/">IBPS
 																Recruitment 2022 Apply Online Research Associate 100
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
+															<span style="color:#333333">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-79809" class="su-post"><a
 																href="msc-bank-recruitment/">MSC
 																Bank Recruitment 2022 Apply Now Officers &#038; Clerk
 																195 Post</a>
-															<span style="color:#ab183d">Last Date: 25 May 2022 </span>
+															<span style="color:#333333">Last Date: 25 May 2022 </span>
 														</li>
 														<li id="su-post-79684" class="su-post"><a
 																href="dns-bank-recruitment/">DNS
 																Bank Recruitment 2022 Apply Online Assistant Manager 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 May 2022 </span>
+															<span style="color:#333333">Last Date: 23 May 2022 </span>
 														</li>
 														<li id="su-post-82296" class="su-post"><a
 																href="pnb-etawah-recruitment/">PNB
 																Etawah Recruitment 2022 Application Form Peon Post</a>
-															<span style="color:#ab183d">Last Date: 21 May 2022 </span>
+															<span style="color:#333333">Last Date: 21 May 2022 </span>
 														</li>
 														<li id="su-post-77604" class="su-post"><a
 																href="ncbl-recruitment/">NCBL
 																Recruitment 2022 Application Form Clerk 12 Posts</a>
-															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
+															<span style="color:#333333">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-80178" class="su-post"><a
 																href="pucb-recruitment/">Panipat
 																Urban Co-operative Bank Recruitment 2022 Apply 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
+															<span style="color:#333333">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-78547" class="su-post"><a
 																href="bareilly-urban-co-operative-bank-recruitment/">Bareilly
 																Urban Co-operative Bank Recruitment 2022 Apply 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 May 2022 </span>
+															<span style="color:#333333">Last Date: 15 May 2022 </span>
 														</li>
 														<li id="su-post-77653" class="su-post"><a
 																href="assam-apex-bank-recruitment/">Assam
 																Apex Bank Recruitment 2022 Apply Now Assistant 100
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
+															<span style="color:#333333">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-74754" class="su-post"><a
 																href="boi-specialist-officers-recruitment/">BOI
 																Specialist Officers Recruitment 2022 Apply Online 696
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 May 2022 </span>
+															<span style="color:#333333">Last Date: 10 May 2022 </span>
 														</li>
 														<li id="su-post-74113" class="su-post"><a
 																href="sbi-sco-recruitment-apply/">SBI
 																SCO Recruitment 2022 Apply Manager, Vice President 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 May 2022 </span>
+															<span style="color:#333333">Last Date: 4 May 2022 </span>
 														</li>
 														<li id="su-post-78667" class="su-post"><a
 																href="indian-bank-clerk-recruitment/">Indian
 																Bank Recruitment 2022 Apply Now 12 Clerk/ Officer
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 May 2022 </span>
+															<span style="color:#333333">Last Date: 26 May 2022 </span>
 														</li>
 														<li id="su-post-73785" class="su-post"><a
 																href="pnb-patna-recruitment/">PNB
 																Patna Recruitment 2022 Application Form Peon 12 Post</a>
-															<span style="color:#ab183d">Last Date: 2 May 2022 </span>
+															<span style="color:#333333">Last Date: 2 May 2022 </span>
 														</li>
 														<li id="su-post-71281" class="su-post"><a
 																href="bandhan-bank-fresher-recruitment/">Bandhan
 																Bank Fresher Recruitment 2022 Apply Online 22 Post</a>
-															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
+															<span style="color:#333333">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-64718" class="su-post"><a
 																href="federal-bank-recruitment/">Federal
 																Bank Recruitment 2022 Apply Online Sweeper Posts</a>
-															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
+															<span style="color:#333333">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-62708" class="su-post"><a
 																href="bandhan-bank-recruitment/">Bandhan
 																Bank Recruitment 2022 Apply Online DEO 39 Posts</a>
-															<span style="color:#ab183d">Last Date: 29 April 2022 </span>
+															<span style="color:#333333">Last Date: 29 April 2022 </span>
 														</li>
 														<li id="su-post-71595" class="su-post"><a
 																href="exim-bank-recruitment/">Exim
@@ -1178,19 +1178,19 @@
 																href="indbank-vacancy/">Indbank
 																Recruitment 2022 Apply Professional, Specialist 73
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
+															<span style="color:#333333">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-72054" class="su-post"><a
 																href="rbi-mc-recruitment/">RBI
 																MC Recruitment 2022 Apply Now Medical Consultant 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
+															<span style="color:#333333">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-67350" class="su-post"><a
 																href="rbi-grade-a-recruitment/">RBI
 																Grade A Recruitment 2022 Apply Now Assistant Manager
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
+															<span style="color:#333333">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-71344" class="su-post"><a
 																href="karnataka-apex-bank-vacancy/">Karnataka
@@ -1200,83 +1200,83 @@
 														<li id="su-post-68935" class="su-post"><a
 																href="pnb-aligarh-peon-recruitment/">PNB
 																Aligarh Recruitment 2022 Application Form Peon Posts</a>
-															<span style="color:#ab183d">Last Date: 16 April 2022 </span>
+															<span style="color:#333333">Last Date: 16 April 2022 </span>
 														</li>
 														<li id="su-post-65877" class="su-post"><a
 																href="bank-of-baroda-manager-vacancy/">Bank
 																of Baroda Manager Recruitment 2022 Apply Online 159
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2022 </span>
+															<span style="color:#333333">Last Date: 14 April 2022 </span>
 														</li>
 														<li id="su-post-68342" class="su-post"><a
 																href="ippb-notification/">IPPB
 																Recruitment 2022 Apply Online Manager, AGM, DGM 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 April 2022 </span>
+															<span style="color:#333333">Last Date: 9 April 2022 </span>
 														</li>
 														<li id="su-post-68020" class="su-post"><a
 																href="pnb-tamil-nadu-vacancy/">PNB
 																Tamil Nadu Recruitment 2022 Application Form Peon 14
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 April 2022 </span>
+															<span style="color:#333333">Last Date: 9 April 2022 </span>
 														</li>
 														<li id="su-post-67712" class="su-post"><a
 																href="pnb-badaun-recruitment/">PNB
 																Badaun Recruitment 2022 Application Form Peon Post</a>
-															<span style="color:#ab183d">Last Date: 8 April 2022 </span>
+															<span style="color:#333333">Last Date: 8 April 2022 </span>
 														</li>
 														<li id="su-post-67720" class="su-post"><a
 																href="pnb-gwalior-recruitment/">PNB
 																Gwalior Recruitment 2022 Application Form Peon Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2022 </span>
+															<span style="color:#333333">Last Date: 7 April 2022 </span>
 														</li>
 														<li id="su-post-64927" class="su-post"><a
 																href="pnb-ghaziabad-recruitment/">PNB
 																Ghaziabad Recruitment 2022 Application Form Peon 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
+															<span style="color:#333333">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-57851" class="su-post"><a
 																href="bnp-dewas-recruitment/">BNP
 																Dewas Recruitment 2022 Apply Online Technician 81
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
+															<span style="color:#333333">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-65007" class="su-post"><a
 																href="pnb-west-bengal-recruitment/">PNB
 																West Bengal Recruitment 2022 Application Form Peon 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
+															<span style="color:#333333">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-63183" class="su-post"><a
 																href="pnb-burdwan-recruitment/">PNB
 																Burdwan Recruitment 2022 Application Form Peon 15
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
+															<span style="color:#333333">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-64184" class="su-post"><a
 																href="pnb-fazilka-recruitment/">PNB
 																Fazilka Recruitment 2022 Application Form Peon 15
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
+															<span style="color:#333333">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-60317" class="su-post"><a
 																href="bank-of-baroda-recruitment/">Bank
 																of Baroda SO Recruitment 2022 Specialist Officer 147
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 24 March 2022 </span>
+															<span style="color:#333333">Last Date: 24 March 2022 </span>
 														</li>
 														<li id="su-post-61912" class="su-post"><a
 																href="pnb-meerut-guard-recruitment/">PNB
 																Meerut Guard Recruitment 2022 Application Form 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 March 2022 </span>
+															<span style="color:#333333">Last Date: 22 March 2022 </span>
 														</li>
 														<li id="su-post-61655" class="su-post"><a
 																href="pnb-moradabad-recruitment/">PNB
 																Moradabad Recruitment 2022 Application Form Peon
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 March 2022 </span>
+															<span style="color:#333333">Last Date: 22 March 2022 </span>
 														</li>
 													</ul>
 													<span style="text-decoration: underline;"><span

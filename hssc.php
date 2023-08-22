@@ -49,7 +49,7 @@
 																href="hssc-cet-group-d-recruitment-2023/">Haryana
 																CET Group D Recruitment 2023 Online Form for 13536 Post
 																Notification</a>
-															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
+															<span style="color:#333333">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-113736" class="su-post"><a
 																href="hssc-tgt-recruitment/">HSSC
@@ -65,13 +65,13 @@
 																href="hssc-scientific-staff-recruitment/">HSSC
 																Scientific Staff Recruitment 2022 Apply Online Form 53
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 October 2022
+															<span style="color:#333333">Last Date: 26 October 2022
 															</span>
 														</li>
 														<li id="su-post-109112" class="su-post"><a
 																href="hssc-law-officer-recruitment/">HSSC
 																Law Officer Recruitment 2022 Apply Online 20 Posts</a>
-															<span style="color:#ab183d">Last Date: 21 August 2022
+															<span style="color:#333333">Last Date: 21 August 2022
 															</span>
 														</li>
 														<li id="su-post-12969" class="su-post"><a
@@ -118,19 +118,19 @@
 																href="hssc-pgt-sanskrit-recruitment/">HSSC
 																PGT Sanskrit Recruitment 2021 Haryana PGT Advt 1/2021
 																534 Post</a>
-															<span style="color:#ab183d">Last Date: 11 June 2021 </span>
+															<span style="color:#333333">Last Date: 11 June 2021 </span>
 														</li>
 														<li id="su-post-14803" class="su-post"><a
 																href="hssc-gram-sachiv-recruitment/">HSSC
 																Gram Sachiv Recruitment 2021 (Re-Open) Apply 697
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 March 2021 </span>
+															<span style="color:#333333">Last Date: 22 March 2021 </span>
 														</li>
 														<li id="su-post-14806" class="su-post"><a
 																href="hssc-canal-patwari-recruitment/">HSSC
 																Canal Patwari Recruitment 2021 Haryana Patwari 1630
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 March 2021 </span>
+															<span style="color:#333333">Last Date: 22 March 2021 </span>
 														</li>
 														<li id="su-post-12615" class="su-post"><a
 																href="hssc-patwari-admit-card/">HSSC

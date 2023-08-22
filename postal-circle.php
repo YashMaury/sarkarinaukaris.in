@@ -61,526 +61,526 @@
 																href="wb-postal-circle-notification/">WB
 																Postal Circle GDS Recruitment 2023 Apply Now 2127
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163800" class="su-post"><a
 																href="tn-postal-circle-notification/">TN
 																Postal Circle GDS Recruitment 2023 Apply Online 2994
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163796" class="su-post"><a
 																href="uttarakhand-postal-circle-notification/">Uttarakhand
 																Postal Circle GDS Recruitment 2023 Apply Now 519
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163790" class="su-post"><a
 																href="telangana-postal-circle-notification/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Online 961
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163785" class="su-post"><a
 																href="kerala-postal-circle-notification/">Kerala
 																Postal Circle GDS Recruitment 2023 Apply Now 1508
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163780" class="su-post"><a
 																href="karnataka-postal-circle-notification/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply Now 1714
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163767" class="su-post"><a
 																href="jharkhand-postal-circle-notification/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply Online 530
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163752" class="su-post"><a
 																href="jk-postal-circle-notification/">JK
 																Postal Circle GDS Recruitment 2023 Apply Now 300
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163738" class="su-post"><a
 																href="gujarat-postal-circle-notification/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Online 1850
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163727" class="su-post"><a
 																href="chhattisgarh-postal-circle-gds-recruitment/">Chhattisgarh
 																Postal Circle GDS Recruitment 2023 Apply Now 721
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163721" class="su-post"><a
 																href="bihar-postal-circle-notification/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Now 2300
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163718" class="su-post"><a
 																href="assam-postal-circle-notification/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 855
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163714" class="su-post"><a
 																href="maharashtra-postal-circle-notifcation/">Maharashtra
 																Postal Circle GDS Recruitment 2023 Apply Online 3154
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163709" class="su-post"><a
 																href="mp-postal-circle-notification/">MP
 																Postal Circle GDS Recruitment 2023 Apply Online 1556
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163679" class="su-post"><a
 																href="delhi-postal-circle-notification/">Delhi
 																Postal Circle GDS Recruitment 2023 Apply Online 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163663" class="su-post"><a
 																href="hp-postal-circle-notification/">HP
 																Postal Circle GDS Recruitment 2023 Apply Online 418
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163570" class="su-post"><a
 																href="up-postal-circle-notification/">UP
 																Postal Circle GDS Recruitment 2023 Apply Online 3084
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163644" class="su-post"><a
 																href="rajasthan-postal-circle-notification/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 2031
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163539" class="su-post"><a
 																href="punjab-postal-circle-notification/">Punjab
 																Postal Circle GDS Recruitment 2023 Apply Now 336
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163534" class="su-post"><a
 																href="haryana-postal-circle-notification/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Online 215
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163322" class="su-post"><a
 																href="ap-post-office-recruitment/">AP
 																Postal Circle GDS Recruitment 2023 Apply Now 1058
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163242" class="su-post"><a
 																href="post-office-jobs/">India
 																Post GDS Recruitment 2023 Apply Gramin Dak Sevak 30041
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 August 2023
+															<span style="color:#333333">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-162810" class="su-post"><a
 																href="ippb-executive-recruitment-apply-online/">IPPB
 																Executive Recruitment 2023 Apply Online Executive 132
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 6 August 2023 </span>
+															<span style="color:#333333">Last Date: 6 August 2023 </span>
 														</li>
 														<li id="su-post-162410" class="su-post"><a
 																href="mail-motor-service-bengaluru-skilled-artisans-jobs/">Mail
 																Motor Service Bengaluru Recruitment 2023 Skilled
 																Artisans 05 Post</a>
-															<span style="color:#ab183d">Last Date: 5 August 2023 </span>
+															<span style="color:#333333">Last Date: 5 August 2023 </span>
 														</li>
 														<li id="su-post-158641" class="su-post"><a
 																href="rajasthan-postal-circle-gds-1408-post-apply-online/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 1408
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158688" class="su-post"><a
 																href="maharashtra-postal-circle-job/">Maharashtra
 																Postal Circle Recruitment 2023 Apply Online 620 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158689" class="su-post"><a
 																href="odisha-postal-circle-gds-recruitment-online-form/">Odisha
 																Postal Circle GDS Recruitment 2023 Online Form 948
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158681" class="su-post"><a
 																href="mp-postal-circle-gds-job/">MP
 																Postal Circle GDS Recruitment 2023 Apply Online 2992
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158679" class="su-post"><a
 																href="wb-postal-circle-gds-jobs-apply-online/">WB
 																Postal Circle GDS Recruitment 2023 Apply Gramin Dak
 																Sevak 45 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158676" class="su-post"><a
 																href="karnataka-postal-circle-gds-job/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply 48 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158673" class="su-post"><a
 																href="telangana-postal-circle-gds-recruitment-apply-now/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Now 96 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158666" class="su-post"><a
 																href="jharkhand-postal-circle-job/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply 1125 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158667" class="su-post"><a
 																href="uttar-pradesh-postal-circle-gds-online-form/">UP
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 160
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158663" class="su-post"><a
 																href="punjab-postal-circle-gramin-dak-sevak-online-form/">Punjab
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158660" class="su-post"><a
 																href="jk-postal-circle-gds-job/">JK
 																Postal Circle GDS Recruitment 2023 Apply Online 89
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158654" class="su-post"><a
 																href="north-eastern-postal-circle-gds-recruitment/">North
 																Eastern Postal Circle GDS Recruitment 2023 Apply Now
 																4384 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158653" class="su-post"><a
 																href="hp-postal-circle-gds-vacancy/">HP
 																Postal Circle GDS Recruitment 2023 Apply Online 37
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158645" class="su-post"><a
 																href="gujarat-postal-circle-gramin-dak-sevaks-job/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Online 110
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158617" class="su-post"><a
 																href="chhattisgarh-postal-circle-gds-job/">Chhattisgarh
 																Postal Circle Recruitment 2023 Apply Online 342 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158613" class="su-post"><a
 																href="haryana-postal-circle-gds-jobs-apply-online/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Online 08
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158585" class="su-post"><a
 																href="bihar-postal-circle-gramin-dak-sevaks-job/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Online 76
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158546" class="su-post"><a
 																href="assam-postal-circle-gds-job/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 151
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 May 2023 </span>
+															<span style="color:#333333">Last Date: 14 May 2023 </span>
 														</li>
 														<li id="su-post-158510" class="su-post"><a
 																href="ap-postal-circle-gds-online/">AP
 																Postal Circle GDS Recruitment 2023 Apply Online 118
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158383" class="su-post"><a
 																href="india-post-gds-apply-online/">India
 																Post GDS Recruitment 2023 Apply Online, Vacancy
 																Notification for 12828 Post</a>
-															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
+															<span style="color:#333333">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-138180" class="su-post"><a
 																href="mail-motor-service-tn-driver-jobs-application-form/">Mail
 																Motor Service TN Recruitment 2023 Staff Car Driver 58
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+															<span style="color:#333333">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-127106" class="su-post"><a
 																href="punjab-postal-circle-gds-online-form/">Punjab
 																Postal Circle GDS Recruitment 2023 Apply Now 766
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127104" class="su-post"><a
 																href="north-eastern-postal-circle-gds-bharti-apply-online/">North
 																Eastern Postal Circle GDS Recruitment 2023 Apply 923
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127108" class="su-post"><a
 																href="odisha-postal-circle-gds-recruitment/">Odisha
 																Postal Circle GDS Recruitment 2023 Apply Online 1382
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127093" class="su-post"><a
 																href="maharashtra-postal-circle-gds-online-form/">Maharashtra
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127097" class="su-post"><a
 																href="wb-postal-circle-gds-jobs/">WB
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 2127
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127084" class="su-post"><a
 																href="mp-post-office-gds-online-form/">MP
 																Postal Circle GDS Recruitment 2023 Apply Now 1841
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127089" class="su-post"><a
 																href="rajasthan-postal-circle-gds-recruitment/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 1684
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127067" class="su-post"><a
 																href="karnataka-postal-circle-gds-online-form/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127080" class="su-post"><a
 																href="kerala-postal-circle-gds-jobs-apply/">Kerala
 																Postal Circle GDS Recruitment 2023 Apply Online 2462
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127077" class="su-post"><a
 																href="tn-postal-circle-gds-recruitment/">TN
 																Postal Circle GDS Recruitment 2023 » Gramin Dak Sevak
 																3167 Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127066" class="su-post"><a
 																href="telangana-postal-circle-gds-jobs/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Now 1266
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127065" class="su-post"><a
 																href="jk-postal-circle-gds-online-form/">JK
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 300
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127055" class="su-post"><a
 																href="jharkhand-postal-circle-gds-job/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127058" class="su-post"><a
 																href="up-postal-circle-gds-jobs/">UP
 																Postal Circle GDS Recruitment 2023 Online Application
 																7987 Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127046" class="su-post"><a
 																href="uttarakhand-postal-circle-gds-vacancy/">Uttarakhand
 																Postal Circle GDS Recruitment 2023 Apply Now 889
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127042" class="su-post"><a
 																href="hp-postal-circle-gds-job/">HP
 																Postal Circle GDS Recruitment 2023 Apply Now 603
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127035" class="su-post"><a
 																href="haryana-postal-circle-gds-apply-online/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Now 354
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127025" class="su-post"><a
 																href="delhi-postal-gds-online-form/">Delhi
 																Postal Circle GDS Recruitment 2023 Apply Online 46
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127027" class="su-post"><a
 																href="gujarat-postal-circle-gds-apply-online/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Now 2017
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127018" class="su-post"><a
 																href="cg-postal-circle-gds-online-form/">Chattisgarh
 																Postal Circle GDS Recruitment 2023 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127020" class="su-post"><a
 																href="bihar-postal-circle-gds-apply-online/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Now 1461
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126990" class="su-post"><a
 																href="assam-post-gds-recruitment/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 407
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126994" class="su-post"><a
 																href="ap-post-office-gds-recruitment/">AP
 																Postal Circle GDS Recruitment 2023 Apply Online 2480
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126958" class="su-post"><a
 																href="india-post-gds-online-form/">India
 																Post GDS Recruitment 2023 Apply Gramin Dak Sevak 40889
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 February 2023
+															<span style="color:#333333">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-121584" class="su-post"><a
 																href="mail-motor-service-chennai-jobs/">Mail
 																Motor Service Chennai Recruitment 2023 Skilled Artisan
 																07 Post</a>
-															<span style="color:#ab183d">Last Date: 9 January 2023
+															<span style="color:#333333">Last Date: 9 January 2023
 															</span>
 														</li>
 														<li id="su-post-116790" class="su-post"><a
 																href="ippb-manager-jobs/">IPPB
 																Manager Recruitment 2022 Apply Online Asst Manager 41
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 November 2022
+															<span style="color:#333333">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-115860" class="su-post"><a
 																href="gujarat-postal-circle-sports-quota-recruitment/">Gujarat
 																Postal Circle Sports Quota Recruitment 2022 Apply 188
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 November 2022
+															<span style="color:#333333">Last Date: 22 November 2022
 															</span>
 														</li>
 														<li id="su-post-113143" class="su-post"><a
 																href="mail-motor-service-madurai-recruitment/">Mail
 																Motor Service Madurai Recruitment 2022 Skilled Artisan
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 October 2022
+															<span style="color:#333333">Last Date: 17 October 2022
 															</span>
 														</li>
 														<li id="su-post-113077" class="su-post"><a
 																href="mail-motor-service-chennai-recruitment/">Mail
 																Motor Service Chennai Recruitment 2022 Skilled Artisan
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 October 2022
+															<span style="color:#333333">Last Date: 19 October 2022
 															</span>
 														</li>
 														<li id="su-post-112217" class="su-post"><a
 																href="ippb-manager-recruitment/">IPPB
 																Manager Recruitment 2022 Online Application AGM, DGM 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 September 2022
+															<span style="color:#333333">Last Date: 24 September 2022
 															</span>
 														</li>
 														<li id="su-post-110945" class="su-post"><a
 																href="mail-motor-service-bengaluru-vacancy/">Mail
 																Motor Service Bengaluru Recruitment 2022 Driver 19
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 26 September 2022
+															<span style="color:#333333">Last Date: 26 September 2022
 															</span>
 														</li>
 														<li id="su-post-107358" class="su-post"><a
 																href="karnataka-postal-circle-recruitment/">Karnataka
 																Postal Circle Recruitment 2022 Postman, MTS, Guard
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 August 2022
+															<span style="color:#333333">Last Date: 16 August 2022
 															</span>
 														</li>
 														<li id="su-post-106889" class="su-post"><a
 																href="tamilnadu-postal-circle-jobs/">TN
 																Postal Circle Recruitment 2022 Postman, Guard, MTS 100
 																Post</a>
-															<span style="color:#ab183d">Last Date: 8 August 2022 </span>
+															<span style="color:#333333">Last Date: 8 August 2022 </span>
 														</li>
 														<li id="su-post-97262" class="su-post"><a
 																href="mail-motor-service-pune-recruitment/">Mail
 																Motor Service Pune Recruitment 2022 Skilled Artisan
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
+															<span style="color:#333333">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-94480" class="su-post"><a
 																href="mail-motor-service-tn-recruitment/">Mail
 																Motor Service TN Recruitment 2022 Apply Now Driver 24
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 July 2022 </span>
+															<span style="color:#333333">Last Date: 20 July 2022 </span>
 														</li>
 														<li id="su-post-99472" class="su-post"><a
 																href="assam-postal-circle-bharti/">Assam
@@ -596,19 +596,19 @@
 																href="mail-motor-service-raipur/">Mail
 																Motor Service Raipur Recruitment 2022 Apply Now Driver
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 July 2022 </span>
+															<span style="color:#333333">Last Date: 17 July 2022 </span>
 														</li>
 														<li id="su-post-87681" class="su-post"><a
 																href="mail-motor-service-mumbai-vacancy/">Mail
 																Motor Service Mumbai Recruitment 2022 Apply Driver 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
+															<span style="color:#333333">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-98098" class="su-post"><a
 																href="mail-motor-service-ambala-recruitment/">Mail
 																Motor Service Ambala Recruitment 2022 Apply Now Driver
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 July 2022 </span>
+															<span style="color:#333333">Last Date: 24 July 2022 </span>
 														</li>
 														<li id="su-post-97036" class="su-post"><a
 																href="india-post-gds-result-2022-state-wise-link/">India
@@ -619,7 +619,7 @@
 																href="north-eastern-postal-circle-gds-online-form/">North
 																Eastern Postal Circle GDS Recruitment 2022 Apply 385
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79457" class="su-post"><a
 																href="tn-postal-circle-gds-online-form/">TN
@@ -630,341 +630,341 @@
 																href="bihar-postal-circle-gds-vacancy/">Bihar
 																Postal Circle GDS Recruitment 2022 Apply Online 990
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79400" class="su-post"><a
 																href="jk-postal-circle-gds-vacancy/">JK
 																Postal Circle GDS Recruitment 2022 Apply Now 265
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79412" class="su-post"><a
 																href="maharashtra-postal-circle-gds-vacancy/">Maharashtra
 																Postal Circle GDS Recruitment 2022 Apply 3026 Posts</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79435" class="su-post"><a
 																href="punjab-postal-circle-gds-vacancy/">Punjab
 																Postal Circle GDS Recruitment 2022 Apply Now 969
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79333" class="su-post"><a
 																href="chattisgarh-postal-circle-gds-online-form/">Chhattisgarh
 																Postal Circle GDS Recruitment 2022 Apply Now 1253
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79403" class="su-post"><a
 																href="jharkhand-postal-circle-gds-online-form/">Jharkhand
 																Postal Circle GDS Recruitment 2022 Apply Now 610
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79461" class="su-post"><a
 																href="uttarakhand-postal-circle-gds-jobs/">Uttarakhand
 																Postal Circle GDS Recruitment 2022 Apply Now 353
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79439" class="su-post"><a
 																href="rajasthan-postal-circle-gds-online-form/">Rajasthan
 																Postal Circle GDS Recruitment 2022 Apply Now 2390
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79377" class="su-post"><a
 																href="delhi-postal-circle-gds-vacancy/">Delhi
 																Postal Circle GDS Recruitment 2022 Apply Online 60
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79350" class="su-post"><a
 																href="telangana-postal-circle-gds-online-form/">Telangana
 																Postal Circle GDS Recruitment 2022 Apply Now 1226
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79322" class="su-post"><a
 																href="gujarat-postal-circle-gds-online-form/">Gujarat
 																Postal Circle GDS Recruitment 2022 Apply Online 1901
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79335" class="su-post"><a
 																href="kerala-postal-circle-gds-vacancy/">Kerala
 																Postal Circle GDS Recruitment 2022 Apply Now 2203
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79451" class="su-post"><a
 																href="up-postal-circle-gds-vacancy/">UP
 																Postal Circle GDS Recruitment 2022 Apply Now 2519
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79426" class="su-post"><a
 																href="odisha-postal-circle-gds-jobs/">Odisha
 																Postal Circle GDS Recruitment 2022 Apply Now 3066
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79321" class="su-post"><a
 																href="hp-postal-circle-gds-recruitment/">HP
 																Postal Circle GDS Recruitment 2022 Apply Now 1007
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79470" class="su-post"><a
 																href="wb-postal-circle-gds-online-form/">WB
 																Postal Circle GDS Recruitment 2022 Apply Online 1963
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79328" class="su-post"><a
 																href="karnataka-postal-circle-gds-vacancy/">Karnataka
 																Postal Circle GDS Recruitment 2022 Apply Now 2410
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79357" class="su-post"><a
 																href="assam-postal-circle-gds-recruitment/">Assam
 																Postal Circle GDS Recruitment 2022 Apply Online 1143
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79348" class="su-post"><a
 																href="mp-postal-circle-gds-recruitment/">MP
 																Postal Circle GDS Recruitment 2022 Apply Now 4047
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-78916" class="su-post"><a
 																href="india-post-gds-recruitment/">India
 																Post GDS Recruitment 2022 » Gramin Dak Sevak 38926
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
+															<span style="color:#333333">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-66655" class="su-post"><a
 																href="mumbai-postal-circle-vacancy/">Mumbai
 																Postal Circle Recruitment 2022 Skilled Artisan 09
 																Post</a>
-															<span style="color:#ab183d">Last Date: 9 May 2022 </span>
+															<span style="color:#333333">Last Date: 9 May 2022 </span>
 														</li>
 														<li id="su-post-66115" class="su-post"><a
 																href="mail-motor-service-kolkata-vacancy/">Mail
 																Motor Service Kolkata Recruitment 2022 Apply Driver 28
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
+															<span style="color:#333333">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-37250" class="su-post"><a
 																href="wb-postal-circle-vacancy/">WB
 																Postal Circle Recruitment 2021 Postman, Postal Asst 124
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 24 December 2021
+															<span style="color:#333333">Last Date: 24 December 2021
 															</span>
 														</li>
 														<li id="su-post-34196" class="su-post"><a
 																href="uttarakhand-postal-circle-apply/">Uttarakhand
 																Postal Circle Recruitment 2021 Apply PA, MTS 13 Post</a>
-															<span style="color:#ab183d">Last Date: 22 December 2021
+															<span style="color:#333333">Last Date: 22 December 2021
 															</span>
 														</li>
 														<li id="su-post-38547" class="su-post"><a
 																href="bihar-postal-circle-vacancy/">Bihar
 																Postal Circle Recruitment 2021 MTS, PA, Postman 60
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 December 2021
+															<span style="color:#333333">Last Date: 21 December 2021
 															</span>
 														</li>
 														<li id="su-post-38724" class="su-post"><a
 																href="jammu-postal-circle-recruitment/">Jammu
 																Postal Circle Recruitment 2021 Postal Assistant
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 December 2021
+															<span style="color:#333333">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-31939" class="su-post"><a
 																href="delhi-postal-circle-job/">Delhi
 																Postal Circle Recruitment 2021 Skilled Artisans 17
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 December 2021
+															<span style="color:#333333">Last Date: 11 December 2021
 															</span>
 														</li>
 														<li id="su-post-33251" class="su-post"><a
 																href="rajasthan-postal-circle-jobs-apply/">Rajasthan
 																Postal Circle Recruitment 2021 PA, MTS, Postman 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 December 2021
+															<span style="color:#333333">Last Date: 6 December 2021
 															</span>
 														</li>
 														<li id="su-post-33294" class="su-post"><a
 																href="chhattisgarh-postal-circle-recruitment/">Chhattisgarh
 																Postal Circle Recruitment 2021 PA, MTS, Postman Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2021
+															<span style="color:#333333">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33069" class="su-post"><a
 																href="kerala-postal-circle-job/">Kerala
 																Postal Circle Recruitment 2021 Guard, PA, MTS 95
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2021
+															<span style="color:#333333">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-35650" class="su-post"><a
 																href="north-east-postal-circle-recruitment/">North
 																East Postal Circle Recruitment 2021 PA, Postman, MTS
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2021
+															<span style="color:#333333">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33645" class="su-post"><a
 																href="odisha-postal-circle-jobs/">Odisha
 																Postal Circle Recruitment 2021 MTS, PA, Postman 42
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2021
+															<span style="color:#333333">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33630" class="su-post"><a
 																href="mp-postal-circle-vacancy/">MP
 																Postal Circle Recruitment 2021 PA, Postman, MTS 44
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 December 2021
+															<span style="color:#333333">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33739" class="su-post"><a
 																href="ap-postal-circle-vacancy/">AP
 																Postal Circle Recruitment 2021 PA, Postman, MTS 75
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 November 2021
+															<span style="color:#333333">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-33723" class="su-post"><a
 																href="maharashtra-postal-circle-vacancy/">Maharashtra
 																Postal Circle Recruitment 2021 MTS, PA 257 Post</a>
-															<span style="color:#ab183d">Last Date: 27 November 2021
+															<span style="color:#333333">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-33511" class="su-post"><a
 																href="jharkhand-postal-circle-recruitment/">Jharkhand
 																Postal Circle Recruitment 2021 PA, MTS, Postman 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 November 2021
+															<span style="color:#333333">Last Date: 25 November 2021
 															</span>
 														</li>
 														<li id="su-post-35687" class="su-post"><a
 																href="ap-postal-circle-gds-vacancy/">AP
 																Postal Circle GDS Recruitment 2021 Apply Online 2296
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 November 2021
+															<span style="color:#333333">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-35679" class="su-post"><a
 																href="telangana-postal-circle-gds-vacancy/">Telangana
 																Postal Circle GDS Recruitment 2021 Apply 1150 Post</a>
-															<span style="color:#ab183d">Last Date: 18 November 2021
+															<span style="color:#333333">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-33644" class="su-post"><a
 																href="hp-postal-circle-recruitment/">HP
 																Postal Circle Recruitment 2021 Apply PA, MTS, Postman 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 December 2021
+															<span style="color:#333333">Last Date: 15 December 2021
 															</span>
 														</li>
 														<li id="su-post-27611" class="su-post"><a
 																href="delhi-postal-circle-recruitment/">Delhi
 																Postal Circle Recruitment 2021 MTS, Postman 221
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 12 November 2021
+															<span style="color:#333333">Last Date: 12 November 2021
 															</span>
 														</li>
 														<li id="su-post-26978" class="su-post"><a
 																href="up-post-office-recruitment/">UP
 																Postal Circle Recruitment 2021 Asst, Postman, MTS 46
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 November 2021
+															<span style="color:#333333">Last Date: 5 November 2021
 															</span>
 														</li>
 														<li id="su-post-27412" class="su-post"><a
 																href="jk-postal-circle-gds-recruitment/">JK
 																Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 266
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 29 October 2021
+															<span style="color:#333333">Last Date: 29 October 2021
 															</span>
 														</li>
 														<li id="su-post-29558" class="su-post"><a
 																href="tn-postal-circle-vacancy/">TN
 																Postal Circle Recruitment 2021 Apply Now Postman 501
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 October 2021
+															<span style="color:#333333">Last Date: 20 October 2021
 															</span>
 														</li>
 														<li id="su-post-22318" class="su-post"><a
 																href="haryana-postal-circle-vacancy/">Haryana
 																Postal Circle Recruitment 2021 PA, LDC, MTS 75 Posts</a>
-															<span style="color:#ab183d">Last Date: 29 September 2021
+															<span style="color:#333333">Last Date: 29 September 2021
 															</span>
 														</li>
 														<li id="su-post-22478" class="su-post"><a
 																href="up-postal-circle-gds-recruitment/">UP
 																Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 4264
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 September 2021
+															<span style="color:#333333">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-22480" class="su-post"><a
 																href="uttarakhand-postal-circle-gds-recruitment/">Uttarakhand
 																Postal Circle GDS Recruitment 2021 Apply 581 Post</a>
-															<span style="color:#ab183d">Last Date: 25 September 2021
+															<span style="color:#333333">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-25222" class="su-post"><a
 																href="mail-motor-service-chandigarh-recruitment-2/">Mail
 																Motor Service Chandigarh Recruitment 2021 Driver 11
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 September 2021
+															<span style="color:#333333">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-22859" class="su-post"><a
 																href="telangana-postal-circle-job/">Telangana
 																Postal Circle Recruitment 2021 PA, MTS, Guard 55
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 September 2021
+															<span style="color:#333333">Last Date: 24 September 2021
 															</span>
 														</li>
 														<li id="su-post-22391" class="su-post"><a
 																href="mail-motor-service-chandigarh-recruitment/">Mail
 																Motor Service Chandigarh Recruitment 2021 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 20 September 2021
+															<span style="color:#333333">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-20164" class="su-post"><a
 																href="wb-postal-circle-gds-vacancy/">WB
 																Postal Circle GDS Recruitment 2021 Apply Now 2357
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 22 August 2021
+															<span style="color:#333333">Last Date: 22 August 2021
 															</span>
 														</li>
 														<li id="su-post-19606" class="su-post"><a
 																href="punjab-postal-circle-recruitment/">Punjab
 																Postal Circle Recruitment 2021 MTS, Postal Asst 57
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 18 August 2021
+															<span style="color:#333333">Last Date: 18 August 2021
 															</span>
 														</li>
 														<li id="su-post-16903" class="su-post"><a
 																href="bihar-postal-circle-gds-recruitment/">Bihar
 																Postal Circle GDS Recruitment 2021 Apply Now 1940
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 July 2021 </span>
+															<span style="color:#333333">Last Date: 14 July 2021 </span>
 														</li>
 														<li id="su-post-18885" class="su-post"><a
 																href="mail-motor-service-bengaluru-recruitment/">Mail
 																Motor Service Recruitment 2021 Staff Car Driver 15
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 Days </span>
+															<span style="color:#333333">Last Date: 30 Days </span>
 														</li>
 														<li id="su-post-11167" class="su-post"><a
 																href="jharkhand-postal-circle-gds-recruitment/">Jharkhand
@@ -974,99 +974,99 @@
 																href="mail-motor-service-recruitment/">Mail
 																Motor Service Recruitment 2021 Staff Car Driver 25
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 26 May 2021 </span>
+															<span style="color:#333333">Last Date: 26 May 2021 </span>
 														</li>
 														<li id="su-post-17265" class="su-post"><a
 																href="tamilnadu-postal-circle-vacancy/">Tamilnadu
 																Postal Circle Recruitment 2021 Apply Now 35 Post</a>
-															<span style="color:#ab183d">Last Date: 25 May 2021 </span>
+															<span style="color:#333333">Last Date: 25 May 2021 </span>
 														</li>
 														<li id="su-post-16905" class="su-post"><a
 																href="maharashtra-postal-circle-gds-recruitment/">Maharashtra
 																Postal Circle GDS Recruitment 2021 Apply 2428 Post</a>
-															<span style="color:#ab183d">Last Date: 26 May 2021 </span>
+															<span style="color:#333333">Last Date: 26 May 2021 </span>
 														</li>
 														<li id="su-post-15035" class="su-post"><a
 																href="cg-postal-circle-gds-recruitment/">CG
 																Postal Circle GDS Recruitment 2021 Apply Online 1137
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2021 </span>
+															<span style="color:#333333">Last Date: 7 April 2021 </span>
 														</li>
 														<li id="su-post-15030" class="su-post"><a
 																href="kerala-postal-circle-gds-recruitment/">Kerala
 																Postal Circle GDS Recruitment 2021 Apply Now 1421
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2021 </span>
+															<span style="color:#333333">Last Date: 7 April 2021 </span>
 														</li>
 														<li id="su-post-13795" class="su-post"><a
 																href="telangana-postal-circle-gds-recruitment/">Telangana
 																Postal Circle GDS Recruitment 2021 Apply 1150 Posts</a>
-															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
+															<span style="color:#333333">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-13798" class="su-post"><a
 																href="ap-postal-circle-gds-recruitment/">AP
 																Postal Circle GDS Recruitment 2021 Apply Online 2296
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
+															<span style="color:#333333">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-13800" class="su-post"><a
 																href="delhi-postal-circle-gds-recruitment/">Delhi
 																Postal Circle GDS Recruitment 2021 Apply Now 233
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
+															<span style="color:#333333">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-14438" class="su-post"><a
 																href="mail-motor-service-delhi-recruitment/">Mail
 																Motor Service Delhi Recruitment 2021 Staff Car Driver 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 45 Days </span>
+															<span style="color:#333333">Last Date: 45 Days </span>
 														</li>
 														<li id="su-post-14078" class="su-post"><a
 																href="mail-motor-service-staff-car-driver-recruitment/">Mail
 																Motor Service Staff Car Driver Recruitment 2021 Apply 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 March 2021 </span>
+															<span style="color:#333333">Last Date: 10 March 2021 </span>
 														</li>
 														<li id="su-post-13188" class="su-post"><a
 																href="mail-motor-service-mumbai-driver-recruitment/">Mail
 																Motor Service Mumbai Driver Recruitment 2021 Apply 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 February 2021
+															<span style="color:#333333">Last Date: 15 February 2021
 															</span>
 														</li>
 														<li id="su-post-12678" class="su-post"><a
 																href="karnataka-postal-circle-gds-recruitment/">Karnataka
 																Postal Circle GDS Recruitment 2021 Apply Now 2443
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 January 2021
+															<span style="color:#333333">Last Date: 20 January 2021
 															</span>
 														</li>
 														<li id="su-post-12658" class="su-post"><a
 																href="gujarat-postal-circle-gds-recruitment/">Gujarat
 																Postal Circle GDS Recruitment 2021 Apply Now 1826
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 January 2021
+															<span style="color:#333333">Last Date: 20 January 2021
 															</span>
 														</li>
 														<li id="su-post-11161" class="su-post"><a
 																href="punjab-postal-circle-gds-recruitment/">Punjab
 																Postal Circle GDS Recruitment 2020 Apply Now 516
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 December 2020
+															<span style="color:#333333">Last Date: 11 December 2020
 															</span>
 														</li>
 														<li id="su-post-11180" class="su-post"><a
 																href="north-eastern-postal-circle-recruitment/">North
 																Eastern Postal Circle Recruitment 2020 Apply GDS
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 December 2020
+															<span style="color:#333333">Last Date: 11 December 2020
 															</span>
 														</li>
 														<li id="su-post-9715" class="su-post"><a
 																href="hp-post-office-gds-recruitment/">HP
 																Post Office GDS Recruitment 2020 Apply Online 634
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 6 November 2020
+															<span style="color:#333333">Last Date: 6 November 2020
 															</span>
 														</li>
 														<li id="su-post-4986" class="su-post"><a
@@ -1078,100 +1078,100 @@
 																href="india-post-skilled-artisan-recruitment/">India
 																Post Skilled Artisan Recruitment 2020 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 2 November 2020
+															<span style="color:#333333">Last Date: 2 November 2020
 															</span>
 														</li>
 														<li id="su-post-9421" class="su-post"><a
 																href="maharashtra-post-office-recruitment/">Maharashtra
 																Postal Circle Recruitment 2020 MTS,Postman 1371
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 3 November 2020
+															<span style="color:#333333">Last Date: 3 November 2020
 															</span>
 														</li>
 														<li id="su-post-9482" class="su-post"><a
 																href="mail-motor-service-kolkata-recruitment/">Mail
 																Motor Service Kolkata Recruitment 2020 Apply Now 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 November 2020
+															<span style="color:#333333">Last Date: 1 November 2020
 															</span>
 														</li>
 														<li id="su-post-8368" class="su-post"><a
 																href="odisha-postal-circle-recruitment/">Odisha
 																Postal Circle Recruitment 2020 Apply Online GDS 2060
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2020
+															<span style="color:#333333">Last Date: 30 September 2020
 															</span>
 														</li>
 														<li id="su-post-5415" class="su-post"><a
 																href="rajasthan-postal-circle-recruitment/">Rajasthan
 																Postal Circle Recruitment 2020 Apply GDS 3262 Posts</a>
-															<span style="color:#ab183d">Last Date: 12 August 2020
+															<span style="color:#333333">Last Date: 12 August 2020
 															</span>
 														</li>
 														<li id="su-post-6538" class="su-post"><a
 																href="haryana-postal-circle-recruitment/">Haryana
 																Postal Circle Recruitment 2020 MTS, Postman 58 Posts</a>
-															<span style="color:#ab183d">Last Date: 2 September 2020
+															<span style="color:#333333">Last Date: 2 September 2020
 															</span>
 														</li>
 														<li id="su-post-2311" class="su-post"><a
 																href="gujarat-postal-circle/">Gujarat
 																Postal Circle Recruitment 2020 MTS, Postman 144 Post</a>
-															<span style="color:#ab183d">Last Date: 31 July 2020 </span>
+															<span style="color:#333333">Last Date: 31 July 2020 </span>
 														</li>
 														<li id="su-post-5712" class="su-post"><a
 																href="jk-postal-circle-recruitment/">JK
 																Postal Circle GDS Recruitment 2020 Apply Online 442
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 August 2020 </span>
+															<span style="color:#333333">Last Date: 5 August 2020 </span>
 														</li>
 														<li id="su-post-5566" class="su-post"><a
 																href="kerala-postal-circle-recruitment/">Kerala
 																Postal Circle MTS Recruitment 2020 Apply Now 80
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 10 July 2020 </span>
+															<span style="color:#333333">Last Date: 10 July 2020 </span>
 														</li>
 														<li id="su-post-5015" class="su-post"><a
 																href="uttarakhand-postal-circle-vacancy/">Uttarakhand
 																Postal Circle GDS Recruitment 2020 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 7 July 2020 </span>
+															<span style="color:#333333">Last Date: 7 July 2020 </span>
 														</li>
 														<li id="su-post-5009" class="su-post"><a
 																href="mp-postal-circle-recruitment/">MP
 																Postal Circle GDS Recruitment 2020 Apply Online 2834
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 July 2020 </span>
+															<span style="color:#333333">Last Date: 7 July 2020 </span>
 														</li>
 														<li id="su-post-2675" class="su-post"><a
 																href="mail-motor-service-mumbai-driver/">Mail
 																Motor Service Mumbai Driver Recruitment 2020 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 30 March 2020 </span>
+															<span style="color:#333333">Last Date: 30 March 2020 </span>
 														</li>
 														<li id="su-post-1964" class="su-post"><a
 																href="tn-postal-circle/">TN
 																Postal Circle MTS Recruitment 2020 Apply Now 37750
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 February 2020
+															<span style="color:#333333">Last Date: 24 February 2020
 															</span>
 														</li>
 														<li id="su-post-2417" class="su-post"><a
 																href="wb-postal-circle-gds-recruitment/">WB
 																Postal Circle GDS Recruitment 2020 Apply Online 2021
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 March 2020 </span>
+															<span style="color:#333333">Last Date: 18 March 2020 </span>
 														</li>
 														<li id="su-post-1977" class="su-post"><a
 																href="wb-postal-circle-mts-recruitment/">WB
 																Postal Circle MTS Recruitment 2020 Apply Now 223
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 February 2020
+															<span style="color:#333333">Last Date: 17 February 2020
 															</span>
 														</li>
 														<li id="su-post-1732" class="su-post"><a
 																href="assam-postal-circle/">Assam
 																Postal Circle GDS Recruitment 2020 Apply 919 Post</a>
-															<span style="color:#ab183d">Last Date: 9 February 2020
+															<span style="color:#333333">Last Date: 9 February 2020
 															</span>
 														</li>
 														<li id="su-post-459" class="su-post"><a
@@ -1190,19 +1190,19 @@
 														<li id="su-post-1080" class="su-post"><a
 																href="tn-postal-circle-recruitment/">TN
 																Postal Circle Recruitment 2019 Apply MTS 231 Post</a>
-															<span style="color:#ab183d">Last Date: 31 December 2019
+															<span style="color:#333333">Last Date: 31 December 2019
 															</span>
 														</li>
 														<li id="su-post-877" class="su-post"><a
 																href="uttarakhand-postal-circle-recruitment/">Uttarakhand
 																Postal Circle Recruitment 2019 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 20 December 2019
+															<span style="color:#333333">Last Date: 20 December 2019
 															</span>
 														</li>
 														<li id="su-post-500" class="su-post"><a
 																href="ksp-sub-inspector/">KSP
 																Sub Inspector (SI) Online Form for 300 Post</a>
-															<span style="color:#ab183d">Last Date: 6 November 2019
+															<span style="color:#333333">Last Date: 6 November 2019
 															</span>
 														</li>
 													</ul>

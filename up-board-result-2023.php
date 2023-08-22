@@ -687,7 +687,7 @@
 								</ul>
 								<p style="text-align: center;"><span style="color: #000000;"><b>Sarkari Result UP Board
 											10th, 12th Result 2023 Download Direct Link Details</b></span><span
-										style="color: #000000;"><b><span style="color: #ab183d;"><br />
+										style="color: #000000;"><b><span style="color: #333333;"><br />
 											</span></b></span><span
 										style="font-family: inherit; font-size: inherit;">Your Name : </span><input
 										id="YourName" class="input_inner" autocomplete="off" name="YourName" type="text"

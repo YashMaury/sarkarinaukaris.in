@@ -60,111 +60,111 @@
 																href="rajasthan-high-court-stenographer-recruitment/">Rajasthan
 																High Court Stenographer Recruitment 2023 Apply Now 277
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2023
+															<span style="color:#333333">Last Date: 30 August 2023
 															</span>
 														</li>
 														<li id="su-post-163251" class="su-post"><a
 																href="patna-high-court-stenographer-recruitment/">Patna
 																High Court Stenographer Recruitment 2023 Apply Now 51
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 August 2023
+															<span style="color:#333333">Last Date: 24 August 2023
 															</span>
 														</li>
 														<li id="su-post-162209" class="su-post"><a
 																href="delhi-high-court-hjs-recruitment-2023/">Delhi
 																High Court HJS Recruitment 2023 Apply Now 16 Post</a>
-															<span style="color:#ab183d">Last Date: 29 July 2023 </span>
+															<span style="color:#333333">Last Date: 29 July 2023 </span>
 														</li>
 														<li id="su-post-162103" class="su-post"><a
 																href="rajasthan-high-court-jpa-recruitment/">Rajasthan
 																High Court JPA Recruitment 2023 Jr Personal Asst 59
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 August 2023 </span>
+															<span style="color:#333333">Last Date: 3 August 2023 </span>
 														</li>
 														<li id="su-post-161225" class="su-post"><a
 																href="madras-high-court-district-judge-recruitment/">Madras
 																High Court Recruitment 2023 Apply District Judge 50
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 July 2023 </span>
+															<span style="color:#333333">Last Date: 31 July 2023 </span>
 														</li>
 														<li id="su-post-161137" class="su-post"><a
 																href="ap-high-court-law-clerk-job/">AP
 																High Court Recruitment 2023 Application Form Law Clerk
 																26 Post</a>
-															<span style="color:#ab183d">Last Date: 22 July 2023 </span>
+															<span style="color:#333333">Last Date: 22 July 2023 </span>
 														</li>
 														<li id="su-post-160200" class="su-post"><a
 																href="chhattisgarh-high-court-group-d-recruitment/">Chhattisgarh
 																High Court Group D Recruitment 2023 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 26 June 2023 </span>
+															<span style="color:#333333">Last Date: 26 June 2023 </span>
 														</li>
 														<li id="su-post-159003" class="su-post"><a
 																href="chhattisgarh-high-court-stenographer-job/">Chhattisgarh
 																High Court Recruitment 2023 Apply Stenographer Post</a>
-															<span style="color:#ab183d">Last Date: 20 June 2023 </span>
+															<span style="color:#333333">Last Date: 20 June 2023 </span>
 														</li>
 														<li id="su-post-158982" class="su-post"><a
 																href="gauhati-high-court-judicial-service-job/">Gauhati
 																High Court Recruitment 2023 Apply Judicial Service 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 June 2023 </span>
+															<span style="color:#333333">Last Date: 13 June 2023 </span>
 														</li>
 														<li id="su-post-158842" class="su-post"><a
 																href="chhattisgarh-high-court-job/">Chhattisgarh
 																High Court Recruitment 2023 Apply Legal Asst 20 Post</a>
-															<span style="color:#ab183d">Last Date: 16 June 2023 </span>
+															<span style="color:#333333">Last Date: 16 June 2023 </span>
 														</li>
 														<li id="su-post-153035" class="su-post"><a
 																href="manipur-high-court-sweeper-job/">Manipur
 																High Court Recruitment 2023 Apply Peon, Sweeper 118
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 May 2023 </span>
+															<span style="color:#333333">Last Date: 23 May 2023 </span>
 														</li>
 														<li id="su-post-156727" class="su-post"><a
 																href="allahabad-high-court-law-clerk-post/">Allahabad
 																High Court Law Clerk Recruitment 2023 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 25 May 2023 </span>
+															<span style="color:#333333">Last Date: 25 May 2023 </span>
 														</li>
 														<li id="su-post-156018" class="su-post"><a
 																href="punjab-haryana-high-court-stenographer-apply-online/">Punjab
 																Haryana High Court Stenographer Recruitment 2023
 																Apply</a>
-															<span style="color:#ab183d">Last Date: 27 May 2023 </span>
+															<span style="color:#333333">Last Date: 27 May 2023 </span>
 														</li>
 														<li id="su-post-157812" class="su-post"><a
 																href="jharkhand-high-court-pa-job/">Jharkhand
 																High Court Recruitment 2023 Apply Personal Asst 42
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 June 2023 </span>
+															<span style="color:#333333">Last Date: 24 June 2023 </span>
 														</li>
 														<li id="su-post-154482" class="su-post"><a
 																href="gujarat-high-court-cashier-job/">Gujarat
 																High Court Recruitment 2023 Apply Asst, Cashier 78
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 May 2023 </span>
+															<span style="color:#333333">Last Date: 22 May 2023 </span>
 														</li>
 														<li id="su-post-156553" class="su-post"><a
 																href="gujarat-high-court-peon-recruitment/">Gujarat
 																High Court Peon Recruitment 2023 Apply Class IV 1499
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 June 2023 </span>
+															<span style="color:#333333">Last Date: 29 June 2023 </span>
 														</li>
 														<li id="su-post-157458" class="su-post"><a
 																href="gauhati-high-court-operator-job/">Gauhati
 																High Court Recruitment 2023 Apply Asst, Translator
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 June 2023 </span>
+															<span style="color:#333333">Last Date: 2 June 2023 </span>
 														</li>
 														<li id="su-post-157443" class="su-post"><a
 																href="telangana-high-court-typist-job/">Telangana
 																High Court Recruitment 2023 Copyist, Typist 319 Post</a>
-															<span style="color:#ab183d">Last Date: 15 June 2023 </span>
+															<span style="color:#333333">Last Date: 15 June 2023 </span>
 														</li>
 														<li id="su-post-154595" class="su-post"><a
 																href="gujarat-high-court-assistant-recruitment/">Gujarat
 																High Court Assistant Recruitment 2023 Apply Now 1778
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 May 2023 </span>
+															<span style="color:#333333">Last Date: 19 May 2023 </span>
 														</li>
 														<li id="su-post-109213" class="su-post"><a
 																href="rajasthan-high-court-clerk-vacancy/">Rajasthan
@@ -175,25 +175,25 @@
 																href="jk-high-court-junior-assistant-recruitment/">JK
 																High Court Junior Assistant Recruitment 2023 Apply Now
 																20 Post</a>
-															<span style="color:#ab183d">Last Date: 16 May 2023 </span>
+															<span style="color:#333333">Last Date: 16 May 2023 </span>
 														</li>
 														<li id="su-post-151481" class="su-post"><a
 																href="gujarat-high-court-judge-job/">Gujarat
 																High Court Recruitment 2023 Apply Online Judge 82
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 May 2023 </span>
+															<span style="color:#333333">Last Date: 5 May 2023 </span>
 														</li>
 														<li id="su-post-150655" class="su-post"><a
 																href="odisha-high-court-peon-job/">Odisha
 																High Court Group D Recruitment 2023 Apply Peon 88
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 May 2023 </span>
+															<span style="color:#333333">Last Date: 1 May 2023 </span>
 														</li>
 														<li id="su-post-149006" class="su-post"><a
 																href="bombay-high-court-family-court-judges-job/">Bombay
 																High Court Recruitment 2023 Apply Family Court Judges
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 April 2023 </span>
+															<span style="color:#333333">Last Date: 25 April 2023 </span>
 														</li>
 														<li id="su-post-126883" class="su-post"><a
 																href="patna-high-court-assistant-recruitment/">Patna
@@ -204,7 +204,7 @@
 																href="gujarat-high-court-civil-judge-job/">Gujarat
 																High Court Recruitment 2023 Apply Civil Judge 193
 																Post</a>
-															<span style="color:#ab183d">Last Date: 14 April 2023 </span>
+															<span style="color:#333333">Last Date: 14 April 2023 </span>
 														</li>
 														<li id="su-post-115335" class="su-post"><a
 																href="punjab-and-haryana-high-court-recruitment/">Punjab
@@ -215,159 +215,159 @@
 																href="kerala-high-court-munsiff-magistrate-apply-online/">Kerala
 																High Court Munsiff Magistrate Recruitment 2023 Apply 69
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
+															<span style="color:#333333">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-146126" class="su-post"><a
 																href="bombay-high-court-peon-apply-online/">Bombay
 																High Court Peon Recruitment 2023 Apply Now Hamal 133
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2023 </span>
+															<span style="color:#333333">Last Date: 7 April 2023 </span>
 														</li>
 														<li id="su-post-140634" class="su-post"><a
 																href="ap-high-court-civil-judge-apply-online/">AP
 																High Court Civil Judge Recruitment 2023 Jr Division 30
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 April 2023 </span>
+															<span style="color:#333333">Last Date: 6 April 2023 </span>
 														</li>
 														<li id="su-post-138408" class="su-post"><a
 																href="madras-high-court-civil-judge-jobs/">Madras
 																High Court Recruitment 2023 Apply Online Civil Judge
 																Post</a>
-															<span style="color:#ab183d">Last Date: Extended Date 15
+															<span style="color:#333333">Last Date: Extended Date 15
 																April 2023 </span>
 														</li>
 														<li id="su-post-139828" class="su-post"><a
 																href="allahabad-high-court-law-clerk-job/">Allahabad
 																High Court Recruitment 2023 Apply Law Clerk 32 Post</a>
-															<span style="color:#ab183d">Last Date: 21 March 2023 </span>
+															<span style="color:#333333">Last Date: 21 March 2023 </span>
 														</li>
 														<li id="su-post-139667" class="su-post"><a
 																href="delhi-high-court-pa-recruitment/">Delhi
 																High Court Recruitment 2023 Apply Online PA, SPA 127
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+															<span style="color:#333333">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-139629" class="su-post"><a
 																href="bombay-high-court-law-clerk-job/">Bombay
 																High Court Recruitment 2023 Apply Law Clerk 50 Post</a>
-															<span style="color:#ab183d">Last Date: 20 March 2023 </span>
+															<span style="color:#333333">Last Date: 20 March 2023 </span>
 														</li>
 														<li id="su-post-137748" class="su-post"><a
 																href="odisha-high-court-aso-steno-apply-online/">Odisha
 																High Court ASO Recruitment 2023 Apply Now Steno 234
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 March 2023 </span>
+															<span style="color:#333333">Last Date: 20 March 2023 </span>
 														</li>
 														<li id="su-post-137340" class="su-post"><a
 																href="punjab-haryana-high-court-clerk-apply-online/">Punjab
 																Haryana High Court Clerk Recruitment 2023 Apply Now 157
 																Post</a>
-															<span style="color:#ab183d">Last Date: 17 March 2023 </span>
+															<span style="color:#333333">Last Date: 17 March 2023 </span>
 														</li>
 														<li id="su-post-137458" class="su-post"><a
 																href="gauhati-high-court-stenographer-apply-online/">Gauhati
 																High Court Recruitment 2023 Apply Stenographer 130
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
+															<span style="color:#333333">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-140735" class="su-post"><a
 																href="karnataka-high-court-driver-job/">Karnataka
 																High Court Recruitment 2023 Apply Online Driver 39
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 April 2023 </span>
+															<span style="color:#333333">Last Date: 6 April 2023 </span>
 														</li>
 														<li id="su-post-134338" class="su-post"><a
 																href="kerala-high-court-system-assistant-apply-online/">Kerala
 																High Court Assistant Recruitment 2023 Apply Now 90
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 March 2023 </span>
+															<span style="color:#333333">Last Date: 6 March 2023 </span>
 														</li>
 														<li id="su-post-132798" class="su-post"><a
 																href="gauhati-high-court-ajs-grade-iii-33-post/">Gauhati
 																High Court Recruitment 2023 Apply AJS Grade III 33
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 February 2023
+															<span style="color:#333333">Last Date: 24 February 2023
 															</span>
 														</li>
 														<li id="su-post-130982" class="su-post"><a
 																href="karnataka-high-court-online-form/">Karnataka
 																High Court Recruitment 2023 Apply Law Clerk Post</a>
-															<span style="color:#ab183d">Last Date: 25 February 2023
+															<span style="color:#333333">Last Date: 25 February 2023
 															</span>
 														</li>
 														<li id="su-post-123338" class="su-post"><a
 																href="ap-high-court-personal-secretary-recruitment/">AP
 																High Court Personal Secretary Recruitment 2023 Apply Now
 																39 Post</a>
-															<span style="color:#ab183d">Last Date: 4 February 2023
+															<span style="color:#333333">Last Date: 4 February 2023
 															</span>
 														</li>
 														<li id="su-post-123207" class="su-post"><a
 																href="telangana-high-court-office-subordinate-recruitment/">Telangana
 																High Court Office Subordinate Recruitment 2023 Apply
 																Online 1226 Post</a>
-															<span style="color:#ab183d">Last Date: 31 January 2023
+															<span style="color:#333333">Last Date: 31 January 2023
 															</span>
 														</li>
 														<li id="su-post-122088" class="su-post"><a
 																href="kerala-high-court-confidential-assistant-recruitment/">Kerala
 																High Court Confidential Assistant Recruitment 2023 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 17 January 2023
+															<span style="color:#333333">Last Date: 17 January 2023
 															</span>
 														</li>
 														<li id="su-post-121124" class="su-post"><a
 																href="punjab-haryana-high-court-chowkidar-recruitment/">Punjab
 																Haryana High Court Chowkidar Recruitment 2023 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 9 January 2023
+															<span style="color:#333333">Last Date: 9 January 2023
 															</span>
 														</li>
 														<li id="su-post-120618" class="su-post"><a
 																href="gujarat-high-court-legal-asst-recruitment/">Gujarat
 																High Court Legal Asst Recruitment 2022 Apply Now 28
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 December 2022
+															<span style="color:#333333">Last Date: 31 December 2022
 															</span>
 														</li>
 														<li id="su-post-119368" class="su-post"><a
 																href="mp-high-court-jja-apply/">MP
 																High Court JJA Recruitment 2022 Junior Judicial Asst 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 23 December 2022
+															<span style="color:#333333">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-117626" class="su-post"><a
 																href="ap-high-court-civil-judge-jobs/">AP
 																High Court Civil Judge Recruitment 2022 Apply Now 31
 																Post</a>
-															<span style="color:#ab183d">Last Date: 8 December 2022
+															<span style="color:#333333">Last Date: 8 December 2022
 															</span>
 														</li>
 														<li id="su-post-117132" class="su-post"><a
 																href="high-court-orissa-online-form/">Odisha
 																High Court District Judge Recruitment 2022 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 21 November 2022
+															<span style="color:#333333">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-116557" class="su-post"><a
 																href="high-court-of-orissa-online-form/">Odisha
 																High Court Research Assistant Recruitment 2022 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 18 November 2022
+															<span style="color:#333333">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-116398" class="su-post"><a
 																href="allahabad-high-court-notification/">Allahabad
 																High Court Recruitment 2022 Steno, Peon, Asst Post</a>
-															<span style="color:#ab183d">Last Date: 10 November 2022
+															<span style="color:#333333">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-116294" class="su-post"><a
 																href="punjab-haryana-high-court-online-form/">Punjab
 																Haryana High Court Restorer Recruitment 2022 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 21 November 2022
+															<span style="color:#333333">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-116291" class="su-post"><a
@@ -379,48 +379,48 @@
 																href="allahabad-high-court-online-form/">Allahabad
 																High Court Recruitment 2022 Apply Group C &#038; D 3932
 																Post</a>
-															<span style="color:#ab183d">Last Date: 13 November 2022
+															<span style="color:#333333">Last Date: 13 November 2022
 															</span>
 														</li>
 														<li id="su-post-115871" class="su-post"><a
 																href="andhra-pradesh-high-court-recruitment/">AP
 																High Court Recruitment 2022 Apply Online 3432 Post</a>
-															<span style="color:#ab183d">Last Date: 15 November 2022
+															<span style="color:#333333">Last Date: 15 November 2022
 															</span>
 														</li>
 														<li id="su-post-115705" class="su-post"><a
 																href="punjab-haryana-high-court-driver-vacancy/">Punjab
 																Haryana High Court Driver Recruitment 2022 Apply Now 18
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 November 2022
+															<span style="color:#333333">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-115648" class="su-post"><a
 																href="patna-high-court-translator-recruitment/">Patna
 																High Court Translator Recruitment 2022 Apply Now 39
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 November 2022
+															<span style="color:#333333">Last Date: 11 November 2022
 															</span>
 														</li>
 														<li id="su-post-115157" class="su-post"><a
 																href="mp-high-court-district-judge-apply-online/">MP
 																High Court District Judge Recruitment 2022 Apply Now 65
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 October 2022
+															<span style="color:#333333">Last Date: 18 October 2022
 															</span>
 														</li>
 														<li id="su-post-113896" class="su-post"><a
 																href="ap-high-court-online-form/">AP
 																High Court Recruitment 2022 Apply Personal Secretaries
 																76 Post</a>
-															<span style="color:#ab183d">Last Date: 22 October 2022
+															<span style="color:#333333">Last Date: 22 October 2022
 															</span>
 														</li>
 														<li id="su-post-113540" class="su-post"><a
 																href="karnataka-high-court-district-judge-recruitment/">Karnataka
 																High Court District Judge Recruitment 2022 Apply 16
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 October 2022
+															<span style="color:#333333">Last Date: 21 October 2022
 															</span>
 														</li>
 														<li id="su-post-113325" class="su-post"><a
@@ -432,34 +432,34 @@
 																href="delhi-high-court-notification/">Delhi
 																High Court Photocopy Machine Operator Recruitment 2022
 																Apply Now</a>
-															<span style="color:#ab183d">Last Date: 20 October 2022
+															<span style="color:#333333">Last Date: 20 October 2022
 															</span>
 														</li>
 														<li id="su-post-113027" class="su-post"><a
 																href="odisha-high-court-law-researcher-recruitment/">Odisha
 																High Court Law Researcher Recruitment 2022 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 10 October 2022
+															<span style="color:#333333">Last Date: 10 October 2022
 															</span>
 														</li>
 														<li id="su-post-111793" class="su-post"><a
 																href="mp-high-court-legal-assistant-recruitment/">MP
 																High Court Legal Assistant Recruitment 2022 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 23 September 2022
+															<span style="color:#333333">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111615" class="su-post"><a
 																href="chandigarh-high-court-clerk-recruitment/">Chandigarh
 																High Court Clerk Recruitment 2022 Apply Now 12 Post</a>
-															<span style="color:#ab183d">Last Date: 24 September 2022
+															<span style="color:#333333">Last Date: 24 September 2022
 															</span>
 														</li>
 														<li id="su-post-111332" class="su-post"><a
 																href="jk-high-court-vacancy/">JK
 																High Court Recruitment 2022 Steno, Assistant, Operator
 																30 Post</a>
-															<span style="color:#ab183d">Last Date: 20 September 2022
+															<span style="color:#333333">Last Date: 20 September 2022
 															</span>
 														</li>
 														<li id="su-post-57915" class="su-post"><a
@@ -471,85 +471,85 @@
 																href="manipur-high-court-vacancy/">Manipur
 																High Court Recruitment 2022 Computer Assistant 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 September 2022
+															<span style="color:#333333">Last Date: 21 September 2022
 															</span>
 														</li>
 														<li id="su-post-110587" class="su-post"><a
 																href="kerala-high-court-chauffeur-recruitment/">Kerala
 																High Court Recruitment 2022 Chauffeur, Translator 38
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 September 2022
+															<span style="color:#333333">Last Date: 16 September 2022
 															</span>
 														</li>
 														<li id="su-post-110358" class="su-post"><a
 																href="karnataka-high-court-group-d-recruitment/">Karnataka
 																High Court Recruitment 2022 Apply 129 Group D Post</a>
-															<span style="color:#ab183d">Last Date: 21 September 2022
+															<span style="color:#333333">Last Date: 21 September 2022
 															</span>
 														</li>
 														<li id="su-post-109330" class="su-post"><a
 																href="punjab-haryana-high-court-clerk-recruitment/">Punjab
 																Haryana High Court Clerk Recruitment 2022 Apply 759
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2022
+															<span style="color:#333333">Last Date: 27 August 2022
 															</span>
 														</li>
 														<li id="su-post-108206" class="su-post"><a
 																href="telangana-high-court-typist-recruitment/">Telangana
 																High Court Typist Recruitment 2022 Apply 85 Copyist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 August 2022
+															<span style="color:#333333">Last Date: 25 August 2022
 															</span>
 														</li>
 														<li id="su-post-107662" class="su-post"><a
 																href="madras-high-court-jobs/">Madras
 																High Court Recruitment 2022 Process Server, Driver 1412
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 August 2022
+															<span style="color:#333333">Last Date: 22 August 2022
 															</span>
 														</li>
 														<li id="su-post-102733" class="su-post"><a
 																href="telangana-high-court-vacancy/">Telangana
 																High Court Recruitment 2022 Personal Secretaries 65
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 July 2022 </span>
+															<span style="color:#333333">Last Date: 22 July 2022 </span>
 														</li>
 														<li id="su-post-103764" class="su-post"><a
 																href="patna-high-court-library-assistant-recruitment/">Patna
 																High Court Library Assistant Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 24 July 2022 </span>
+															<span style="color:#333333">Last Date: 24 July 2022 </span>
 														</li>
 														<li id="su-post-99056" class="su-post"><a
 																href="ap-high-court-recruitment/">AP
 																High Court Recruitment 2022 Apply Personal Secretary
 																Post</a>
-															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
+															<span style="color:#333333">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-106858" class="su-post"><a
 																href="tripura-high-court-gr-iii-recruitment/">Tripura
 																High Court Recruitment 2022 Apply Online Gr III 11
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 August 2022
+															<span style="color:#333333">Last Date: 16 August 2022
 															</span>
 														</li>
 														<li id="su-post-106457" class="su-post"><a
 																href="odisha-high-court-vacancy/">Odisha
 																High Court Recruitment 2022 Apply Stenographer 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 August 2022
+															<span style="color:#333333">Last Date: 12 August 2022
 															</span>
 														</li>
 														<li id="su-post-100212" class="su-post"><a
 																href="meghalaya-high-court-jaa-recruitment/">Meghalaya
 																High Court Recruitment 2022 JAA, Steno, Mali 13 Post</a>
-															<span style="color:#ab183d">Last Date: 23 July 2022 </span>
+															<span style="color:#333333">Last Date: 23 July 2022 </span>
 														</li>
 														<li id="su-post-82998" class="su-post"><a
 																href="gujarat-high-court-job/">Gujarat
 																High Court Private Secretary Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
+															<span style="color:#333333">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-79024" class="su-post"><a
 																href="gauhati-high-court-sto-recruitment/">Gauhati
@@ -558,222 +558,222 @@
 														<li id="su-post-76414" class="su-post"><a
 																href="karnataka-high-court-civil-judge-jobs/">Karnataka
 																High Court Civil Judge Recruitment 2022 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 23 May 2022 </span>
+															<span style="color:#333333">Last Date: 23 May 2022 </span>
 														</li>
 														<li id="su-post-72687" class="su-post"><a
 																href="gujarat-high-court-district-judge-recruitment/">Gujarat
 																High Court District Judge Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 4 May 2022 </span>
+															<span style="color:#333333">Last Date: 4 May 2022 </span>
 														</li>
 														<li id="su-post-73644" class="su-post"><a
 																href="telangana-high-court-district-judge-vacancy/">Telangana
 																High Court Recruitment 2022 District Judge 13 Posts</a>
-															<span style="color:#ab183d">Last Date: 2 May 2022 </span>
+															<span style="color:#333333">Last Date: 2 May 2022 </span>
 														</li>
 														<li id="su-post-66984" class="su-post"><a
 																href="odisha-high-court-stenographer-jobs-apply/">Odisha
 																High Court Stenographer Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
+															<span style="color:#333333">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-66689" class="su-post"><a
 																href="jharkhand-high-court-vacancy/">Jharkhand
 																High Court Recruitment 2022 District Judge Posts</a>
-															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
+															<span style="color:#333333">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-65809" class="su-post"><a
 																href="calcutta-high-court-stenographer-recruitment/">Calcutta
 																High Court Stenographer Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
+															<span style="color:#333333">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-67420" class="su-post"><a
 																href="bombay-high-court-driver-recruitment/">Bombay
 																High Court Driver Recruitment 2022 Apply Online 27
 																Post</a>
-															<span style="color:#ab183d">Last Date: 11 April 2022 </span>
+															<span style="color:#333333">Last Date: 11 April 2022 </span>
 														</li>
 														<li id="su-post-61576" class="su-post"><a
 																href="karnataka-high-court-job/">Karnataka
 																High Court Recruitment 2022 Assistant Secretary 54
 																Post</a>
-															<span style="color:#ab183d">Last Date: 7 April 2022 </span>
+															<span style="color:#333333">Last Date: 7 April 2022 </span>
 														</li>
 														<li id="su-post-60304" class="su-post"><a
 																href="telangana-high-court-ja-recruitment/">Telangana
 																High Court Recruitment 2022 JA, Steno, Typist 592
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
+															<span style="color:#333333">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-59459" class="su-post"><a
 																href="patna-high-court-group-c-recruitment/">Patna
 																High Court Group C Recruitment 2022 Apply Online 159
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 March 2022 </span>
+															<span style="color:#333333">Last Date: 30 March 2022 </span>
 														</li>
 														<li id="su-post-52022" class="su-post"><a
 																href="gujarat-high-court-civil-judge-recruitment/">Gujarat
 																High Court Recruitment 2022 Apply Civil Judge 219
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 March 2022 </span>
+															<span style="color:#333333">Last Date: 2 March 2022 </span>
 														</li>
 														<li id="su-post-52319" class="su-post"><a
 																href="kerala-high-court-munsiff-magistrate-recruitment/">Kerala
 																High Court Munsiff Magistrate Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 23 February 2022
+															<span style="color:#333333">Last Date: 23 February 2022
 															</span>
 														</li>
 														<li id="su-post-53464" class="su-post"><a
 																href="orissa-high-court-district-judge-recruitment/">Orissa
 																High Court Recruitment 2022 Apply District Judge 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 February 2022
+															<span style="color:#333333">Last Date: 21 February 2022
 															</span>
 														</li>
 														<li id="su-post-44052" class="su-post"><a
 																href="mp-high-court-civil-judge-recruitment/">MP
 																High Court Civil Judge Recruitment 2022 Apply 123
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 27 January 2022
+															<span style="color:#333333">Last Date: 27 January 2022
 															</span>
 														</li>
 														<li id="su-post-43532" class="su-post"><a
 																href="punjab-haryana-high-court-stenographer-vacancy/">Punjab
 																Haryana High Court Stenographer Recruitment 2022</a>
-															<span style="color:#ab183d">Last Date: 15 January 2022
+															<span style="color:#333333">Last Date: 15 January 2022
 															</span>
 														</li>
 														<li id="su-post-43198" class="su-post"><a
 																href="punjab-haryana-high-court-steno-typist-recruitment/">Punjab
 																Haryana High Court Steno Typist Recruitment 2022
 																Apply</a>
-															<span style="color:#ab183d">Last Date: 7 January 2022
+															<span style="color:#333333">Last Date: 7 January 2022
 															</span>
 														</li>
 														<li id="su-post-44128" class="su-post"><a
 																href="bombay-high-court-recruitment-apply/">Bombay
 																High Court Recruitment 2022 Apply Online Clerk 247
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 6 January 2022
+															<span style="color:#333333">Last Date: 6 January 2022
 															</span>
 														</li>
 														<li id="su-post-36509" class="su-post"><a
 																href="mp-high-court-vacancy/">MP
 																High Court Recruitment 2021 Steno &#038; Assistant 1255
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 December 2021
+															<span style="color:#333333">Last Date: 30 December 2021
 															</span>
 														</li>
 														<li id="su-post-36092" class="su-post"><a
 																href="karnataka-high-court-job-vacancy/">Karnataka
 																High Court Recruitment 2021 District Judge Posts</a>
-															<span style="color:#ab183d">Last Date: 14 December 2021
+															<span style="color:#333333">Last Date: 14 December 2021
 															</span>
 														</li>
 														<li id="su-post-21998" class="su-post"><a
 																href="punjab-haryana-high-court-stenographer-recruitment/">Punjab
 																Haryana High Court Steno Result 2021 Online Check Merit
 																List</a>
-															<span style="color:#ab183d">Last Date: 7 September 2021
+															<span style="color:#333333">Last Date: 7 September 2021
 															</span>
 														</li>
 														<li id="su-post-41635" class="su-post"><a
 																href="patna-high-court-district-judge-recruitment-apply/">Patna
 																High Court District Judge Recruitment 2022 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 27 January 2022
+															<span style="color:#333333">Last Date: 27 January 2022
 															</span>
 														</li>
 														<li id="su-post-33663" class="su-post"><a
 																href="karnataka-high-court-typist-recruitment/">Karnataka
 																High Court Typist Recruitment 2021 Apply Now 150
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 November 2021
+															<span style="color:#333333">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-33627" class="su-post"><a
 																href="mp-high-court-class-iv-recruitment/">MP
 																High Court Class IV Recruitment 2021 Apply Online 708
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 November 2021
+															<span style="color:#333333">Last Date: 24 November 2021
 															</span>
 														</li>
 														<li id="su-post-35862" class="su-post"><a
 																href="ap-high-court-law-clerk-recruitment/">AP
 																High Court Law Clerk Recruitment 2021 Apply Online 20
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 23 November 2021
+															<span style="color:#333333">Last Date: 23 November 2021
 															</span>
 														</li>
 														<li id="su-post-33257" class="su-post"><a
 																href="tripura-high-court-pa-recruitment/">Tripura
 																High Court Recruitment 2021 Personal Assistant 14
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 20 November 2021
+															<span style="color:#333333">Last Date: 20 November 2021
 															</span>
 														</li>
 														<li id="su-post-26968" class="su-post"><a
 																href="hp-high-court-clerk-recruitment/">HP
 																High Court Clerk Recruitment 2021 Apply Class-II &#038;
 																III 23 Post</a>
-															<span style="color:#ab183d">Last Date: 15 November 2021
+															<span style="color:#333333">Last Date: 15 November 2021
 															</span>
 														</li>
 														<li id="su-post-24889" class="su-post"><a
 																href="gauhati-high-court-vacancy/">Gauhati
 																High Court Recruitment 2021 Apply LDA, Copyist 227
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 October 2021
+															<span style="color:#333333">Last Date: 31 October 2021
 															</span>
 														</li>
 														<li id="su-post-23667" class="su-post"><a
 																href="sikkim-high-court-group-c-d-recruitment/">Sikkim
 																High Court Group C &#038; D Recruitment 2021 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 6 October 2021
+															<span style="color:#333333">Last Date: 6 October 2021
 															</span>
 														</li>
 														<li id="su-post-25333" class="su-post"><a
 																href="allahabad-high-court-aps-recruitment/">Allahabad
 																High Court APS Recruitment 2021 Apply Online 68 Post</a>
-															<span style="color:#ab183d">Last Date: 5 October 2021
+															<span style="color:#333333">Last Date: 5 October 2021
 															</span>
 														</li>
 														<li id="su-post-24276" class="su-post"><a
 																href="ap-high-court-assistant-recruitment/">AP
 																High Court Assistant Recruitment 2021 Apply Online 174
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2021
+															<span style="color:#333333">Last Date: 30 September 2021
 															</span>
 														</li>
 														<li id="su-post-23292" class="su-post"><a
 																href="gauhati-high-court-law-clerk-jobs/">Gauhati
 																High Court Law Clerk Recruitment 2021 Apply Now 12
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 September 2021
+															<span style="color:#333333">Last Date: 18 September 2021
 															</span>
 														</li>
 														<li id="su-post-22637" class="su-post"><a
 																href="karnataka-high-court-sda-recruitment/">Karnataka
 																High Court SDA Recruitment 2021 Apply Online 142
 																Post</a>
-															<span style="color:#ab183d">Last Date: 24 September 2021
+															<span style="color:#333333">Last Date: 24 September 2021
 															</span>
 														</li>
 														<li id="su-post-22494" class="su-post"><a
 																href="gujarat-high-court-system-assistant-recruitment/">Gujarat
 																High Court System Assistant Recruitment 2021 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 16 September 2021
+															<span style="color:#333333">Last Date: 16 September 2021
 															</span>
 														</li>
 														<li id="su-post-21281" class="su-post"><a
 																href="odisha-high-court-stenographer-recruitment/">Odisha
 																High Court Stenographer Recruitment 2021 Apply Online 29
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 September 2021
+															<span style="color:#333333">Last Date: 4 September 2021
 															</span>
 														</li>
 														<li id="su-post-15274" class="su-post"><a
@@ -784,7 +784,7 @@
 														<li id="su-post-22112" class="su-post"><a
 																href="allahabad-high-court-computer-assistant-recruitment/">Allahabad
 																High Court Computer Assistant Recruitment 2021 Apply</a>
-															<span style="color:#ab183d">Last Date: 16 September 2021
+															<span style="color:#333333">Last Date: 16 September 2021
 															</span>
 														</li>
 														<li id="su-post-2128" class="su-post"><a
@@ -795,26 +795,26 @@
 														<li id="su-post-21941" class="su-post"><a
 																href="allahabad-high-court-aro-recruitment/">Allahabad
 																High Court ARO Recruitment 2021 Apply RO 396 Posts</a>
-															<span style="color:#ab183d">Last Date: 16 September 2021
+															<span style="color:#333333">Last Date: 16 September 2021
 															</span>
 														</li>
 														<li id="su-post-20543" class="su-post"><a
 																href="gujarat-high-court/">Gujarat
 																High Court Recruitment 2021 DSO, Translator 68 Post</a>
-															<span style="color:#ab183d">Last Date: 10 August 2021
+															<span style="color:#333333">Last Date: 10 August 2021
 															</span>
 														</li>
 														<li id="su-post-20587" class="su-post"><a
 																href="allahabad-high-court-law-clerk-recruitment/">Allahabad
 																High Court Law Clerk Recruitment 2021 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 28 August 2021
+															<span style="color:#333333">Last Date: 28 August 2021
 															</span>
 														</li>
 														<li id="su-post-20508" class="su-post"><a
 																href="rajasthan-high-court-civil-judge-recruitment/">Rajasthan
 																High Court Civil Judge Recruitment 2021 Apply 120
 																Post</a>
-															<span style="color:#ab183d">Last Date: 31 August 2021
+															<span style="color:#333333">Last Date: 31 August 2021
 															</span>
 														</li>
 														<li id="su-post-107770" class="su-post"><a
@@ -826,93 +826,93 @@
 																href="ap-high-court-cj-recruitment/">AP
 																High Court CJ Recruitment 2021 Apply Civil Judge 68
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 28 August 2021
+															<span style="color:#333333">Last Date: 28 August 2021
 															</span>
 														</li>
 														<li id="su-post-20125" class="su-post"><a
 																href="punjab-haryana-high-court-driver-recruitment/">Punjab
 																Haryana High Court Driver Recruitment 2021 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 6 August 2021 </span>
+															<span style="color:#333333">Last Date: 6 August 2021 </span>
 														</li>
 														<li id="su-post-20035" class="su-post"><a
 																href="gujarat-high-court-legal-assistant-recruitment/">Gujarat
 																High Court Legal Assistant Recruitment 2021 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 10 August 2021
+															<span style="color:#333333">Last Date: 10 August 2021
 															</span>
 														</li>
 														<li id="su-post-19820" class="su-post"><a
 																href="madras-high-court-law-officer-recruitment/">Madras
 																High Court Law Officer Recruitment 2021 Apply 202
 																Post</a>
-															<span style="color:#ab183d">Last Date: 29 July 2021 </span>
+															<span style="color:#333333">Last Date: 29 July 2021 </span>
 														</li>
 														<li id="su-post-19812" class="su-post"><a
 																href="mp-high-court-jja-recruitment/">MP
 																High Court JJA Recruitment 2021 Steno, Horticulturist 61
 																Post</a>
-															<span style="color:#ab183d">Last Date: 30 August 2021
+															<span style="color:#333333">Last Date: 30 August 2021
 															</span>
 														</li>
 														<li id="su-post-19404" class="su-post"><a
 																href="chhattisgarh-high-court-recruitment/">Chhattisgarh
 																High Court Recruitment 2021 Driver, Cook 89 Post</a>
-															<span style="color:#ab183d">Last Date: 20 July 2021 </span>
+															<span style="color:#333333">Last Date: 20 July 2021 </span>
 														</li>
 														<li id="su-post-19314" class="su-post"><a
 																href="ap-high-court/">AP
 																High Court Recruitment 2021 Registrar, Secretaries 25
 																Post</a>
-															<span style="color:#ab183d">Last Date: 21 July 2021 </span>
+															<span style="color:#333333">Last Date: 21 July 2021 </span>
 														</li>
 														<li id="su-post-19124" class="su-post"><a
 																href="kerala-high-court-assistant-recruitment/">Kerala
 																High Court Assistant Recruitment 2021 Apply Online 55
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 August 2021
+															<span style="color:#333333">Last Date: 27 August 2021
 															</span>
 														</li>
 														<li id="su-post-18905" class="su-post"><a
 																href="gujarat-high-court-private-secretary-recruitment/">Gujarat
 																High Court Private Secretary Recruitment 2021 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 15 July 2021 </span>
+															<span style="color:#333333">Last Date: 15 July 2021 </span>
 														</li>
 														<li id="su-post-18754" class="su-post"><a
 																href="mp-high-court-district-judge-recruitment/">MP
 																High Court District Judge Recruitment 2021 Apply 25
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 30 June 2021 </span>
+															<span style="color:#333333">Last Date: 30 June 2021 </span>
 														</li>
 														<li id="su-post-18312" class="su-post"><a
 																href="mp-high-court-dlao-recruitment/">MP
 																High Court DLAO Recruitment 2021 Apply Online 14
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 24 July 2021 </span>
+															<span style="color:#333333">Last Date: 24 July 2021 </span>
 														</li>
 														<li id="su-post-18223" class="su-post"><a
 																href="gauhati-high-court-ajs-recruitment/">Gauhati
 																High Court AJS Recruitment 2021 Apply Grade III 22
 																Post</a>
-															<span style="color:#ab183d">Last Date: 28 June 2021 </span>
+															<span style="color:#333333">Last Date: 28 June 2021 </span>
 														</li>
 														<li id="su-post-17401" class="su-post"><a
 																href="bombay-high-court-jobs/">Bombay
 																High Court System Officer Recruitment 2021 Apply 40
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 May 2021 </span>
+															<span style="color:#333333">Last Date: 27 May 2021 </span>
 														</li>
 														<li id="su-post-17012" class="su-post"><a
 																href="karnataka-high-court-law-clerks-recruitment/">Karnataka
 																High Court Law Clerks Recruitment 2021 Apply 19 Post</a>
-															<span style="color:#ab183d">Last Date: 29 May 2021 </span>
+															<span style="color:#333333">Last Date: 29 May 2021 </span>
 														</li>
 														<li id="su-post-16892" class="su-post"><a
 																href="madras-high-court-vacancy-apply/">Madras
 																High Court Recruitment 2021 Asst, Watchman, Sweeper 3557
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 June 2021 </span>
+															<span style="color:#333333">Last Date: 6 June 2021 </span>
 														</li>
 														<li id="su-post-13645" class="su-post"><a
 																href="railway-blw-apprentice-recruitment/">Railway
@@ -922,25 +922,25 @@
 																href="allahabad-high-court-presiding-officer-recruitment/">Allahabad
 																High Court Presiding Officer Recruitment 2021 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 19 April 2021 </span>
+															<span style="color:#333333">Last Date: 19 April 2021 </span>
 														</li>
 														<li id="su-post-15932" class="su-post"><a
 																href="gauhati-high-court/">Gauhati
 																High Court Recruitment 2021 Asst, Steno, LDA 110
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 April 2021 </span>
+															<span style="color:#333333">Last Date: 26 April 2021 </span>
 														</li>
 														<li id="su-post-15750" class="su-post"><a
 																href="karnataka-high-court-civil-judge-recruitment/">Karnataka
 																High Court Civil Judge Recruitment 2021 Apply 94
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 April 2021 </span>
+															<span style="color:#333333">Last Date: 27 April 2021 </span>
 														</li>
 														<li id="su-post-15493" class="su-post"><a
 																href="manipur-high-court-attendant-recruitment/">Manipur
 																High Court Attendant Recruitment 2021 Walk In
 																Interview</a>
-															<span style="color:#ab183d">Last Date: 5 April 2021 </span>
+															<span style="color:#333333">Last Date: 5 April 2021 </span>
 														</li>
 														<li id="su-post-14965" class="su-post"><a
 																href="tripura-high-court-drw-recruitment/">Tripura
@@ -950,73 +950,73 @@
 														<li id="su-post-14789" class="su-post"><a
 																href="manipur-high-court-driver-recruitment/">Manipur
 																High Court Driver Recruitment 2021 Apply Now 04 Post</a>
-															<span style="color:#ab183d">Last Date: 6 March 2021 </span>
+															<span style="color:#333333">Last Date: 6 March 2021 </span>
 														</li>
 														<li id="su-post-14577" class="su-post"><a
 																href="odisha-high-court-aso-recruitment/">Odisha
 																High Court ASO Recruitment 2021 Section Officer 202
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 March 2021 </span>
+															<span style="color:#333333">Last Date: 20 March 2021 </span>
 														</li>
 														<li id="su-post-14551" class="su-post"><a
 																href="gujarat-high-court-programmer-recruitment/">Gujarat
 																High Court Programmer Recruitment 2021 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 5 March 2021. </span>
+															<span style="color:#333333">Last Date: 5 March 2021. </span>
 														</li>
 														<li id="su-post-14474" class="su-post"><a
 																href="mp-high-court-law-clerk-recruitment/">MP
 																High Court Law Clerk Recruitment 2021 Apply Online 32
 																Post</a>
-															<span style="color:#ab183d">Last Date: 18 March 2021 </span>
+															<span style="color:#333333">Last Date: 18 March 2021 </span>
 														</li>
 														<li id="su-post-14032" class="su-post"><a
 																href="tripura-high-court-grade-iii-recruitment/">Tripura
 																High Court Grade III Recruitment 2021 Apply Online 06
 																Post</a>
-															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
+															<span style="color:#333333">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-14144" class="su-post"><a
 																href="odisha-high-court-recruitment/">Odisha
 																High Court Recruitment 2021 Apply District Judge 21
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 February 2021
+															<span style="color:#333333">Last Date: 22 February 2021
 															</span>
 														</li>
 														<li id="su-post-14067" class="su-post"><a
 																href="manipur-high-court-recruitment/">Manipur
 																High Court Recruitment 2021 Apply Chowkidar 15 Posts</a>
-															<span style="color:#ab183d">Last Date: 2 March 2021 </span>
+															<span style="color:#333333">Last Date: 2 March 2021 </span>
 														</li>
 														<li id="su-post-14047" class="su-post"><a
 																href="madras-high-court-asst-programmer-jobs/">Madras
 																High Court Asst Programmer Recruitment 2021 Apply 46
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 March 2021 </span>
+															<span style="color:#333333">Last Date: 15 March 2021 </span>
 														</li>
 														<li id="su-post-13195" class="su-post"><a
 																href="rajasthan-high-court-district-judge-recruitment/">Rajasthan
 																High Court District Judge Recruitment 2021 Apply 85
 																Post</a>
-															<span style="color:#ab183d">Last Date: 27 February 2021
+															<span style="color:#333333">Last Date: 27 February 2021
 															</span>
 														</li>
 														<li id="su-post-13677" class="su-post"><a
 																href="gujarat-high-court-vacancy/">Gujarat
 																High Court Recruitment 2021 Computer Operator 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 15 February 2021
+															<span style="color:#333333">Last Date: 15 February 2021
 															</span>
 														</li>
 														<li id="su-post-13635" class="su-post"><a
 																href="uttarakhand-high-court-clerk-recruitment/">Uttarakhand
 																High Court Clerk Recruitment 2021 Apply 10 Post</a>
-															<span style="color:#ab183d">Last Date: 31 January 2021
+															<span style="color:#333333">Last Date: 31 January 2021
 															</span>
 														</li>
 														<li id="su-post-12691" class="su-post"><a
 																href="allahabad-high-court-hjs-recruitment/">Allahabad
 																High Court HJS Recruitment 2021 Apply Online 98 Post</a>
-															<span style="color:#ab183d">Last Date: 19 February 2021
+															<span style="color:#333333">Last Date: 19 February 2021
 															</span>
 														</li>
 														<li id="su-post-6404" class="su-post"><a
@@ -1028,69 +1028,69 @@
 																href="calcutta-high-court-deo-recruitment/">Calcutta
 																High Court DEO Recruitment 2021 Apply Online 159
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 11 January 2021
+															<span style="color:#333333">Last Date: 11 January 2021
 															</span>
 														</li>
 														<li id="su-post-12904" class="su-post"><a
 																href="madras-high-court-recruitment-2/">Madras
 																High Court Recruitment 2021 Clerk, Personal Asst 77
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 February 2021
+															<span style="color:#333333">Last Date: 3 February 2021
 															</span>
 														</li>
 														<li id="su-post-13004" class="su-post"><a
 																href="patna-high-court-legal-assistant-recruitment/">Patna
 																High Court Legal Assistant Recruitment 2021 Apply
 																Now</a>
-															<span style="color:#ab183d">Last Date: 7 January 2021
+															<span style="color:#333333">Last Date: 7 January 2021
 															</span>
 														</li>
 														<li id="su-post-12705" class="su-post"><a
 																href="meghalaya-high-court-stenographer-recruitment/">Meghalaya
 																High Court Stenographer Recruitment 2021 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 15 January 2021
+															<span style="color:#333333">Last Date: 15 January 2021
 															</span>
 														</li>
 														<li id="su-post-12602" class="su-post"><a
 																href="kerala-high-court-sweeper-recruitment/">Kerala
 																High Court Sweeper Recruitment 2021 Apply Online 45
 																Post</a>
-															<span style="color:#ab183d">Last Date: 4 February 2021
+															<span style="color:#333333">Last Date: 4 February 2021
 															</span>
 														</li>
 														<li id="su-post-12274" class="su-post"><a
 																href="ap-high-court-civil-judge-recruitment/">AP
 																High Court Civil Judge Recruitment 2021 Apply Online 68
 																Post</a>
-															<span style="color:#ab183d">Last Date: 2 January 2021
+															<span style="color:#333333">Last Date: 2 January 2021
 															</span>
 														</li>
 														<li id="su-post-12177" class="su-post"><a
 																href="kerala-high-court-computer-assistant-recruitment/">Kerala
 																High Court Recruitment 2021 Apply Computer Asst 10
 																Post</a>
-															<span style="color:#ab183d">Last Date: 20 January 2021
+															<span style="color:#333333">Last Date: 20 January 2021
 															</span>
 														</li>
 														<li id="su-post-11889" class="su-post"><a
 																href="gauhati-high-court-jobs/">Gauhati
 																High Court Recruitment 2020 Account Asst, Typist
 																Post</a>
-															<span style="color:#ab183d">Last Date: 19 December 2020
+															<span style="color:#333333">Last Date: 19 December 2020
 															</span>
 														</li>
 														<li id="su-post-11762" class="su-post"><a
 																href="delhi-high-court-arbitrator-recruitment/">Delhi
 																High Court Arbitrator Recruitment 2020 Application
 																Form</a>
-															<span style="color:#ab183d">Last Date: 31 December 2020.
+															<span style="color:#333333">Last Date: 31 December 2020.
 															</span>
 														</li>
 														<li id="su-post-11067" class="su-post"><a
 																href="hp-high-court-stenographer-recruitment/">HP
 																High Court Stenographer Recruitment 2020 Apply
 																Online</a>
-															<span style="color:#ab183d">Last Date: 13 November 2020
+															<span style="color:#333333">Last Date: 13 November 2020
 															</span>
 														</li>
 														<li id="su-post-11192" class="su-post"><a
@@ -1107,77 +1107,77 @@
 																href="telangana-high-court-recruitment/">Telangana
 																High Court Recruitment 2020 Apply District Judge
 																Posts</a>
-															<span style="color:#ab183d">Last Date: 7 November 2020
+															<span style="color:#333333">Last Date: 7 November 2020
 															</span>
 														</li>
 														<li id="su-post-9157" class="su-post"><a
 																href="karnataka-high-court-vacancy/">Karnataka
 																High Court District Judge Recruitment 2020 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 21 October 2020
+															<span style="color:#333333">Last Date: 21 October 2020
 															</span>
 														</li>
 														<li id="su-post-10059" class="su-post"><a
 																href="karnataka-high-court-clerk-recruitment/">Karnataka
 																High Court Clerk Recruitment 2020 Apply Now 33 Post</a>
-															<span style="color:#ab183d">Last Date: 17 November 2020
+															<span style="color:#333333">Last Date: 17 November 2020
 															</span>
 														</li>
 														<li id="su-post-9740" class="su-post"><a
 																href="hp-high-court-recruitment/">HP
 																High Court Recruitment 2020 Apply Now Safai Karamchari
 																Post</a>
-															<span style="color:#ab183d">Last Date: 26 October 2020
+															<span style="color:#333333">Last Date: 26 October 2020
 															</span>
 														</li>
 														<li id="su-post-9477" class="su-post"><a
 																href="calcutta-high-court-lda-recruitment/">Calcutta
 																High Court LDA Recruitment 2020 Apply Online 11 Post</a>
-															<span style="color:#ab183d">Last Date: 7 October 2020
+															<span style="color:#333333">Last Date: 7 October 2020
 															</span>
 														</li>
 														<li id="su-post-9222" class="su-post"><a
 																href="bombay-high-court-recruitment/">Bombay
 																High Court Recruitment 2020 System Officer 111 Posts</a>
-															<span style="color:#ab183d">Last Date: 18 October 2020
+															<span style="color:#333333">Last Date: 18 October 2020
 															</span>
 														</li>
 														<li id="su-post-9143" class="su-post"><a
 																href="calcutta-high-court-recruitment/">Calcutta
 																High Court Recruitment 2020 Assistant Registrar Post</a>
-															<span style="color:#ab183d">Last Date: 5 October 2020
+															<span style="color:#333333">Last Date: 5 October 2020
 															</span>
 														</li>
 														<li id="su-post-9129" class="su-post"><a
 																href="patna-high-court-district-judge-recruitment/">Patna
 																High Court District Judge Recruitment 2020 Re-Open 27
 																Post</a>
-															<span style="color:#ab183d">Last Date: 3 October 2020
+															<span style="color:#333333">Last Date: 3 October 2020
 															</span>
 														</li>
 														<li id="su-post-9106" class="su-post"><a
 																href="tripura-high-court-recruitment/">Tripura
 																High Court Recruitment 2020 Apply JJA Group C 13
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 October 2020
+															<span style="color:#333333">Last Date: 12 October 2020
 															</span>
 														</li>
 														<li id="su-post-9045" class="su-post"><a
 																href="jk-high-court-recruitment/">JK
 																High Court Recruitment 2020 Apply Online Driver, Steno
 																28 Post</a>
-															<span style="color:#ab183d">Last Date: 12 October 2020
+															<span style="color:#333333">Last Date: 12 October 2020
 															</span>
 														</li>
 														<li id="su-post-9030" class="su-post"><a
 																href="allahabad-high-court-job/">Allahabad
 																High Court Recruitment 2020 Apply Peon, Steno Post</a>
-															<span style="color:#ab183d">Last Date: 30 September 2020
+															<span style="color:#333333">Last Date: 30 September 2020
 															</span>
 														</li>
 														<li id="su-post-8897" class="su-post"><a
 																href="kerala-high-court-attendant-recruitment/">Kerala
 																High Court Attendant Recruitment 2020 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 4 October 2020
+															<span style="color:#333333">Last Date: 4 October 2020
 															</span>
 														</li>
 														<li id="su-post-6642" class="su-post"><a
@@ -1189,28 +1189,28 @@
 																href="allahabad-high-court-sjm-jobs/">Allahabad
 																High Court Recruitment 2020 Application Form SJM
 																Post</a>
-															<span style="color:#ab183d">Last Date: 6 November 2020
+															<span style="color:#333333">Last Date: 6 November 2020
 															</span>
 														</li>
 														<li id="su-post-8670" class="su-post"><a
 																href="agcghc-recruitment/">AGCGHC
 																Recruitment 2020 Apply Asst Librarian, Typist 15
 																Post</a>
-															<span style="color:#ab183d">Last Date: 22 September 2020
+															<span style="color:#333333">Last Date: 22 September 2020
 															</span>
 														</li>
 														<li id="su-post-8549" class="su-post"><a
 																href="mp-high-court-jobs-vacancy/">MP
 																High Court Civil Judge Recruitment 2020 Apply CJ 252
 																Post</a>
-															<span style="color:#ab183d">Last Date: 5 November 2020
+															<span style="color:#333333">Last Date: 5 November 2020
 															</span>
 														</li>
 														<li id="su-post-8265" class="su-post"><a
 																href="gauhati-high-court-driver-recruitment/">Gauhati
 																High Court Driver Recruitment 2020 Apply Chauffeur
 																Post</a>
-															<span style="color:#ab183d">Last Date: 12 September 2020
+															<span style="color:#333333">Last Date: 12 September 2020
 															</span>
 														</li>
 														<li id="su-post-6671" class="su-post"><a
@@ -1221,7 +1221,7 @@
 														<li id="su-post-5608" class="su-post"><a
 																href="kerala-high-court-vacancy/">Kerala
 																High Court Munsiff Magistrate Recruitment 2020 Apply</a>
-															<span style="color:#ab183d">Last Date: 4 August 2020 </span>
+															<span style="color:#333333">Last Date: 4 August 2020 </span>
 														</li>
 														<li id="su-post-10" class="su-post"><a
 																href="allahabad-hc-ro-ca-sep19/">Allahabad
@@ -1231,22 +1231,22 @@
 																href="mp-high-court-recruitment/">MP
 																High Court Group D Recruitment 2020 MPHC Group D
 																Post</a>
-															<span style="color:#ab183d">Last Date: 10 July 2020 </span>
+															<span style="color:#333333">Last Date: 10 July 2020 </span>
 														</li>
 														<li id="su-post-4845" class="su-post"><a
 																href="rajasthan-high-court-job/">Rajasthan
 																High Court Recruitment 2020 Legal Researcher Post</a>
-															<span style="color:#ab183d">Last Date: 26 June 2020 </span>
+															<span style="color:#333333">Last Date: 26 June 2020 </span>
 														</li>
 														<li id="su-post-3444" class="su-post"><a
 																href="allahabad-high-court/">Allahabad
 																High Court Magistrate Recruitment 2020 Application</a>
-															<span style="color:#ab183d">Last Date: 5 May 2020 </span>
+															<span style="color:#333333">Last Date: 5 May 2020 </span>
 														</li>
 														<li id="su-post-2958" class="su-post"><a
 																href="rajasthan-high-court-vacancy/">Rajasthan
 																High Court Clerk Recruitment 2020 Apply Online</a>
-															<span style="color:#ab183d">Last Date: 27 April 2020 </span>
+															<span style="color:#333333">Last Date: 27 April 2020 </span>
 														</li>
 														<li id="su-post-2586" class="su-post"><a
 																href="patna-high-court-jobs/">Patna
@@ -1259,18 +1259,18 @@
 														<li id="su-post-2446" class="su-post"><a
 																href="patna-high-court-vacancy/">Patna
 																High Court District Judge Recruitment 2020 Apply Now</a>
-															<span style="color:#ab183d">Last Date: 21 March 2020 </span>
+															<span style="color:#333333">Last Date: 21 March 2020 </span>
 														</li>
 														<li id="su-post-2076" class="su-post"><a
 																href="mp-high-court/">MP
 																High Court Recruitment 2020 Computer Operator 19
 																Post</a>
-															<span style="color:#ab183d">Last Date: 16 March 2020 </span>
+															<span style="color:#333333">Last Date: 16 March 2020 </span>
 														</li>
 														<li id="su-post-1817" class="su-post"><a
 																href="rajasthan-high-court-jobs/">Rajasthan
 																High Court Stenographer Recruitment 2020 Apply</a>
-															<span style="color:#ab183d">Last Date: 28 February 2020
+															<span style="color:#333333">Last Date: 28 February 2020
 															</span>
 														</li>
 														<li id="su-post-1739" class="su-post"><a

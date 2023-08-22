@@ -20,17 +20,17 @@
 											<li id="su-post-163924" class="su-post"><a
 													href="indian-navy-draughtsman-notification.php">Indian
 													Navy Draughtsman Recruitment 2023 Application Form 258 Post</a>
-												<span style="color:#ab183d">Last Date: 60 Days </span>
+												<span style="color:#333333">Last Date: 60 Days </span>
 											</li>
 											<li id="su-post-136544" class="su-post"><a
 													href="indian-airforce-agniveer-apply-online.php">Indian
 													Airforce Agniveer Recruitment 2023, Apply Online, Exam Date</a>
-												<span style="color:#ab183d">Last Date: 31 March 2023 </span>
+												<span style="color:#333333">Last Date: 31 March 2023 </span>
 											</li>
 											<li id="su-post-163477" class="su-post"><a
 													href="afms-recruitment-2.php">AFMS
 													Recruitment 2023 Apply Online Medical Officer 650 Post</a>
-												<span style="color:#ab183d">Last Date: 10 September 2023 </span>
+												<span style="color:#333333">Last Date: 10 September 2023 </span>
 											</li>
 										</ul>
 									</marquee><br />
@@ -40,17 +40,17 @@
 											<li id="su-post-162949" class="su-post"><a
 													href="rajasthan-high-court-stenographer-recruitment.php">Rajasthan
 													High Court Stenographer Recruitment 2023 Apply Now 277 Post</a>
-												<span style="color:#ab183d">Last Date: 30 August 2023 </span>
+												<span style="color:#333333">Last Date: 30 August 2023 </span>
 											</li>
 											<li id="su-post-163251" class="su-post"><a
 													href="patna-high-court-stenographer-recruitment.php">Patna
 													High Court Stenographer Recruitment 2023 Apply Now 51 Post</a>
-												<span style="color:#ab183d">Last Date: 24 August 2023 </span>
+												<span style="color:#333333">Last Date: 24 August 2023 </span>
 											</li>
 											<li id="su-post-162209" class="su-post"><a
 													href="delhi-high-court-hjs-recruitment-2023.php">Delhi
 													High Court HJS Recruitment 2023 Apply Now 16 Post</a>
-												<span style="color:#ab183d">Last Date: 29 July 2023 </span>
+												<span style="color:#333333">Last Date: 29 July 2023 </span>
 											</li>
 										</ul>
 									</marquee><br />
@@ -60,17 +60,17 @@
 											<li id="su-post-164210" class="su-post"><a
 													href="karnataka-bank-po-acs-notification.php">Karnataka
 													Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
-												<span style="color:#ab183d">Last Date: 26 August 2023 </span>
+												<span style="color:#333333">Last Date: 26 August 2023 </span>
 											</li>
 											<li id="su-post-163690" class="su-post"><a
 													href="cosmos-bank-notification.php">Cosmos
 													Bank Recruitment 2023 Apply Officer, Asst Manager 220 Post</a>
-												<span style="color:#ab183d">Last Date: 11 August 2023 </span>
+												<span style="color:#333333">Last Date: 11 August 2023 </span>
 											</li>
 											<li id="su-post-163485" class="su-post"><a
 													href="nainital-bank-notification.php">Nainital
 													Bank MT Recruitment 2023 Apply Now Clerk 110 Post</a>
-												<span style="color:#ab183d">Last Date: 27 August 2023 </span>
+												<span style="color:#333333">Last Date: 27 August 2023 </span>
 											</li>
 										</ul>
 									</marquee><br />
@@ -235,140 +235,140 @@
 																			href="isec-walk-in-interview-for-listers-mappers-post.php">ISEC
 																			Recruitment 2023 Walk In Interview for
 																			Listers, Mappers Post</a>
-																		<span style="color:#ab183d">Last Date: 18 August
+																		<span style="color:#333333">Last Date: 18 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164210" class="su-post"><a
 																			href="karnataka-bank-po-acs-notification.php">Karnataka
 																			Bank Recruitment 2023 Apply Online PO, ACS,
 																			Officer Post</a>
-																		<span style="color:#ab183d">Last Date: 26 August
+																		<span style="color:#333333">Last Date: 26 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164205" class="su-post"><a
 																			href="gbpuat-teaching-personnel-job.php">GBPUAT
 																			Recruitment 2023 Apply Teaching Personnel 22
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164208" class="su-post"><a
 																			href="cag-administrative-assistant-recruitment.php">CAG
 																			Administrative Assistant Recruitment 2023
 																			Apply Now 1773 Post</a>
-																		<span style="color:#ab183d">Last Date: 17
+																		<span style="color:#333333">Last Date: 17
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164184" class="su-post"><a
 																			href="spices-board-india.php">Spices
 																			Board Recruitment 2023 Executive, Trade
 																			Analyst 15 Post</a>
-																		<span style="color:#ab183d">Last Date: 9
+																		<span style="color:#333333">Last Date: 9
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164180" class="su-post"><a
 																			href="iiit-allahabad-asst-professor-job.php">IIIT
 																			Allahabad Recruitment 2023 Apply Asst
 																			Professor 18 Post</a>
-																		<span style="color:#ab183d">Last Date: 7
+																		<span style="color:#333333">Last Date: 7
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164159" class="su-post"><a
 																			href="bihar-stet-2023-notification-out.php">Bihar
 																			STET 2023 Notification, Eligibility,
 																			Application Form, Exam Date</a>
-																		<span style="color:#ab183d">Last Date: 28 August
+																		<span style="color:#333333">Last Date: 28 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164153" class="su-post"><a
 																			href="midc-asst-officer-typist-job.php">MIDC
 																			Recruitment 2023 Apply Online Asst, Officer,
 																			Typist 795 Post</a>
-																		<span style="color:#ab183d">Last Date: 25
+																		<span style="color:#333333">Last Date: 25
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164140" class="su-post"><a
 																			href="bel-ghaziabad-deputy-engineer-recruitment.php">BEL
 																			Ghaziabad Deputy Engineer Recruitment 2023
 																			Apply Now 34 Post</a>
-																		<span style="color:#ab183d">Last Date: 9
+																		<span style="color:#333333">Last Date: 9
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164099" class="su-post"><a
 																			href="aiims-bathinda-group-a-b-c-job.php">AIIMS
 																			Bathinda Recruitment 2023 Apply Online Group
 																			A, B, C 35 Post</a>
-																		<span style="color:#ab183d">Last Date: 11
+																		<span style="color:#333333">Last Date: 11
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164126" class="su-post"><a
 																			href="kondagaon-district-recruitment.php">Kondagaon
 																			District Recruitment 2023 Officer, Manager,
 																			Asst 20 Post</a>
-																		<span style="color:#ab183d">Last Date: 2
+																		<span style="color:#333333">Last Date: 2
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164115" class="su-post"><a
 																			href="aiesl-aircraft-technician-recruitment.php">AIESL
 																			Aircraft Technician Recruitment 2023 Apply
 																			57 Posts</a>
-																		<span style="color:#ab183d">Last Date: 21 August
+																		<span style="color:#333333">Last Date: 21 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164090" class="su-post"><a
 																			href="jpsc-civil-judge-notification.php">JPSC
 																			Civil Judge Recruitment 2023 Apply Now 138
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 21
+																		<span style="color:#333333">Last Date: 21
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164100" class="su-post"><a
 																			href="opsc-medical-officer-notification.php">OPSC
 																			Medical Officer Recruitment 2023 Apply Now
 																			7276 Posts</a>
-																		<span style="color:#ab183d">Last Date: 18
+																		<span style="color:#333333">Last Date: 18
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164083" class="su-post"><a
 																			href="bmc-stenographer-recruitment.php">BMC
 																			Stenographer Recruitment 2023 Apply Now 226
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 4
+																		<span style="color:#333333">Last Date: 4
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164074" class="su-post"><a
 																			href="bel-panchkula-engineer-job.php">BEL
 																			Panchkula Recruitment 2023 Apply Online
 																			Engineer 57 Post</a>
-																		<span style="color:#ab183d">Last Date: 26 August
+																		<span style="color:#333333">Last Date: 26 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164073" class="su-post"><a
 																			href="mdl-non-executive-notification.php">MDL
 																			Non-Executive Recruitment 2023 Driver,
 																			Translator 531 Post</a>
-																		<span style="color:#ab183d">Last Date: 21 August
+																		<span style="color:#333333">Last Date: 21 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-164042" class="su-post"><a
 																			href="bau-non-teaching-recruitment.php">BAU
 																			Non-Teaching Recruitment 2023 Clerk,
 																			Attendant, Manager 82 Post</a>
-																		<span style="color:#ab183d">Last Date: 4
+																		<span style="color:#333333">Last Date: 4
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164043" class="su-post"><a
 																			href="mecl-executive-non-executive-job.php">MECL
 																			Recruitment 2023 Apply Executive, Non
 																			Executive 94 Post</a>
-																		<span style="color:#ab183d">Last Date: 13
+																		<span style="color:#333333">Last Date: 13
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-164031" class="su-post"><a
 																			href="upsrlm-up-bc-sakhi-recruitment.php">UPSRLM
 																			UP BC Sakhi Recruitment 2023 Apply Online
 																			Form 1544 Post</a>
-																		<span style="color:#ab183d">Last Date: 26 August
+																		<span style="color:#333333">Last Date: 26 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -717,35 +717,35 @@
 																			href="karnataka-bank-po-acs-notification.php">Karnataka
 																			Bank Recruitment 2023 Apply Online PO, ACS,
 																			Officer Post</a>
-																		<span style="color:#ab183d">Last Date: 26 August
+																		<span style="color:#333333">Last Date: 26 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163690" class="su-post"><a
 																			href="cosmos-bank-notification.php">Cosmos
 																			Bank Recruitment 2023 Apply Officer, Asst
 																			Manager 220 Post</a>
-																		<span style="color:#ab183d">Last Date: 11 August
+																		<span style="color:#333333">Last Date: 11 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163485" class="su-post"><a
 																			href="nainital-bank-notification.php">Nainital
 																			Bank MT Recruitment 2023 Apply Now Clerk 110
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 27 August
+																		<span style="color:#333333">Last Date: 27 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163097" class="su-post"><a
 																			href="ibps-notification.php">IBPS
 																			PO Recruitment 2023 Notification PO/MT XIII
 																			3049 Post</a>
-																		<span style="color:#ab183d">Last Date: 21 August
+																		<span style="color:#333333">Last Date: 21 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163079" class="su-post"><a
 																			href="ibps-so-2023-notification.php">IBPS
 																			SO 2023 Notification Apply For 1402 Posts,
 																			Eligibility, Exam Date</a>
-																		<span style="color:#ab183d">Last Date: 21 August
+																		<span style="color:#333333">Last Date: 21 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -780,21 +780,21 @@
 																			href="indian-navy-draughtsman-notification.php">Indian
 																			Navy Draughtsman Recruitment 2023
 																			Application Form 258 Post</a>
-																		<span style="color:#ab183d">Last Date: 60 Days
+																		<span style="color:#333333">Last Date: 60 Days
 																		</span>
 																	</li>
 																	<li id="su-post-136544" class="su-post"><a
 																			href="indian-airforce-agniveer-apply-online.php">Indian
 																			Airforce Agniveer Recruitment 2023, Apply
 																			Online, Exam Date</a>
-																		<span style="color:#ab183d">Last Date: 31 March
+																		<span style="color:#333333">Last Date: 31 March
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163477" class="su-post"><a
 																			href="afms-recruitment-2.php">AFMS
 																			Recruitment 2023 Apply Online Medical
 																			Officer 650 Post</a>
-																		<span style="color:#ab183d">Last Date: 10
+																		<span style="color:#333333">Last Date: 10
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163437" class="su-post"><a
@@ -806,7 +806,7 @@
 																			href="indian-navy-ssc-executive-it-recruitment.php">Indian
 																			Navy SSC Executive IT Recruitment 2023 Apply
 																			Now 35 Post</a>
-																		<span style="color:#ab183d">Last Date: 20 August
+																		<span style="color:#333333">Last Date: 20 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -841,35 +841,35 @@
 																			href="wb-postal-circle-notification.php">WB
 																			Postal Circle GDS Recruitment 2023 Apply Now
 																			2127 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163800" class="su-post"><a
 																			href="tn-postal-circle-notification.php">TN
 																			Postal Circle GDS Recruitment 2023 Apply
 																			Online 2994 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163796" class="su-post"><a
 																			href="uttarakhand-postal-circle-notification.php">Uttarakhand
 																			Postal Circle GDS Recruitment 2023 Apply Now
 																			519 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163790" class="su-post"><a
 																			href="telangana-postal-circle-notification.php">Telangana
 																			Postal Circle GDS Recruitment 2023 Apply
 																			Online 961 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163785" class="su-post"><a
 																			href="kerala-postal-circle-notification.php">Kerala
 																			Postal Circle GDS Recruitment 2023 Apply Now
 																			1508 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -907,35 +907,35 @@
 																			href="rajasthan-high-court-stenographer-recruitment.php">Rajasthan
 																			High Court Stenographer Recruitment 2023
 																			Apply Now 277 Post</a>
-																		<span style="color:#ab183d">Last Date: 30 August
+																		<span style="color:#333333">Last Date: 30 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163251" class="su-post"><a
 																			href="patna-high-court-stenographer-recruitment.php">Patna
 																			High Court Stenographer Recruitment 2023
 																			Apply Now 51 Post</a>
-																		<span style="color:#ab183d">Last Date: 24 August
+																		<span style="color:#333333">Last Date: 24 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-162209" class="su-post"><a
 																			href="delhi-high-court-hjs-recruitment-2023.php">Delhi
 																			High Court HJS Recruitment 2023 Apply Now 16
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 29 July
+																		<span style="color:#333333">Last Date: 29 July
 																			2023 </span>
 																	</li>
 																	<li id="su-post-162103" class="su-post"><a
 																			href="rajasthan-high-court-jpa-recruitment.php">Rajasthan
 																			High Court JPA Recruitment 2023 Jr Personal
 																			Asst 59 Post</a>
-																		<span style="color:#ab183d">Last Date: 3 August
+																		<span style="color:#333333">Last Date: 3 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-161225" class="su-post"><a
 																			href="madras-high-court-district-judge-recruitment.php">Madras
 																			High Court Recruitment 2023 Apply District
 																			Judge 50 Post</a>
-																		<span style="color:#ab183d">Last Date: 31 July
+																		<span style="color:#333333">Last Date: 31 July
 																			2023 </span>
 																	</li>
 																</ul>
@@ -970,35 +970,35 @@
 																			href="khordha-court-recruitment.php">Khordha
 																			Court Recruitment 2023 Apply Now Group C 39
 																			Post</a>
-																		<span style="color:#ab183d">Last Date: 1
+																		<span style="color:#333333">Last Date: 1
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163122" class="su-post"><a
 																			href="gurdaspur-court-stenographer-recruitment.php">Gurdaspur
 																			Court Stenographer Recruitment 2023 Apply
 																			Form 12 Post</a>
-																		<span style="color:#ab183d">Last Date: 14 August
+																		<span style="color:#333333">Last Date: 14 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-160746" class="su-post"><a
 																			href="bilaspur-court-driver-recruitment.php">Bilaspur
 																			Court Recruitment 2023 Waterman, Driver,
 																			Sweeper 16 Post</a>
-																		<span style="color:#ab183d">Last Date: 10 July
+																		<span style="color:#333333">Last Date: 10 July
 																			2023 </span>
 																	</li>
 																	<li id="su-post-159973" class="su-post"><a
 																			href="raigarh-court-peon-driver-job.php">District
 																			Court Raigarh Recruitment 2023 Apply Peon,
 																			Driver Post</a>
-																		<span style="color:#ab183d">Last Date: 24 June
+																		<span style="color:#333333">Last Date: 24 June
 																			2023 </span>
 																	</li>
 																	<li id="su-post-159758" class="su-post"><a
 																			href="namakkal-court-peon-recruitment.php">Namakkal
 																			Court Recruitment 2023 Asst, Peon,
 																			Receptionist Post</a>
-																		<span style="color:#ab183d">Last Date: 16 June
+																		<span style="color:#333333">Last Date: 16 June
 																			2023 </span>
 																	</li>
 																</ul>
@@ -1034,35 +1034,35 @@
 																			href="aiims-bathinda-group-a-b-c-job.php">AIIMS
 																			Bathinda Recruitment 2023 Apply Online Group
 																			A, B, C 35 Post</a>
-																		<span style="color:#ab183d">Last Date: 11
+																		<span style="color:#333333">Last Date: 11
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-161360" class="su-post"><a
 																			href="aiims-bhubaneswar-group-b-job.php">AIIMS
 																			Bhubaneswar Recruitment 2023 Apply Group B,
 																			C 775 Post</a>
-																		<span style="color:#ab183d">Last Date: 31 July
+																		<span style="color:#333333">Last Date: 31 July
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163857" class="su-post"><a
 																			href="aiims-mangalgiri-recruitment.php">AIIMS
 																			Mangalgiri Recruitment 2023 Apply Now Non
 																			Faculty 70 Post</a>
-																		<span style="color:#ab183d">Last Date: 5
+																		<span style="color:#333333">Last Date: 5
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163608" class="su-post"><a
 																			href="aiims-norcet-recruitment.php">AIIMS
 																			NORCET Recruitment 2023 Apply Now Nursing
 																			Officer Post</a>
-																		<span style="color:#ab183d">Last Date: 25 August
+																		<span style="color:#333333">Last Date: 25 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163051" class="su-post"><a
 																			href="aiims-raebareli-jr-resident-job.php">AIIMS
 																			Raebareli Recruitment 2023 Apply Junior
 																			Resident 40 Post</a>
-																		<span style="color:#ab183d">Last Date: 16 August
+																		<span style="color:#333333">Last Date: 16 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -1100,35 +1100,35 @@
 																			href="iiit-allahabad-asst-professor-job.php">IIIT
 																			Allahabad Recruitment 2023 Apply Asst
 																			Professor 18 Post</a>
-																		<span style="color:#ab183d">Last Date: 7
+																		<span style="color:#333333">Last Date: 7
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163969" class="su-post"><a
 																			href="goa-psc-associate-professor-vacancy.php">Goa
 																			PSC Recruitment 2023 Advisor, Lecturer,
 																			Professor 35 Post</a>
-																		<span style="color:#ab183d">Last Date: 25
+																		<span style="color:#333333">Last Date: 25
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-162425" class="su-post"><a
 																			href="emrs-non-teaching-recruitment.php">EMRS
 																			Non-Teaching Recruitment 2023 TGT, Hostel
 																			Warden 6329 Post</a>
-																		<span style="color:#ab183d">Last Date: 18 August
+																		<span style="color:#333333">Last Date: 18 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163884" class="su-post"><a
 																			href="nsut-faculty-apply-online.php">NSUT
 																			Faculty Recruitment 2023 Apply Now Asst
 																			Professor 322 Post</a>
-																		<span style="color:#ab183d">Last Date: 31 August
+																		<span style="color:#333333">Last Date: 31 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163089" class="su-post"><a
 																			href="iiser-berhampur-faculty-job.php">IISER
 																			Berhampur Recruitment 2023 Application Form
 																			Faculty 15 Post</a>
-																		<span style="color:#ab183d">Last Date: 23 August
+																		<span style="color:#333333">Last Date: 23 August
 																			2023 </span>
 																	</li>
 																</ul>
@@ -1163,7 +1163,7 @@
 																			href="hssc-cet-group-d-recruitment-2023.php">Haryana
 																			CET Group D Recruitment 2023 Online Form for
 																			13536 Post Notification</a>
-																		<span style="color:#ab183d">Last Date: 30 June
+																		<span style="color:#333333">Last Date: 30 June
 																			2023 </span>
 																	</li>
 																	<li id="su-post-113736" class="su-post"><a
@@ -1180,14 +1180,14 @@
 																			href="hssc-scientific-staff-recruitment.php">HSSC
 																			Scientific Staff Recruitment 2022 Apply
 																			Online Form 53 Post</a>
-																		<span style="color:#ab183d">Last Date: 26
+																		<span style="color:#333333">Last Date: 26
 																			October 2022 </span>
 																	</li>
 																	<li id="su-post-109112" class="su-post"><a
 																			href="hssc-law-officer-recruitment.php">HSSC
 																			Law Officer Recruitment 2022 Apply Online 20
 																			Posts</a>
-																		<span style="color:#ab183d">Last Date: 21 August
+																		<span style="color:#333333">Last Date: 21 August
 																			2022 </span>
 																	</li>
 																</ul>
@@ -1222,35 +1222,35 @@
 																			href="east-coast-railway-alp-recruitment-2023.php">East
 																			Coast Railway Recruitment 2023 ALP, Manager,
 																			Tech 781 Post</a>
-																		<span style="color:#ab183d">Last Date: 4
+																		<span style="color:#333333">Last Date: 4
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163777" class="su-post"><a
 																			href="south-western-railway-job.php">South
 																			Western Railway Recruitment 2023 Technician,
 																			JE, ALP Post</a>
-																		<span style="color:#ab183d">Last Date: 2
+																		<span style="color:#333333">Last Date: 2
 																			September 2023 </span>
 																	</li>
 																	<li id="su-post-163653" class="su-post"><a
 																			href="rrc-eastern-railway-notification.php">Eastern
 																			Railway Recruitment 2023 Tech, ALP, JE,
 																			Guard 689 Post</a>
-																		<span style="color:#ab183d">Last Date: 30 August
+																		<span style="color:#333333">Last Date: 30 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163634" class="su-post"><a
 																			href="ncl-hemm-operator-recruitment.php">NCL
 																			HEMM Operator Recruitment 2023 Apply Online
 																			Trainee 338 Post</a>
-																		<span style="color:#ab183d">Last Date: 2 August
+																		<span style="color:#333333">Last Date: 2 August
 																			2023 </span>
 																	</li>
 																	<li id="su-post-163257" class="su-post"><a
 																			href="central-railway-apply-je-tech-alp-1303-post.php">Central
 																			Railway Recruitment 2023 Apply JE, Tech, ALP
 																			1303 Post</a>
-																		<span style="color:#ab183d">Last Date: 2
+																		<span style="color:#333333">Last Date: 2
 																			Sptember 2023 </span>
 																	</li>
 																</ul>
