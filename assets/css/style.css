@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+.generate-back-to-top{
+    background-color: #4285f4 !important;
+}
+
 .wp-block-archives {
     box-sizing: border-box
 }
@@ -6261,7 +6265,7 @@ nav.toggled ul ul.sub-menu {
 }
 
 .su-column-size-1-4 {
-    width: 24.6%
+    width: 33%;
 }
 
 .su-column-size-3-4 {
