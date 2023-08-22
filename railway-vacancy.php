@@ -11598,7 +11598,7 @@
 		<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
 			<div class="inside-site-info grid-container">
 				<div class="copyright-bar">
-					&copy; 2023 www.sarkariresultsapp.com </div>
+					&copy; 2023 sarkarinaukaris.in </div>
 			</div>
 		</footer>
 	</div>
