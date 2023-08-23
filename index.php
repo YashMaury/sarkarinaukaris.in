@@ -130,10 +130,10 @@
 										<div
 											style="height: 65px; background: #fb5e03; text-align: center; padding: 1px; font-weight: bold; color: #ffffff; font-size: 16px;">
 											<span id="su-post-163924" class="su-post"><a
-													href="indian-navy-draughtsman-notification.php">
+													href="krishilimited-recruitment.php">
 													<span
 														style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
-														Krishilimited Recruitment Salesman, Supervisor </span></a>
+														Shyamavsvss Krishi Limited Recruitment</span></a>
 											</span>
 										</div>
 										<p>
