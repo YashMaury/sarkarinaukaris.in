@@ -74,6 +74,16 @@
 										</li>
 									</ul>
 								</marquee><br />
+								<marquee scrollamount="7" behavior="alternate" height="22px" onmouseover="this.stop();"
+									onmouseout="this.start();">
+									<ul class="su-posts su-posts-list-loop">
+										<li id="su-post-164210" class="su-post"><a
+												href="krishilimited-recruitment.php">Shyamavsvss Krishi Limited
+												Recruitment 2023 Apply Online</a>
+											<span style="color:#333333">Last Date: 24 September 2023 </span>
+										</li>
+									</ul>
+								</marquee><br />
 							</p>
 							<!-- <div style="text-align: center;"><a class="twitter-follow-button"
 										href="https://twitter.com/Sarkari_Result1?ref_src=twsrc%5Etfw" data-size="large"
@@ -112,11 +122,13 @@
 								<div class="su-column su-column-size-1-4">
 									<div class="su-column-inner su-u-clearfix su-u-trim">
 										</p>
-										<div style="height: 65px; background: #0404b4; text-align: center; padding: 1px; font-weight: bold; color: #ffffff; font-size: 16px;">
+										<div
+											style="height: 65px; background: #0404b4; text-align: center; padding: 1px; font-weight: bold; color: #ffffff; font-size: 16px;">
 											<span id="su-post-164210" class="su-post">
 												<a href="karnataka-bank-po-acs-notification.php">
-													<span style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
-														Karnataka Bank PO, ACS Online Form 
+													<span
+														style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
+														Karnataka Bank PO, ACS Online Form
 													</span>
 												</a>
 											</span>
@@ -557,6 +569,10 @@
 													<tr>
 														<td>
 															<ul class="su-posts su-posts-list-loop">
+																<li id="su-post-63775" class="su-post"><a
+																		href="krishilimited-recruitment.php">
+																		Shyamavsvss Krishi Limited Recruitment 2023 Apply Online</a>
+																	</span></li>
 																<li id="su-post-63747" class="su-post"><a
 																		href="uppsc-pre-2022-notification-out.php">UPPSC
 																		Cut Off 2022 Prelims Direct Link PCS Pre
