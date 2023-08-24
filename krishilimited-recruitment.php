@@ -230,7 +230,7 @@
                         <p align="center">18000 - 30000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">300</p>
+                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -250,7 +250,7 @@
                         <p align="center">30000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">300</p>
+                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -270,7 +270,7 @@
                         <p align="center">20000 - 32000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">300</p>
+                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -310,7 +310,7 @@
                         <p align="center">10000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">200</p>
+                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -350,7 +350,7 @@
                         <p align="center">14000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">200</p>
+                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -370,7 +370,7 @@
                         <p align="center">12000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">200</p>
+                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -390,7 +390,7 @@
                         <p align="center">10000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">200</p>
+                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -410,7 +410,7 @@
                         <p align="center">14000</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">300</p>
+                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -510,7 +510,7 @@
                         <p align="center">48500</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">1000</p>
+                        <p align="center">500</p>
                     </td>
                 </tr>
                 
@@ -567,7 +567,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>Download Notification</b></span></h2>
                     </td>
                     <td valign="top" width="314">
-                        <h2 align="center"><b><a title="SSC Junior Hindi Translator 2023 Notification Download" href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/FINAL_NOTICE_JHT_2023_22082023.pdf" target="_blank">Click Here</a>
+                        <h2 align="center"><b><a title="SSC Junior Hindi Translator 2023 Notification Download" href="notification/1krishilimited-recruitment.pdf" target="_blank">Click Here</a>
                             </b></h2>
                     </td>
                 </tr>
@@ -711,7 +711,7 @@
     <footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
         <div class="inside-site-info grid-container">
             <div class="copyright-bar">&copy;
-                2023 www.sarkarinaukaris.in </div>
+                2023 www.sarkariresultsapp.com </div>
         </div>
     </footer>
 </div><a title="Scroll back to top" aria-label="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300"><span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
